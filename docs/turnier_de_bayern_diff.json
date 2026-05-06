@@ -1,0 +1,137 @@
+{
+  "5": {
+    "teilnehmer": [
+      87
+    ],
+    "konkurrenzen": [
+      28
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-05-10T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 4. Mai 2026 16:10 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-04T14:10:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1777903800000
+    ],
+    "halle": [
+      "TSV Rothseehalle"
+    ],
+    "halleAdresse": [
+      "Altenfeldener Str. 16, 90584 Allersberg [07-0003]"
+    ]
+  },
+  "7": {
+    "teilnehmer": [
+      104
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "disziplinen": [
+      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-05-10T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Dienstag, 5. Mai 2026 17:19 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-05T15:19:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1777994340000
+    ],
+    "halle": [
+      "Eichenwaldhalle"
+    ],
+    "halleAdresse": [
+      "Am Eichenwald, 86356 Neusäß"
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      190
+    ],
+    "konkurrenzen": [
+      50
+    ],
+    "disziplinen": [
+      "35+: MS/WS/MD/WD/XD | 40+: MS/WS/MD/WD/XD | 45+: MS/WS/MD/WD/XD | 50+: MS/WS/MD/WD/XD | 55+: MS/WS/MD/WD/XD | 60+: MS/WS/MD/WD/XD | 65+: MS/WS/MD/WD/XD | 70+: MS/WS/MD/WD/XD | 75+: MS/WS/MD/WD/XD | 80+: MS/WS/MD/WD/XD"
+    ],
+    "meldeschluss": [
+      "2026-03-22T23:59:00+01:00"
+    ],
+    "startTurnier": [
+      "2026-05-15T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-05-17T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 30. März 2026 22:10 (GMT +02:00)"
+    ],
+    "halle": [
+      "Längenholz und Kreissporthalle"
+    ],
+    "halleAdresse": [
+      "71083 Herrenberg"
+    ]
+  },
+  "14": {
+    "teilnehmer": [
+      74
+    ],
+    "konkurrenzen": [
+      6
+    ],
+    "disziplinen": [
+      "14+: MD/WD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-07T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-13T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-14T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 2. Mai 2026 14:37 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-02T12:37:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1777725420000
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing"
+    ],
+    "halleAdresse": [
+      "Papinstraße 22, 81249 München"
+    ]
+  },
+  "_t": "a"
+}

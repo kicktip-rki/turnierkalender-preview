@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Turnierkalender Bayern Badminton</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; background: #f0f4f8; color: #222; }
+
+    header { background: #154360; color: #fff; padding: 1rem 1.5rem; }
+    header h1 { font-size: 1.1rem; font-weight: 600; }
+    header p  { font-size: 0.8rem; opacity: 0.65; margin-top: 0.25rem; }
+
+    main { padding: 1.25rem 1.5rem; }
+
+    .table-wrap { overflow-x: auto; border-radius: 6px; box-shadow: 0 1px 6px rgba(0,0,0,0.12); }
+
+    table { width: 100%; border-collapse: collapse; background: #fff; }
+
+    thead th {
+      background: #1a5276;
+      color: #fff;
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      white-space: nowrap;
+      font-weight: 500;
+      font-size: 0.82rem;
+      letter-spacing: 0.03em;
+      position: sticky;
+      top: 0;
+      cursor: pointer;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    thead th:hover { background: #1f618d; }
+    thead th .sort-icon { margin-left: 0.3em; opacity: 0.6; font-style: normal; }
+
+    tbody td { padding: 0.45rem 0.75rem; border-bottom: 1px solid #e8edf2; vertical-align: top; }
+    tbody tr:hover td { background: #eaf4fb; }
+    tbody tr.vergangen td { opacity: 0.45; }
+
+    td.num { text-align: right; }
+    td.abgelaufen { color: #999; }
+    td.disziplinen { font-size: 0.82rem; color: #555; max-width: 260px; }
+
+    a { color: #1a5276; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .keine-daten { padding: 2rem; color: #999; text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Turnierkalender – Bayerischer Badminton-Verband</h1>
+    <p>Stand: 6.5.2026, 08:04:49 &nbsp;·&nbsp; 19 Turniere</p>
+  </header>
+  <main>
+    <div class="table-wrap">
+      <table id="turniere">
+        <thead>
+          <tr>
+            <th>Datum</th>
+            <th>Turnier</th>
+            <th>Ort</th>
+            <th>Altersklassen</th>
+            <th>TN</th>
+            <th>Disziplinen</th>
+            <th>Meldeschluss</th>
+            <th>Letzte Änderung</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=14ACCE57-2E1B-4CE2-BB42-A4C65FD6D859" target="_blank" rel="noopener">Bezirksmeisterschaft Oerbayern U11-U19 Neuried 2026</a></td>
+    <td>Neuried</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="151">151</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-04T19:28:00.000Z">04.05.2026, 21:28</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=1DC43DD0-EA31-4FEA-9B09-5A95A5356D5D" target="_blank" rel="noopener">Bezirksmeisterschaft Niederbayern-Oberpfalz U9-U19 Regensburg 2026</a></td>
+    <td>Regensburg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="84">84</td>
+    <td class="disziplinen">U9: BS/BD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-03T08:13:00.000Z">03.05.2026, 10:13</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=B0D43CDC-019F-4704-ABF9-8CC1D2242477" target="_blank" rel="noopener">Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026</a></td>
+    <td>Marktheidenfeld</td>
+    <td>U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="59">59</td>
+    <td class="disziplinen">U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-05T15:13:00.000Z">05.05.2026, 17:13</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=D88E4537-3DBA-47CC-B655-6A06D019CCF3" target="_blank" rel="noopener">BBV Bezirksmeisterschaft Mittelfranken U9-U19 2026</a></td>
+    <td>Allersberg [07-0003]</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="87">87</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-04T14:10:00.000Z">04.05.2026, 16:10</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=D9BF2C56-D709-477C-90FC-09E28E1C817D" target="_blank" rel="noopener">BBV Bezirksmeisterschaft Oberfranken U9-U19 Coburg 2026</a></td>
+    <td>Coburg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="49">49</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-05T17:40:00.000Z">05.05.2026, 19:40</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-09T00:00:00+02:00">09.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=E6FC736C-730B-4647-BD8A-90B2D8B08A2F" target="_blank" rel="noopener">Bezirksmeisterschaft Schwaben U11-U19 Neusäß 2026</a></td>
+    <td>Neusäß</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="104">104</td>
+    <td class="disziplinen">U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-04-28T23:59:00+02:00" class="abgelaufen">28.04.2026</td>
+    <td data-value="2026-05-05T15:19:00.000Z">05.05.2026, 17:19</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-15T00:00:00+02:00">15.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=AB5632B6-E6E4-4FD8-9BAE-67703379F0DF" target="_blank" rel="noopener">Meldeportal SüdOst zur DM O35-O80 2026</a></td>
+    <td>Herrenberg</td>
+    <td>35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+, 75+, 80+</td>
+    <td class="num" data-value="190">190</td>
+    <td class="disziplinen">35+: MS/WS/MD/WD/XD | 40+: MS/WS/MD/WD/XD | 45+: MS/WS/MD/WD/XD | 50+: MS/WS/MD/WD/XD | 55+: MS/WS/MD/WD/XD | 60+: MS/WS/MD/WD/XD | 65+: MS/WS/MD/WD/XD | 70+: MS/WS/MD/WD/XD | 75+: MS/WS/MD/WD/XD | 80+: MS/WS/MD/WD/XD</td>
+    <td data-value="2026-03-22T23:59:00+01:00" class="abgelaufen">22.03.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-05-16T00:00:00+02:00">16.05.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=2EFF9F98-BE10-4899-9A4E-4A753A47024E" target="_blank" rel="noopener">6. Trevor-Stewart Cup Neubiberg 2026</a></td>
+    <td>Neubiberg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="27">27</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/XD | U15: BS/GS/XD | U17: BS/GS/XD | U19: BS/GS/XD</td>
+    <td data-value="2026-05-05T23:59:00+02:00" class="abgelaufen">05.05.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-06-13T00:00:00+02:00">13.06.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87" target="_blank" rel="noopener">E-RLT HD/DD/MXD (5. Neuaubing Cup BBV ESV Neuaubing) 2026</a></td>
+    <td>München</td>
+    <td>14+</td>
+    <td class="num" data-value="74">74</td>
+    <td class="disziplinen">14+: MD/WD/XD</td>
+    <td data-value="2026-06-07T23:59:00+02:00" class="">07.06.2026</td>
+    <td data-value="2026-05-02T12:37:00.000Z">02.05.2026, 14:37</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-06-20T00:00:00+02:00">20.06.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA" target="_blank" rel="noopener">10. BBV C-RLT U11-U19 Haunstetten 2026</a></td>
+    <td>Haunstetten</td>
+    <td>U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="7">7</td>
+    <td class="disziplinen">U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD</td>
+    <td data-value="2026-06-09T23:59:00+02:00" class="">09.06.2026</td>
+    <td data-value="2025-08-11T17:29:00.000Z">11.08.2025, 19:29</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-06-20T00:00:00+02:00">20.06.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6" target="_blank" rel="noopener">2. BBV E-RTL U9-U19 Niederbayern-Oberpfalz Bodenwöhr 2026</a></td>
+    <td>Bodenwöhr</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="0"></td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD</td>
+    <td data-value="2026-06-09T23:59:00+02:00" class="">09.06.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-06-20T00:00:00+02:00">20.06.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=387AF4AF-5E66-426E-94F8-82CEAA67BCF9" target="_blank" rel="noopener">2. E-RLT BAY Oberfranken U9-U19 Forchheim</a></td>
+    <td>Forchheim</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="3">3</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD</td>
+    <td data-value="2026-06-09T23:59:00+02:00" class="">09.06.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-06-27T00:00:00+02:00">27.06.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=AA237B5E-7943-4BDD-9E2C-D63937097AEE" target="_blank" rel="noopener">13. Youngster-Cup U9-U19 (BBV D-RLT) Augsburg 2026</a></td>
+    <td>Augsburg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="4">4</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD</td>
+    <td data-value="2026-06-16T23:59:00+02:00" class="">16.06.2026</td>
+    <td data-value="2026-04-08T07:41:00.000Z">08.04.2026, 09:41</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-07-04T00:00:00+02:00">04.07.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=80EF6A3F-AA8E-4051-9728-AC4004E47D95" target="_blank" rel="noopener">BBV E-RLT Oberbayern U9-U19 2026 (10. Shuttle-Cup)</a></td>
+    <td>Erdweg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="3">3</td>
+    <td class="disziplinen">U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD</td>
+    <td data-value="2026-06-25T23:59:00+02:00" class="">25.06.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-12-05T00:00:00+01:00">05.12.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106" target="_blank" rel="noopener">Platzhalter 3. E-RLT Niederbayern</a></td>
+    <td>Regensburg</td>
+    <td>U9, U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="0"></td>
+    <td class="disziplinen">U9: MS/WS/MD/WD | U11: MS/WS/MD/WD | U13: MS/WS/MD/WD/XD | U15: MS/WS/MD/WD/XD | U17: MS/WS/MD/WD/XD | U19: MS/WS/MD/WD/XD</td>
+    <td data-value="2026-11-24T23:59:00+01:00" class="">24.11.2026</td>
+    <td data-value=""></td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-11-07T00:00:00+01:00">07.11.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2" target="_blank" rel="noopener">Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026</a></td>
+    <td>Augsburg</td>
+    <td>U13, U13, U15, U17, U19</td>
+    <td class="num" data-value="0"></td>
+    <td class="disziplinen">U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-10-18T23:59:00+02:00" class="">18.10.2026</td>
+    <td data-value="2025-08-02T08:08:00.000Z">02.08.2025, 10:08</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-07-11T00:00:00+02:00">11.07.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428" target="_blank" rel="noopener">Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026</a></td>
+    <td>Marktheidenfeld</td>
+    <td>U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="2">2</td>
+    <td class="disziplinen">U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-06-30T23:59:00+02:00" class="">30.06.2026</td>
+    <td data-value="2025-08-11T17:31:00.000Z">11.08.2025, 19:31</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-07-11T00:00:00+02:00">11.07.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A" target="_blank" rel="noopener">Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026</a></td>
+    <td>Geretsried</td>
+    <td>U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="2">2</td>
+    <td class="disziplinen">U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-06-30T23:59:00+02:00" class="">30.06.2026</td>
+    <td data-value="2025-08-11T17:33:00.000Z">11.08.2025, 19:33</td>
+  </tr>
+          <tr class="">
+    <td data-value="2026-09-26T00:00:00+02:00">26.09.2026</td>
+    <td><a href="https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6" target="_blank" rel="noopener">Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026</a></td>
+    <td>Neumarkt i.d. Oberpfalz</td>
+    <td>U11, U13, U15, U17, U19</td>
+    <td class="num" data-value="0"></td>
+    <td class="disziplinen">U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD</td>
+    <td data-value="2026-09-15T23:59:00+02:00" class="">15.09.2026</td>
+    <td data-value="2025-08-11T17:30:00.000Z">11.08.2025, 19:30</td>
+  </tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+  <script>
+    document.querySelectorAll('#turniere thead th').forEach((th, colIndex) => {
+      th.addEventListener('click', () => {
+        const tbody = th.closest('table').querySelector('tbody');
+        const rows  = [...tbody.rows];
+        const asc   = th.dataset.sortDir !== 'asc';
+
+        document.querySelectorAll('#turniere thead th').forEach((h) => {
+          h.dataset.sortDir = '';
+          const icon = h.querySelector('.sort-icon');
+          if (icon) icon.remove();
+        });
+
+        th.dataset.sortDir = asc ? 'asc' : 'desc';
+        const icon = document.createElement('i');
+        icon.className = 'sort-icon';
+        icon.textContent = asc ? '▲' : '▼';
+        th.appendChild(icon);
+
+        rows.sort((a, b) => {
+          const av = a.cells[colIndex].dataset.value ?? a.cells[colIndex].textContent ?? '';
+          const bv = b.cells[colIndex].dataset.value ?? b.cells[colIndex].textContent ?? '';
+          const diff = av < bv ? -1 : av > bv ? 1 : 0;
+          return asc ? diff : -diff;
+        });
+
+        rows.forEach((r) => tbody.appendChild(r));
+      });
+    });
+  </script>
+</body>
+</html>
