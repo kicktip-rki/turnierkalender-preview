@@ -1,1 +1,47 @@
-null
+{
+  "2": {
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "U11, U13, U15, U17, U19"
+    ],
+    "teilnehmer": [
+      84,
+      76
+    ],
+    "konkurrenzen": [
+      25,
+      20
+    ],
+    "disziplinen": [
+      "U9: BS/BD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/GD/XD",
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS"
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 6. Mai 2026 12:54 (GMT +02:00)",
+      "Donnerstag, 7. Mai 2026 17:44 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-06T10:54:00.000Z",
+      "2026-05-07T15:44:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778064840000,
+      1778168640000
+    ]
+  },
+  "5": {
+    "lastChangedHtml": [
+      "Mittwoch, 6. Mai 2026 21:37 (GMT +02:00)",
+      "Donnerstag, 7. Mai 2026 16:59 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-06T19:37:00.000Z",
+      "2026-05-07T14:59:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778096220000,
+      1778165940000
+    ]
+  },
+  "_t": "a"
+}
