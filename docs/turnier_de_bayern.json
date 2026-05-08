@@ -53,7 +53,7 @@
     "name": "35.Moritzberg-Pokal 2026",
     "datum": "09.05.2026",
     "ort": "Lauf [07-0110]",
-    "veranstalter": "BAY - Laufer SV",
+    "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "Open A, B, C",
     "url": "https://www.turnier.de/sport/tournament?id=9F08F6F8-1B07-442A-9B94-C1093093C306"
   },
@@ -64,7 +64,18 @@
     "ort": "Marktheidenfeld",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=B0D43CDC-019F-4704-ABF9-8CC1D2242477"
+    "url": "https://www.turnier.de/sport/tournament?id=B0D43CDC-019F-4704-ABF9-8CC1D2242477",
+    "teilnehmer": 59,
+    "konkurrenzen": 21,
+    "disziplinen": "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+    "meldeschluss": "2026-04-28T23:59:00+02:00",
+    "startTurnier": "2026-05-09T00:00:00+02:00",
+    "endeTurnier": "2026-05-09T23:59:00+02:00",
+    "lastChangedHtml": "Donnerstag, 7. Mai 2026 23:37 (GMT +02:00)",
+    "lastChangedIso": "2026-05-07T21:37:00.000Z",
+    "lastChangedUnix": 1778189820000,
+    "halle": "Marktheidenfeld",
+    "halleAdresse": "Marktheidenfeld"
   },
   {
     "id": "D88E4537-3DBA-47CC-B655-6A06D019CCF3",

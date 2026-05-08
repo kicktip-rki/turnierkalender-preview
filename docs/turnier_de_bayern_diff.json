@@ -1,73 +1,43 @@
 {
-  "4": {
-    "teilnehmer": [
-      59,
-      0,
-      0
-    ],
-    "konkurrenzen": [
-      21,
-      0,
-      0
-    ],
-    "disziplinen": [
-      "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-05-09T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Donnerstag, 7. Mai 2026 22:10 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2026-05-07T20:10:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1778184600000,
-      0,
-      0
-    ],
-    "halle": [
-      "Marktheidenfeld",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Marktheidenfeld",
-      0,
-      0
+  "3": {
+    "veranstalter": [
+      "BAY - Laufer SV",
+      "Bayerischer Badminton-Verband"
     ]
   },
-  "6": {
+  "4": {
+    "teilnehmer": [
+      59
+    ],
+    "konkurrenzen": [
+      21
+    ],
+    "disziplinen": [
+      "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-05-09T23:59:00+02:00"
+    ],
     "lastChangedHtml": [
-      "Dienstag, 5. Mai 2026 19:40 (GMT +02:00)",
-      "Freitag, 8. Mai 2026 06:07 (GMT +02:00)"
+      "Donnerstag, 7. Mai 2026 23:37 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-05T17:40:00.000Z",
-      "2026-05-08T04:07:00.000Z"
+      "2026-05-07T21:37:00.000Z"
     ],
     "lastChangedUnix": [
-      1778002800000,
-      1778213220000
+      1778189820000
+    ],
+    "halle": [
+      "Marktheidenfeld"
+    ],
+    "halleAdresse": [
+      "Marktheidenfeld"
     ]
   },
   "_t": "a"
