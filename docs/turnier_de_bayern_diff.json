@@ -1,43 +1,34 @@
 {
-  "3": {
-    "veranstalter": [
-      "BAY - Laufer SV",
-      "Bayerischer Badminton-Verband"
-    ]
-  },
-  "4": {
-    "teilnehmer": [
-      59
-    ],
-    "konkurrenzen": [
-      21
-    ],
-    "disziplinen": [
-      "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
-    ],
-    "meldeschluss": [
-      "2026-04-28T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-05-09T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-05-09T23:59:00+02:00"
-    ],
+  "1": {
     "lastChangedHtml": [
-      "Donnerstag, 7. Mai 2026 23:37 (GMT +02:00)"
+      "Montag, 4. Mai 2026 21:28 (GMT +02:00)",
+      "Freitag, 8. Mai 2026 14:38 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-07T21:37:00.000Z"
+      "2026-05-04T19:28:00.000Z",
+      "2026-05-08T12:38:00.000Z"
     ],
     "lastChangedUnix": [
-      1778189820000
+      1777922880000,
+      1778243880000
+    ]
+  },
+  "14": {
+    "teilnehmer": [
+      86,
+      88
     ],
-    "halle": [
-      "Marktheidenfeld"
+    "lastChangedHtml": [
+      "Mittwoch, 6. Mai 2026 19:52 (GMT +02:00)",
+      "Freitag, 8. Mai 2026 14:48 (GMT +02:00)"
     ],
-    "halleAdresse": [
-      "Marktheidenfeld"
+    "lastChangedIso": [
+      "2026-05-06T17:52:00.000Z",
+      "2026-05-08T12:48:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778089920000,
+      1778244480000
     ]
   },
   "_t": "a"
