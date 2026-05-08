@@ -64,18 +64,7 @@
     "ort": "Marktheidenfeld",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=B0D43CDC-019F-4704-ABF9-8CC1D2242477",
-    "teilnehmer": 59,
-    "konkurrenzen": 21,
-    "disziplinen": "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-    "meldeschluss": "2026-04-28T23:59:00+02:00",
-    "startTurnier": "2026-05-09T00:00:00+02:00",
-    "endeTurnier": "2026-05-09T23:59:00+02:00",
-    "lastChangedHtml": "Donnerstag, 7. Mai 2026 22:10 (GMT +02:00)",
-    "lastChangedIso": "2026-05-07T20:10:00.000Z",
-    "lastChangedUnix": 1778184600000,
-    "halle": "Marktheidenfeld",
-    "halleAdresse": "Marktheidenfeld"
+    "url": "https://www.turnier.de/sport/tournament?id=B0D43CDC-019F-4704-ABF9-8CC1D2242477"
   },
   {
     "id": "D88E4537-3DBA-47CC-B655-6A06D019CCF3",
@@ -111,9 +100,9 @@
     "meldeschluss": "2026-04-28T23:59:00+02:00",
     "startTurnier": "2026-05-09T00:00:00+02:00",
     "endeTurnier": "2026-05-09T23:59:00+02:00",
-    "lastChangedHtml": "Dienstag, 5. Mai 2026 19:40 (GMT +02:00)",
-    "lastChangedIso": "2026-05-05T17:40:00.000Z",
-    "lastChangedUnix": 1778002800000,
+    "lastChangedHtml": "Freitag, 8. Mai 2026 06:07 (GMT +02:00)",
+    "lastChangedIso": "2026-05-08T04:07:00.000Z",
+    "lastChangedUnix": 1778213220000,
     "halle": "Pestalozzi Turnhalle",
     "halleAdresse": "Seidmannsdorfer Straße 72, 96450 Coburg"
   },

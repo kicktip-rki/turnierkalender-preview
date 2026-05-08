@@ -1,74 +1,73 @@
 {
-  "2": {
-    "lastChangedHtml": [
-      "Donnerstag, 7. Mai 2026 17:44 (GMT +02:00)",
-      "Donnerstag, 7. Mai 2026 17:51 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-07T15:44:00.000Z",
-      "2026-05-07T15:51:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1778168640000,
-      1778169060000
-    ]
-  },
   "4": {
-    "lastChangedHtml": [
-      "Dienstag, 5. Mai 2026 17:13 (GMT +02:00)",
-      "Donnerstag, 7. Mai 2026 22:10 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-05T15:13:00.000Z",
-      "2026-05-07T20:10:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1777993980000,
-      1778184600000
-    ]
-  },
-  "5": {
-    "altersklassen": [
-      "U9, U11, U13, U15, U17, U19",
-      "U11, U13, U15, U17, U19"
-    ],
     "teilnehmer": [
-      88,
-      86
+      59,
+      0,
+      0
     ],
     "konkurrenzen": [
-      28,
-      18
+      21,
+      0,
+      0
     ],
     "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      "U11: BS | U13: BS/GS/BD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/BD/GD/XD"
+      "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-09T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Donnerstag, 7. Mai 2026 16:59 (GMT +02:00)",
-      "Donnerstag, 7. Mai 2026 19:31 (GMT +02:00)"
+      "Donnerstag, 7. Mai 2026 22:10 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-05-07T14:59:00.000Z",
-      "2026-05-07T17:31:00.000Z"
+      "2026-05-07T20:10:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1778165940000,
-      1778175060000
+      1778184600000,
+      0,
+      0
+    ],
+    "halle": [
+      "Marktheidenfeld",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Marktheidenfeld",
+      0,
+      0
     ]
   },
-  "7": {
+  "6": {
     "lastChangedHtml": [
-      "Mittwoch, 6. Mai 2026 21:02 (GMT +02:00)",
-      "Donnerstag, 7. Mai 2026 22:24 (GMT +02:00)"
+      "Dienstag, 5. Mai 2026 19:40 (GMT +02:00)",
+      "Freitag, 8. Mai 2026 06:07 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-06T19:02:00.000Z",
-      "2026-05-07T20:24:00.000Z"
+      "2026-05-05T17:40:00.000Z",
+      "2026-05-08T04:07:00.000Z"
     ],
     "lastChangedUnix": [
-      1778094120000,
-      1778185440000
+      1778002800000,
+      1778213220000
     ]
   },
   "_t": "a"
