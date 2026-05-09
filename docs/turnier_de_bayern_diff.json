@@ -1,30 +1,143 @@
 {
-  "5": {
+  "1": {
     "lastChangedHtml": [
-      "Freitag, 8. Mai 2026 22:22 (GMT +02:00)",
-      "Freitag, 8. Mai 2026 22:26 (GMT +02:00)"
+      "Freitag, 8. Mai 2026 14:38 (GMT +02:00)",
+      "Samstag, 9. Mai 2026 12:18 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-08T20:22:00.000Z",
-      "2026-05-08T20:26:00.000Z"
+      "2026-05-08T12:38:00.000Z",
+      "2026-05-09T10:18:00.000Z"
     ],
     "lastChangedUnix": [
-      1778271720000,
-      1778271960000
+      1778243880000,
+      1778321880000
+    ]
+  },
+  "2": {
+    "teilnehmer": [
+      74,
+      73
+    ],
+    "lastChangedHtml": [
+      "Freitag, 8. Mai 2026 22:13 (GMT +02:00)",
+      "Samstag, 9. Mai 2026 12:16 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-08T20:13:00.000Z",
+      "2026-05-09T10:16:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778271180000,
+      1778321760000
+    ]
+  },
+  "3": {
+    "veranstalter": [
+      "Bayerischer Badminton-Verband",
+      "BAY - Laufer SV"
+    ]
+  },
+  "4": {
+    "teilnehmer": [
+      59,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      21,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U11: BS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 7. Mai 2026 23:37 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-07T21:37:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778189820000,
+      0,
+      0
+    ],
+    "halle": [
+      "Marktheidenfeld",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Marktheidenfeld",
+      0,
+      0
+    ]
+  },
+  "5": {
+    "lastChangedHtml": [
+      "Freitag, 8. Mai 2026 22:26 (GMT +02:00)",
+      "Samstag, 9. Mai 2026 12:18 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-08T20:26:00.000Z",
+      "2026-05-09T10:18:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778271960000,
+      1778321880000
     ]
   },
   "6": {
+    "teilnehmer": [
+      49,
+      50
+    ],
     "lastChangedHtml": [
-      "Freitag, 8. Mai 2026 06:07 (GMT +02:00)",
-      "Samstag, 9. Mai 2026 06:21 (GMT +02:00)"
+      "Samstag, 9. Mai 2026 06:21 (GMT +02:00)",
+      "Samstag, 9. Mai 2026 12:10 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-08T04:07:00.000Z",
-      "2026-05-09T04:21:00.000Z"
+      "2026-05-09T04:21:00.000Z",
+      "2026-05-09T10:10:00.000Z"
     ],
     "lastChangedUnix": [
-      1778213220000,
-      1778300460000
+      1778300460000,
+      1778321400000
+    ]
+  },
+  "7": {
+    "lastChangedHtml": [
+      "Freitag, 8. Mai 2026 21:39 (GMT +02:00)",
+      "Samstag, 9. Mai 2026 12:22 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-08T19:39:00.000Z",
+      "2026-05-09T10:22:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778269140000,
+      1778322120000
     ]
   },
   "_t": "a"
