@@ -1,17 +1,21 @@
 {
-  "4": {
+  "0": {
+    "name": [
+      "Bezirksmeisterschaft Oerbayern U11-U19 Neuried 2026",
+      "BBV Bezirksmeisterschaft Oberbayern U11-U19 Neuried 2026"
+    ],
     "teilnehmer": [
-      86,
+      151,
       0,
       0
     ],
     "konkurrenzen": [
-      18,
+      28,
       0,
       0
     ],
     "disziplinen": [
-      "U11: BS | U13: BS/GS/BD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/BD/GD/XD",
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
       0,
       0
     ],
@@ -31,35 +35,185 @@
       0
     ],
     "lastChangedHtml": [
-      "Sonntag, 10. Mai 2026 22:20 (GMT +02:00)",
+      "Sonntag, 10. Mai 2026 13:16 (GMT +02:00)",
       0,
       0
     ],
     "lastChangedIso": [
-      "2026-05-10T20:20:00.000Z",
+      "2026-05-10T11:16:00.000Z",
       0,
       0
     ],
     "lastChangedUnix": [
-      1778444400000,
+      1778411760000,
       0,
       0
     ],
     "halle": [
-      "TSV Rothseehalle",
+      "Sporthalle TSV Neuried",
       0,
       0
     ],
     "halleAdresse": [
-      "Altenfeldener Str. 16, 90584 Allersberg [07-0003]",
+      "Am Sportpark 8, 82152 Neuried",
       0,
       0
     ]
   },
-  "25": {
+  "1": {
+    "name": [
+      "Bezirksmeisterschaft Niederbayern-Oberpfalz U9-U19 Regensburg 2026",
+      "BBV Bezirksmeisterschaft Niederbayern-Oberpfalz U9-U19 Regensburg 2026"
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 10. Mai 2026 22:17 (GMT +02:00)",
+      "Montag, 11. Mai 2026 17:02 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-10T20:17:00.000Z",
+      "2026-05-11T15:02:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778444220000,
+      1778511720000
+    ]
+  },
+  "2": {
+    "name": [
+      "35.Moritzbergpokal O19 (BAY) 2026",
+      "35. Moritzbergpokal O19 (BAY) 2026"
+    ]
+  },
+  "3": {
+    "name": [
+      "Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026",
+      "BBV Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 9. Mai 2026 17:23 (GMT +02:00)",
+      "Montag, 11. Mai 2026 16:55 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-09T15:23:00.000Z",
+      "2026-05-11T14:55:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778340180000,
+      1778511300000
+    ]
+  },
+  "6": {
+    "name": [
+      "Bezirksmeisterschaft Schwaben U11-U19 Neusäß 2026",
+      "BBV Bezirksmeisterschaft Schwaben U11-U19 Neusäß 2026"
+    ],
     "teilnehmer": [
-      2,
-      3
+      103,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-10T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 10. Mai 2026 22:11 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-10T20:11:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778443860000,
+      0,
+      0
+    ],
+    "halle": [
+      "Eichenwaldhalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Am Eichenwald, 86356 Neusäß",
+      0,
+      0
+    ]
+  },
+  "7": {
+    "name": [
+      "Bezirks-Einzelmeisterschaft Oberfranken O19 2026",
+      "BBV Bezirks-Einzelmeisterschaft Oberfranken O19 2026"
+    ]
+  },
+  "16": {
+    "teilnehmer": [
+      3,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Samstag, 21. März 2026 17:44 (GMT +01:00)",
+      0,
+      0
+    ],
+    "halle": [
+      "EGF-Dreifachsporthalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Ruhalmstraße 5, 91301 Forchheim",
+      0,
+      0
     ]
   },
   "_t": "a"
