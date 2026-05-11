@@ -1,14 +1,5 @@
 [
   {
-    "id": "B852F2C2-EFF4-4922-A3DE-FAD5E3CF12FD",
-    "name": "8.Ballon_cup",
-    "datum": "02.05.2026",
-    "ort": "Gersthofen",
-    "veranstalter": "BAY - TSV 1909 Gersthofen",
-    "altersklassen": "Open",
-    "url": "https://www.turnier.de/sport/tournament?id=B852F2C2-EFF4-4922-A3DE-FAD5E3CF12FD"
-  },
-  {
     "id": "14ACCE57-2E1B-4CE2-BB42-A4C65FD6D859",
     "name": "Bezirksmeisterschaft Oerbayern U11-U19 Neuried 2026",
     "datum": "09.05.2026",
@@ -42,9 +33,9 @@
     "meldeschluss": "2026-04-28T23:59:00+02:00",
     "startTurnier": "2026-05-09T00:00:00+02:00",
     "endeTurnier": "2026-05-10T23:59:00+02:00",
-    "lastChangedHtml": "Sonntag, 10. Mai 2026 22:16 (GMT +02:00)",
-    "lastChangedIso": "2026-05-10T20:16:00.000Z",
-    "lastChangedUnix": 1778444160000,
+    "lastChangedHtml": "Sonntag, 10. Mai 2026 22:17 (GMT +02:00)",
+    "lastChangedIso": "2026-05-10T20:17:00.000Z",
+    "lastChangedUnix": 1778444220000,
     "halle": "Städtiche Sporthalle Nord",
     "halleAdresse": "Isarstraße 24, 93057 Regensburg"
   },
@@ -91,9 +82,9 @@
     "meldeschluss": "2026-04-28T23:59:00+02:00",
     "startTurnier": "2026-05-09T00:00:00+02:00",
     "endeTurnier": "2026-05-10T23:59:00+02:00",
-    "lastChangedHtml": "Sonntag, 10. Mai 2026 21:12 (GMT +02:00)",
-    "lastChangedIso": "2026-05-10T19:12:00.000Z",
-    "lastChangedUnix": 1778440320000,
+    "lastChangedHtml": "Sonntag, 10. Mai 2026 22:20 (GMT +02:00)",
+    "lastChangedIso": "2026-05-10T20:20:00.000Z",
+    "lastChangedUnix": 1778444400000,
     "halle": "TSV Rothseehalle",
     "halleAdresse": "Altenfeldener Str. 16, 90584 Allersberg [07-0003]"
   },
