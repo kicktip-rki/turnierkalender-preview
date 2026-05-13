@@ -1,77 +1,37 @@
 {
   "1": {
     "teilnehmer": [
-      73,
-      0,
-      0
+      73
     ],
     "konkurrenzen": [
-      20,
-      0,
-      0
+      20
     ],
     "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS",
-      0,
-      0
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS"
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
+      "2026-04-28T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
+      "2026-05-09T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-10T23:59:00+02:00",
-      0,
-      0
+      "2026-05-10T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 17:02 (GMT +02:00)",
-      0,
-      0
+      "Montag, 11. Mai 2026 17:02 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-11T15:02:00.000Z",
-      0,
-      0
+      "2026-05-11T15:02:00.000Z"
     ],
     "lastChangedUnix": [
-      1778511720000,
-      0,
-      0
+      1778511720000
     ],
     "halle": [
-      "Städtiche Sporthalle Nord",
-      0,
-      0
+      "Städtiche Sporthalle Nord"
     ],
     "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg",
-      0,
-      0
-    ]
-  },
-  "13": {
-    "teilnehmer": [
-      90,
-      94
-    ],
-    "lastChangedHtml": [
-      "Samstag, 9. Mai 2026 13:01 (GMT +02:00)",
-      "Dienstag, 12. Mai 2026 21:32 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-09T11:01:00.000Z",
-      "2026-05-12T19:32:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1778324460000,
-      1778614320000
+      "Isarstraße 24, 93057 Regensburg"
     ]
   },
   "_t": "a"
