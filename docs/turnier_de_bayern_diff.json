@@ -1,37 +1,179 @@
 {
-  "1": {
+  "0": {
     "teilnehmer": [
-      73
+      151,
+      0,
+      0
     ],
     "konkurrenzen": [
-      20
+      28,
+      0,
+      0
     ],
     "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS"
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00"
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00"
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-05-10T23:59:00+02:00"
+      "2026-05-10T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 17:02 (GMT +02:00)"
+      "Montag, 11. Mai 2026 17:02 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-05-11T15:02:00.000Z"
+      "2026-05-11T15:02:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1778511720000
+      1778511720000,
+      0,
+      0
     ],
     "halle": [
-      "Städtiche Sporthalle Nord"
+      "Sporthalle TSV Neuried",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg"
+      "Am Sportpark 8, 82152 Neuried",
+      0,
+      0
+    ]
+  },
+  "5": {
+    "teilnehmer": [
+      42,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      28,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 10. Mai 2026 00:14 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-09T22:14:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778364840000,
+      0,
+      0
+    ],
+    "halle": [
+      "Pestalozzi Turnhalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Seidmannsdorfer Straße 72, 96450 Coburg",
+      0,
+      0
+    ]
+  },
+  "6": {
+    "teilnehmer": [
+      103,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-10T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. Mai 2026 16:57 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-11T14:57:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778511420000,
+      0,
+      0
+    ],
+    "halle": [
+      "Eichenwaldhalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Am Eichenwald, 86356 Neusäß",
+      0,
+      0
+    ]
+  },
+  "7": {
+    "altersklassen": [
+      "Open A, B",
+      "Open B, E-RLT, Open A"
     ]
   },
   "_t": "a"
