@@ -1,179 +1,107 @@
 {
   "0": {
     "teilnehmer": [
-      151,
-      0,
-      0
+      148
     ],
     "konkurrenzen": [
-      28,
-      0,
-      0
+      26
     ],
     "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
+      "U9: BS/GS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
+      "2026-04-28T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
+      "2026-05-09T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-10T23:59:00+02:00",
-      0,
-      0
+      "2026-05-10T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 17:02 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 13. Mai 2026 11:05 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-11T15:02:00.000Z",
-      0,
-      0
+      "2026-05-13T09:05:00.000Z"
     ],
     "lastChangedUnix": [
-      1778511720000,
-      0,
-      0
+      1778663100000
     ],
     "halle": [
-      "Sporthalle TSV Neuried",
-      0,
-      0
+      "Sporthalle TSV Neuried"
     ],
     "halleAdresse": [
-      "Am Sportpark 8, 82152 Neuried",
-      0,
-      0
+      "Am Sportpark 8, 82152 Neuried"
     ]
   },
   "5": {
     "teilnehmer": [
-      42,
-      0,
-      0
+      42
     ],
     "konkurrenzen": [
-      28,
-      0,
-      0
+      28
     ],
     "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
+      "2026-04-28T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
+      "2026-05-09T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-09T23:59:00+02:00",
-      0,
-      0
+      "2026-05-09T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Sonntag, 10. Mai 2026 00:14 (GMT +02:00)",
-      0,
-      0
+      "Sonntag, 10. Mai 2026 00:14 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-09T22:14:00.000Z",
-      0,
-      0
+      "2026-05-09T22:14:00.000Z"
     ],
     "lastChangedUnix": [
-      1778364840000,
-      0,
-      0
+      1778364840000
     ],
     "halle": [
-      "Pestalozzi Turnhalle",
-      0,
-      0
+      "Pestalozzi Turnhalle"
     ],
     "halleAdresse": [
-      "Seidmannsdorfer Straße 72, 96450 Coburg",
-      0,
-      0
+      "Seidmannsdorfer Straße 72, 96450 Coburg"
     ]
   },
   "6": {
     "teilnehmer": [
-      103,
-      0,
-      0
+      103
     ],
     "konkurrenzen": [
-      24,
-      0,
-      0
+      24
     ],
     "disziplinen": [
-      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
+      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD"
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
+      "2026-04-28T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
+      "2026-05-09T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-10T23:59:00+02:00",
-      0,
-      0
+      "2026-05-10T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 16:57 (GMT +02:00)",
-      0,
-      0
+      "Montag, 11. Mai 2026 16:57 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-11T14:57:00.000Z",
-      0,
-      0
+      "2026-05-11T14:57:00.000Z"
     ],
     "lastChangedUnix": [
-      1778511420000,
-      0,
-      0
+      1778511420000
     ],
     "halle": [
-      "Eichenwaldhalle",
-      0,
-      0
+      "Eichenwaldhalle"
     ],
     "halleAdresse": [
-      "Am Eichenwald, 86356 Neusäß",
-      0,
-      0
-    ]
-  },
-  "7": {
-    "altersklassen": [
-      "Open A, B",
-      "Open B, E-RLT, Open A"
+      "Am Eichenwald, 86356 Neusäß"
     ]
   },
   "_t": "a"
