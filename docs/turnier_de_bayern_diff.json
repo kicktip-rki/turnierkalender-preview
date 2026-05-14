@@ -1,42 +1,26 @@
 {
-  "3": {
-    "name": [
-      "BBV Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026",
-      "Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026"
-    ],
-    "teilnehmer": [
-      58,
-      57
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. Mai 2026 16:55 (GMT +02:00)",
-      "Donnerstag, 14. Mai 2026 11:30 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-11T14:55:00.000Z",
-      "2026-05-14T09:30:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1778511300000,
-      1778751000000
-    ]
-  },
   "9": {
     "teilnehmer": [
-      157,
-      154
+      154,
+      155
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 23:11 (GMT +02:00)",
-      "Donnerstag, 14. Mai 2026 10:17 (GMT +02:00)"
+      "Donnerstag, 14. Mai 2026 10:17 (GMT +02:00)",
+      "Donnerstag, 14. Mai 2026 14:32 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-11T21:11:00.000Z",
-      "2026-05-14T08:17:00.000Z"
+      "2026-05-14T08:17:00.000Z",
+      "2026-05-14T12:32:00.000Z"
     ],
     "lastChangedUnix": [
-      1778533860000,
-      1778746620000
+      1778746620000,
+      1778761920000
+    ]
+  },
+  "24": {
+    "teilnehmer": [
+      4,
+      5
     ]
   },
   "_t": "a"
