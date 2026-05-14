@@ -1,37 +1,42 @@
 {
-  "0": {
+  "3": {
+    "name": [
+      "BBV Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026",
+      "Bezirksmeisterschaft Unterfranken U9-U19 Marktheidenfeld 2026"
+    ],
     "teilnehmer": [
-      148
-    ],
-    "konkurrenzen": [
-      26
-    ],
-    "disziplinen": [
-      "U9: BS/GS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
-    ],
-    "meldeschluss": [
-      "2026-04-28T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-05-09T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-05-10T23:59:00+02:00"
+      58,
+      57
     ],
     "lastChangedHtml": [
-      "Mittwoch, 13. Mai 2026 11:05 (GMT +02:00)"
+      "Montag, 11. Mai 2026 16:55 (GMT +02:00)",
+      "Donnerstag, 14. Mai 2026 11:30 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-13T09:05:00.000Z"
+      "2026-05-11T14:55:00.000Z",
+      "2026-05-14T09:30:00.000Z"
     ],
     "lastChangedUnix": [
-      1778663100000
+      1778511300000,
+      1778751000000
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      157,
+      154
     ],
-    "halle": [
-      "Sporthalle TSV Neuried"
+    "lastChangedHtml": [
+      "Montag, 11. Mai 2026 23:11 (GMT +02:00)",
+      "Donnerstag, 14. Mai 2026 10:17 (GMT +02:00)"
     ],
-    "halleAdresse": [
-      "Am Sportpark 8, 82152 Neuried"
+    "lastChangedIso": [
+      "2026-05-11T21:11:00.000Z",
+      "2026-05-14T08:17:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778533860000,
+      1778746620000
     ]
   },
   "_t": "a"
