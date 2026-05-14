@@ -1,71 +1,37 @@
 {
   "0": {
     "teilnehmer": [
-      148,
-      0,
-      0
+      148
     ],
     "konkurrenzen": [
-      26,
-      0,
-      0
+      26
     ],
     "disziplinen": [
-      "U9: BS/GS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
+      "U9: BS/GS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
+      "2026-04-28T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
+      "2026-05-09T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-10T23:59:00+02:00",
-      0,
-      0
+      "2026-05-10T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Mittwoch, 13. Mai 2026 11:05 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 13. Mai 2026 11:05 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-13T09:05:00.000Z",
-      0,
-      0
+      "2026-05-13T09:05:00.000Z"
     ],
     "lastChangedUnix": [
-      1778663100000,
-      0,
-      0
+      1778663100000
     ],
     "halle": [
-      "Sporthalle TSV Neuried",
-      0,
-      0
+      "Sporthalle TSV Neuried"
     ],
     "halleAdresse": [
-      "Am Sportpark 8, 82152 Neuried",
-      0,
-      0
-    ]
-  },
-  "16": {
-    "teilnehmer": [
-      3,
-      4
-    ]
-  },
-  "25": {
-    "teilnehmer": [
-      5,
-      6
+      "Am Sportpark 8, 82152 Neuried"
     ]
   },
   "_t": "a"
