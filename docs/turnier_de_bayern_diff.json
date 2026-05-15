@@ -1,37 +1,77 @@
 {
-  "3": {
+  "1": {
     "teilnehmer": [
-      57
+      73,
+      0,
+      0
     ],
     "konkurrenzen": [
-      22
+      20,
+      0,
+      0
     ],
     "disziplinen": [
-      "U11: BS/GS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS",
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-04-28T23:59:00+02:00"
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-05-09T00:00:00+02:00"
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-05-09T23:59:00+02:00"
+      "2026-05-10T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Donnerstag, 14. Mai 2026 11:30 (GMT +02:00)"
+      "Montag, 11. Mai 2026 17:02 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-05-14T09:30:00.000Z"
+      "2026-05-11T15:02:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1778751000000
+      1778511720000,
+      0,
+      0
     ],
     "halle": [
-      "Marktheidenfeld"
+      "Städtiche Sporthalle Nord",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Marktheidenfeld"
+      "Isarstraße 24, 93057 Regensburg",
+      0,
+      0
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      153,
+      152
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 14. Mai 2026 20:04 (GMT +02:00)",
+      "Freitag, 15. Mai 2026 09:20 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-14T18:04:00.000Z",
+      "2026-05-15T07:20:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778781840000,
+      1778829600000
     ]
   },
   "_t": "a"
