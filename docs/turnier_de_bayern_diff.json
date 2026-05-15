@@ -1,13 +1,13 @@
 {
-  "1": {
+  "6": {
     "teilnehmer": [
-      73
+      103
     ],
     "konkurrenzen": [
-      20
+      24
     ],
     "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS"
+      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD"
     ],
     "meldeschluss": [
       "2026-04-28T23:59:00+02:00"
@@ -19,123 +19,48 @@
       "2026-05-10T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. Mai 2026 17:02 (GMT +02:00)"
+      "Montag, 11. Mai 2026 16:57 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-11T15:02:00.000Z"
+      "2026-05-11T14:57:00.000Z"
     ],
     "lastChangedUnix": [
-      1778511720000
+      1778511420000
     ],
     "halle": [
-      "Städtiche Sporthalle Nord"
+      "Eichenwaldhalle"
     ],
     "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg"
-    ]
-  },
-  "6": {
-    "teilnehmer": [
-      103,
-      0,
-      0
-    ],
-    "konkurrenzen": [
-      24,
-      0,
-      0
-    ],
-    "disziplinen": [
-      "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-04-28T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-05-09T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-05-10T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. Mai 2026 16:57 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2026-05-11T14:57:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1778511420000,
-      0,
-      0
-    ],
-    "halle": [
-      "Eichenwaldhalle",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Am Eichenwald, 86356 Neusäß",
-      0,
-      0
+      "Am Eichenwald, 86356 Neusäß"
     ]
   },
   "8": {
     "teilnehmer": [
-      190,
-      0,
-      0
+      190
     ],
     "konkurrenzen": [
-      50,
-      0,
-      0
+      50
     ],
     "disziplinen": [
-      "35+: MS/WS/MD/WD/XD | 40+: MS/WS/MD/WD/XD | 45+: MS/WS/MD/WD/XD | 50+: MS/WS/MD/WD/XD | 55+: MS/WS/MD/WD/XD | 60+: MS/WS/MD/WD/XD | 65+: MS/WS/MD/WD/XD | 70+: MS/WS/MD/WD/XD | 75+: MS/WS/MD/WD/XD | 80+: MS/WS/MD/WD/XD",
-      0,
-      0
+      "35+: MS/WS/MD/WD/XD | 40+: MS/WS/MD/WD/XD | 45+: MS/WS/MD/WD/XD | 50+: MS/WS/MD/WD/XD | 55+: MS/WS/MD/WD/XD | 60+: MS/WS/MD/WD/XD | 65+: MS/WS/MD/WD/XD | 70+: MS/WS/MD/WD/XD | 75+: MS/WS/MD/WD/XD | 80+: MS/WS/MD/WD/XD"
     ],
     "meldeschluss": [
-      "2026-03-22T23:59:00+01:00",
-      0,
-      0
+      "2026-03-22T23:59:00+01:00"
     ],
     "startTurnier": [
-      "2026-05-15T00:00:00+02:00",
-      0,
-      0
+      "2026-05-15T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-05-17T23:59:00+02:00",
-      0,
-      0
+      "2026-05-17T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 30. März 2026 22:10 (GMT +02:00)",
-      0,
-      0
+      "Montag, 30. März 2026 22:10 (GMT +02:00)"
     ],
     "halle": [
-      "Längenholz und Kreissporthalle",
-      0,
-      0
+      "Längenholz und Kreissporthalle"
     ],
     "halleAdresse": [
-      "71083 Herrenberg",
-      0,
-      0
+      "71083 Herrenberg"
     ]
   },
   "_t": "a"
