@@ -1,72 +1,20 @@
 {
-  "3": {
-    "teilnehmer": [
-      57
-    ],
-    "konkurrenzen": [
-      22
-    ],
-    "disziplinen": [
-      "U11: BS/GS | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
-    ],
-    "meldeschluss": [
-      "2026-04-28T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-05-09T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-05-09T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Donnerstag, 14. Mai 2026 11:30 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-14T09:30:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1778751000000
-    ],
-    "halle": [
-      "Marktheidenfeld"
-    ],
-    "halleAdresse": [
-      "Marktheidenfeld"
-    ]
-  },
   "9": {
     "teilnehmer": [
-      152
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/XD | U15: BS/GS/XD | U17: BS/GS/XD | U19: BS/GS/XD"
-    ],
-    "meldeschluss": [
-      "2026-05-05T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-05-16T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-05-17T23:59:00+02:00"
+      152,
+      151
     ],
     "lastChangedHtml": [
-      "Samstag, 16. Mai 2026 17:23 (GMT +02:00)"
+      "Samstag, 16. Mai 2026 17:23 (GMT +02:00)",
+      "Samstag, 16. Mai 2026 19:21 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-05-16T15:23:00.000Z"
+      "2026-05-16T15:23:00.000Z",
+      "2026-05-16T17:21:00.000Z"
     ],
     "lastChangedUnix": [
-      1778944980000
-    ],
-    "halle": [
-      "Sportzentrum Neubiberg"
-    ],
-    "halleAdresse": [
-      "Zwergstraße 28, 85579 Neubiberg"
+      1778944980000,
+      1778952060000
     ]
   },
   "_t": "a"
