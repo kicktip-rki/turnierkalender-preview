@@ -1,22 +1,79 @@
 {
-  "7": {
+  "3": {
+    "teilnehmer": [
+      86,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      18,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U11: BS | U13: BS/GS/BD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-04-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-09T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-10T23:59:00+02:00",
+      0,
+      0
+    ],
     "lastChangedHtml": [
-      "Sonntag, 17. Mai 2026 12:28 (GMT +02:00)",
-      "Sonntag, 17. Mai 2026 17:23 (GMT +02:00)"
+      "Sonntag, 10. Mai 2026 22:20 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-05-17T10:28:00.000Z",
-      "2026-05-17T15:23:00.000Z"
+      "2026-05-10T20:20:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1779013680000,
-      1779031380000
+      1778444400000,
+      0,
+      0
+    ],
+    "halle": [
+      "TSV Rothseehalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Altenfeldener Str. 16, 90584 Allersberg [07-0003]",
+      0,
+      0
+    ]
+  },
+  "7": {
+    "lastChangedHtml": [
+      "Sonntag, 17. Mai 2026 17:23 (GMT +02:00)",
+      "Sonntag, 17. Mai 2026 18:30 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-17T15:23:00.000Z",
+      "2026-05-17T16:30:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1779031380000,
+      1779035400000
     ]
   },
   "12": {
     "teilnehmer": [
-      9,
-      10
+      10,
+      11
     ]
   },
   "_t": "a"
