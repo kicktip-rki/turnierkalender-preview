@@ -1,92 +1,5 @@
 [
   {
-    "id": "14ACCE57-2E1B-4CE2-BB42-A4C65FD6D859",
-    "name": "BBV Bezirksmeisterschaft Oberbayern U11-U19 Neuried 2026",
-    "datum": "09.05.2026",
-    "ort": "Neuried",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=14ACCE57-2E1B-4CE2-BB42-A4C65FD6D859",
-    "teilnehmer": 148,
-    "konkurrenzen": 26,
-    "disziplinen": "U9: BS/GS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-    "meldeschluss": "2026-04-28T23:59:00+02:00",
-    "startTurnier": "2026-05-09T00:00:00+02:00",
-    "endeTurnier": "2026-05-10T23:59:00+02:00",
-    "lastChangedHtml": "Mittwoch, 13. Mai 2026 11:05 (GMT +02:00)",
-    "lastChangedIso": "2026-05-13T09:05:00.000Z",
-    "lastChangedUnix": 1778663100000,
-    "halle": "Sporthalle TSV Neuried",
-    "halleAdresse": "Am Sportpark 8, 82152 Neuried"
-  },
-  {
-    "id": "1DC43DD0-EA31-4FEA-9B09-5A95A5356D5D",
-    "name": "BBV Bezirksmeisterschaft Niederbayern-Oberpfalz U9-U19 Regensburg 2026",
-    "datum": "09.05.2026",
-    "ort": "Regensburg",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=1DC43DD0-EA31-4FEA-9B09-5A95A5356D5D",
-    "teilnehmer": 73,
-    "konkurrenzen": 20,
-    "disziplinen": "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS",
-    "meldeschluss": "2026-04-28T23:59:00+02:00",
-    "startTurnier": "2026-05-09T00:00:00+02:00",
-    "endeTurnier": "2026-05-10T23:59:00+02:00",
-    "lastChangedHtml": "Montag, 11. Mai 2026 17:02 (GMT +02:00)",
-    "lastChangedIso": "2026-05-11T15:02:00.000Z",
-    "lastChangedUnix": 1778511720000,
-    "halle": "Städtiche Sporthalle Nord",
-    "halleAdresse": "Isarstraße 24, 93057 Regensburg"
-  },
-  {
-    "id": "9F08F6F8-1B07-442A-9B94-C1093093C306",
-    "name": "35. Moritzbergpokal O19 (BAY) 2026",
-    "datum": "09.05.2026",
-    "ort": "Lauf [07-0110]",
-    "veranstalter": "BAY - Laufer SV",
-    "altersklassen": "Open A, B, C",
-    "url": "https://www.turnier.de/sport/tournament?id=9F08F6F8-1B07-442A-9B94-C1093093C306"
-  },
-  {
-    "id": "D88E4537-3DBA-47CC-B655-6A06D019CCF3",
-    "name": "BBV Bezirksmeisterschaft Mittelfranken U9-U19 2026",
-    "datum": "09.05.2026",
-    "ort": "Allersberg [07-0003]",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=D88E4537-3DBA-47CC-B655-6A06D019CCF3"
-  },
-  {
-    "id": "E6FC736C-730B-4647-BD8A-90B2D8B08A2F",
-    "name": "BBV Bezirksmeisterschaft Schwaben U11-U19 Neusäß 2026",
-    "datum": "09.05.2026",
-    "ort": "Neusäß",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=E6FC736C-730B-4647-BD8A-90B2D8B08A2F",
-    "teilnehmer": 103,
-    "konkurrenzen": 24,
-    "disziplinen": "U9: BS | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/GD/XD | U19: BS/GS/BD/GD/XD",
-    "meldeschluss": "2026-04-28T23:59:00+02:00",
-    "startTurnier": "2026-05-09T00:00:00+02:00",
-    "endeTurnier": "2026-05-10T23:59:00+02:00",
-    "lastChangedHtml": "Montag, 11. Mai 2026 16:57 (GMT +02:00)",
-    "lastChangedIso": "2026-05-11T14:57:00.000Z",
-    "lastChangedUnix": 1778511420000,
-    "halle": "Eichenwaldhalle",
-    "halleAdresse": "Am Eichenwald, 86356 Neusäß"
-  },
-  {
-    "id": "A85566FC-DB45-4669-B03D-6F22194A7B43",
-    "name": "BBV Bezirks-Einzelmeisterschaft Oberfranken O19 2026",
-    "datum": "10.05.2026",
-    "ort": "Coburg",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open B, E-RLT, Open A",
-    "url": "https://www.turnier.de/sport/tournament?id=A85566FC-DB45-4669-B03D-6F22194A7B43"
-  },
-  {
     "id": "AB5632B6-E6E4-4FD8-9BAE-67703379F0DF",
     "name": "Meldeportal SüdOst zur DM O35-O80 2026",
     "datum": "15.05.2026",
@@ -266,15 +179,6 @@
     "halleAdresse": "Georgendamm 2, 96047 Bamberg"
   },
   {
-    "id": "27F6F222-03EF-4FF8-B44F-04F7A5802526",
-    "name": "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026",
-    "datum": "01.08.2026",
-    "ort": "Prien am Chiemsee",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open A, B, C",
-    "url": "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526"
-  },
-  {
     "id": "3E367981-7D5E-4EEB-8B01-1F197A669315",
     "name": "BBV C-RLT O19 & E-RLT O19 (16. Donau-Cup) 2026",
     "datum": "04.07.2026",
@@ -328,23 +232,6 @@
     "halleAdresse": "Isarstraße 24, 93057 Regensburg"
   },
   {
-    "id": "836C93F3-7635-420B-B314-DEDB60884AB2",
-    "name": "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
-    "datum": "07.11.2026",
-    "ort": "Augsburg",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U13, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
-    "konkurrenzen": 20,
-    "disziplinen": "U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-    "meldeschluss": "2026-10-18T23:59:00+02:00",
-    "startTurnier": "2026-11-07T00:00:00+01:00",
-    "endeTurnier": "2026-11-08T23:59:00+01:00",
-    "lastChangedHtml": "Samstag, 2. August 2025 10:08 (GMT +02:00)",
-    "lastChangedIso": "2025-08-02T08:08:00.000Z",
-    "lastChangedUnix": 1754122080000
-  },
-  {
     "id": "D30BC769-67BE-4531-9BDB-D12C869D4428",
     "name": "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
     "datum": "11.07.2026",
@@ -394,6 +281,15 @@
     "url": "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F"
   },
   {
+    "id": "27F6F222-03EF-4FF8-B44F-04F7A5802526",
+    "name": "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026",
+    "datum": "01.08.2026",
+    "ort": "Prien am Chiemsee",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "Open A, B, C",
+    "url": "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526"
+  },
+  {
     "id": "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
     "name": "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
     "datum": "26.09.2026",
@@ -411,5 +307,22 @@
     "lastChangedUnix": 1754933400000,
     "halle": "Willibald-Gluck-Gymnasium",
     "halleAdresse": "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+  },
+  {
+    "id": "836C93F3-7635-420B-B314-DEDB60884AB2",
+    "name": "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
+    "datum": "07.11.2026",
+    "ort": "Augsburg",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "U13, U13, U15, U17, U19",
+    "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
+    "konkurrenzen": 20,
+    "disziplinen": "U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+    "meldeschluss": "2026-10-18T23:59:00+02:00",
+    "startTurnier": "2026-11-07T00:00:00+01:00",
+    "endeTurnier": "2026-11-08T23:59:00+01:00",
+    "lastChangedHtml": "Samstag, 2. August 2025 10:08 (GMT +02:00)",
+    "lastChangedIso": "2025-08-02T08:08:00.000Z",
+    "lastChangedUnix": 1754122080000
   }
 ]
