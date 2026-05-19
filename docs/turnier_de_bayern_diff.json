@@ -1,55 +1,14 @@
 {
-  "1": {
-    "name": [
-      "6. Trevor-Stewart Cup Neubiberg 2026",
-      "6. Trevor-Stewart Cup Neubiberg (BAY U09-U19) 2026"
-    ],
-    "lastChangedHtml": [
-      "Sonntag, 17. Mai 2026 18:30 (GMT +02:00)",
-      "Dienstag, 19. Mai 2026 17:23 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-17T16:30:00.000Z",
-      "2026-05-19T15:23:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1779035400000,
-      1779204180000
-    ]
-  },
   "6": {
     "teilnehmer": [
-      15
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD"
-    ],
-    "meldeschluss": [
-      "2026-06-09T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-06-20T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-06-21T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:29 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:29:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754933340000
-    ],
-    "halle": [
-      "Hauntetten"
-    ],
-    "halleAdresse": [
-      "Haunstetten"
+      15,
+      16
+    ]
+  },
+  "16": {
+    "teilnehmer": [
+      7,
+      8
     ]
   },
   "_t": "a"
