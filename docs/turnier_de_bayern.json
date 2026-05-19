@@ -19,7 +19,7 @@
   },
   {
     "id": "2EFF9F98-BE10-4899-9A4E-4A753A47024E",
-    "name": "6. Trevor-Stewart Cup Neubiberg 2026",
+    "name": "6. Trevor-Stewart Cup Neubiberg (BAY U09-U19) 2026",
     "datum": "16.05.2026",
     "ort": "Neubiberg",
     "veranstalter": "Bayerischer Badminton-Verband",
@@ -31,9 +31,9 @@
     "meldeschluss": "2026-05-05T23:59:00+02:00",
     "startTurnier": "2026-05-16T00:00:00+02:00",
     "endeTurnier": "2026-05-17T23:59:00+02:00",
-    "lastChangedHtml": "Sonntag, 17. Mai 2026 18:30 (GMT +02:00)",
-    "lastChangedIso": "2026-05-17T16:30:00.000Z",
-    "lastChangedUnix": 1779035400000,
+    "lastChangedHtml": "Dienstag, 19. Mai 2026 17:23 (GMT +02:00)",
+    "lastChangedIso": "2026-05-19T15:23:00.000Z",
+    "lastChangedUnix": 1779204180000,
     "halle": "Sportzentrum Neubiberg",
     "halleAdresse": "Zwergstraße 28, 85579 Neubiberg"
   },
@@ -91,7 +91,18 @@
     "ort": "Haunstetten",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA"
+    "url": "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
+    "teilnehmer": 15,
+    "konkurrenzen": 20,
+    "disziplinen": "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+    "meldeschluss": "2026-06-09T23:59:00+02:00",
+    "startTurnier": "2026-06-20T00:00:00+02:00",
+    "endeTurnier": "2026-06-21T23:59:00+02:00",
+    "lastChangedHtml": "Montag, 11. August 2025 19:29 (GMT +02:00)",
+    "lastChangedIso": "2025-08-11T17:29:00.000Z",
+    "lastChangedUnix": 1754933340000,
+    "halle": "Hauntetten",
+    "halleAdresse": "Haunstetten"
   },
   {
     "id": "FB4A637F-C8F1-441D-A860-71EF4AF342A6",
