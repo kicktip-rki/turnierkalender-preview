@@ -1,1 +1,60 @@
-null
+{
+  "6": {
+    "teilnehmer": [
+      13,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:29 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:29:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1754933340000,
+      0,
+      0
+    ],
+    "halle": [
+      "Hauntetten",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Haunstetten",
+      0,
+      0
+    ]
+  },
+  "_t": "a"
+}
