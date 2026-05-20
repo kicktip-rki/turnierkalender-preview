@@ -1,8 +1,158 @@
 {
-  "10": {
+  "1": {
     "teilnehmer": [
-      1,
-      2
+      151,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/XD | U15: BS/GS/XD | U17: BS/GS/XD | U19: BS/GS/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-05-05T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-16T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-17T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Dienstag, 19. Mai 2026 17:23 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-19T15:23:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1779204180000,
+      0,
+      0
+    ],
+    "halle": [
+      "Sportzentrum Neubiberg",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Zwergstraße 28, 85579 Neubiberg",
+      0,
+      0
+    ]
+  },
+  "5": {
+    "teilnehmer": [
+      94,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      6,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "14+: MD/WD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-07T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-13T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-14T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Dienstag, 12. Mai 2026 21:32 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-12T19:32:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778614320000,
+      0,
+      0
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Papinstraße 22, 81249 München",
+      0,
+      0
+    ]
+  },
+  "7": {
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Freitag, 20. März 2026 16:45 (GMT +01:00)",
+      0,
+      0
+    ],
+    "halle": [
+      "Hammerseehalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Schulstraße 3, 92439 Bodenwöhr",
+      0,
+      0
     ]
   },
   "_t": "a"
