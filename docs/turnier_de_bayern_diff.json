@@ -1,51 +1,270 @@
 {
-  "1": {
+  "0": {
+    "id": [
+      "AB5632B6-E6E4-4FD8-9BAE-67703379F0DF",
+      "8C3A7CA0-71A3-45C7-94E7-280AE031A5DF"
+    ],
+    "name": [
+      "Meldeportal SüdOst zur DM O35-O80 2026",
+      "D1-RLT O19 (43. Obernzeller Pokalturnier) 2026"
+    ],
+    "datum": [
+      "15.05.2026",
+      "13.06.2026"
+    ],
+    "ort": [
+      "Herrenberg",
+      "Hauzenberg"
+    ],
+    "veranstalter": [
+      "BAY - Laufer SV",
+      "Bayerischer Badminton-Verband"
+    ],
+    "altersklassen": [
+      "35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+, 75+, 80+",
+      "14+ A, B"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=AB5632B6-E6E4-4FD8-9BAE-67703379F0DF",
+      "https://www.turnier.de/sport/tournament?id=8C3A7CA0-71A3-45C7-94E7-280AE031A5DF"
+    ],
     "teilnehmer": [
-      151
+      190,
+      0,
+      0
     ],
     "konkurrenzen": [
-      20
+      50,
+      0,
+      0
     ],
     "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/XD | U15: BS/GS/XD | U17: BS/GS/XD | U19: BS/GS/XD"
+      "35+: MS/WS/MD/WD/XD | 40+: MS/WS/MD/WD/XD | 45+: MS/WS/MD/WD/XD | 50+: MS/WS/MD/WD/XD | 55+: MS/WS/MD/WD/XD | 60+: MS/WS/MD/WD/XD | 65+: MS/WS/MD/WD/XD | 70+: MS/WS/MD/WD/XD | 75+: MS/WS/MD/WD/XD | 80+: MS/WS/MD/WD/XD",
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-05-05T23:59:00+02:00"
+      "2026-03-22T23:59:00+01:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-05-16T00:00:00+02:00"
+      "2026-05-15T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-05-17T23:59:00+02:00"
+      "2026-05-17T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Dienstag, 19. Mai 2026 17:23 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-19T15:23:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1779204180000
+      "Montag, 30. März 2026 22:10 (GMT +02:00)",
+      0,
+      0
     ],
     "halle": [
-      "Sportzentrum Neubiberg"
+      "Längenholz und Kreissporthalle",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Zwergstraße 28, 85579 Neubiberg"
+      "71083 Herrenberg",
+      0,
+      0
     ]
   },
-  "6": {
+  "1": {
+    "id": [
+      "2EFF9F98-BE10-4899-9A4E-4A753A47024E",
+      "36C61B39-3D19-4BBA-8371-A6D2EC068A17"
+    ],
+    "name": [
+      "6. Trevor-Stewart Cup Neubiberg (BAY U09-U19) 2026",
+      "2. C-RLT O19 & E-RLT O19 (33. Nördlinger-Daniel-Cup) 2026"
+    ],
+    "datum": [
+      "16.05.2026",
+      "13.06.2026"
+    ],
+    "ort": [
+      "Neubiberg",
+      "Nördlingen"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "Open"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=2EFF9F98-BE10-4899-9A4E-4A753A47024E",
+      "https://www.turnier.de/sport/tournament?id=36C61B39-3D19-4BBA-8371-A6D2EC068A17"
+    ],
     "teilnehmer": [
-      21,
-      23
+      151,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/XD | U15: BS/GS/XD | U17: BS/GS/XD | U19: BS/GS/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-05-05T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-05-16T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-05-17T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Dienstag, 19. Mai 2026 17:23 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-05-19T15:23:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1779204180000,
+      0,
+      0
+    ],
+    "halle": [
+      "Sportzentrum Neubiberg",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Zwergstraße 28, 85579 Neubiberg",
+      0,
+      0
     ]
   },
-  "7": {
+  "2": {
+    "id": [
+      "8C3A7CA0-71A3-45C7-94E7-280AE031A5DF",
+      "0E19946A-9D81-419B-88B1-8B978C6CEE5D"
+    ],
+    "name": [
+      "D1-RLT O19 (43. Obernzeller Pokalturnier) 2026",
+      "2. C-RLT O19 & E-RLT O19 (33. Nördlinger-Daniel-Cup) 2026"
+    ],
+    "ort": [
+      "Hauzenberg",
+      "Nördlingen"
+    ],
+    "altersklassen": [
+      "14+ A, B",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=8C3A7CA0-71A3-45C7-94E7-280AE031A5DF",
+      "https://www.turnier.de/sport/tournament?id=0E19946A-9D81-419B-88B1-8B978C6CEE5D"
+    ]
+  },
+  "3": {
+    "id": [
+      "36C61B39-3D19-4BBA-8371-A6D2EC068A17",
+      "3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87"
+    ],
+    "name": [
+      "2. C-RLT O19 & E-RLT O19 (33. Nördlinger-Daniel-Cup) 2026",
+      "E-RLT HD/DD/MXD (5. Neuaubing Cup BBV ESV Neuaubing) 2026"
+    ],
+    "ort": [
+      "Nördlingen",
+      "München"
+    ],
+    "altersklassen": [
+      "Open",
+      "14+"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=36C61B39-3D19-4BBA-8371-A6D2EC068A17",
+      "https://www.turnier.de/sport/tournament?id=3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87"
+    ],
+    "teilnehmer": [
+      104
+    ],
+    "konkurrenzen": [
+      6
+    ],
+    "disziplinen": [
+      "14+: MD/WD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-07T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-13T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-14T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Freitag, 22. Mai 2026 14:08 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-22T12:08:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1779451680000
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing"
+    ],
+    "halleAdresse": [
+      "Papinstraße 22, 81249 München"
+    ]
+  },
+  "4": {
+    "id": [
+      "0E19946A-9D81-419B-88B1-8B978C6CEE5D",
+      "A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA"
+    ],
+    "name": [
+      "2. C-RLT O19 & E-RLT O19 (33. Nördlinger-Daniel-Cup) 2026",
+      "10. BBV C-RLT U11-U19 Haunstetten 2026"
+    ],
+    "datum": [
+      "13.06.2026",
+      "20.06.2026"
+    ],
+    "ort": [
+      "Nördlingen",
+      "Haunstetten"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=0E19946A-9D81-419B-88B1-8B978C6CEE5D",
+      "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA"
+    ],
+    "teilnehmer": [
+      24
+    ],
     "konkurrenzen": [
       20
     ],
     "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD"
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD"
     ],
     "meldeschluss": [
       "2026-06-09T23:59:00+02:00"
@@ -57,32 +276,948 @@
       "2026-06-21T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Freitag, 20. März 2026 16:45 (GMT +01:00)"
+      "Montag, 11. August 2025 19:29 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:29:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933340000
     ],
     "halle": [
+      "Hauntetten"
+    ],
+    "halleAdresse": [
+      "Haunstetten"
+    ]
+  },
+  "5": {
+    "id": [
+      "3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87",
+      "FB4A637F-C8F1-441D-A860-71EF4AF342A6"
+    ],
+    "name": [
+      "E-RLT HD/DD/MXD (5. Neuaubing Cup BBV ESV Neuaubing) 2026",
+      "2. BBV E-RTL U9-U19 Niederbayern-Oberpfalz Bodenwöhr 2026"
+    ],
+    "datum": [
+      "13.06.2026",
+      "20.06.2026"
+    ],
+    "ort": [
+      "München",
+      "Bodenwöhr"
+    ],
+    "altersklassen": [
+      "14+",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87",
+      "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6"
+    ],
+    "teilnehmer": [
+      104,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      6,
+      20
+    ],
+    "disziplinen": [
+      "14+: MD/WD/XD",
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-07T23:59:00+02:00",
+      "2026-06-09T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-13T00:00:00+02:00",
+      "2026-06-20T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-14T23:59:00+02:00",
+      "2026-06-21T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Freitag, 22. Mai 2026 14:08 (GMT +02:00)",
+      "Freitag, 20. März 2026 16:45 (GMT +01:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-22T12:08:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1779451680000,
+      0,
+      0
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing",
       "Hammerseehalle"
     ],
     "halleAdresse": [
+      "Papinstraße 22, 81249 München",
       "Schulstraße 3, 92439 Bodenwöhr"
     ]
   },
-  "9": {
+  "6": {
+    "id": [
+      "A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
+      "387AF4AF-5E66-426E-94F8-82CEAA67BCF9"
+    ],
+    "name": [
+      "10. BBV C-RLT U11-U19 Haunstetten 2026",
+      "2. E-RLT BAY Oberfranken U9-U19 Forchheim"
+    ],
+    "ort": [
+      "Haunstetten",
+      "Forchheim"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
+      "https://www.turnier.de/sport/tournament?id=387AF4AF-5E66-426E-94F8-82CEAA67BCF9"
+    ],
     "teilnehmer": [
-      6,
+      23,
       7
+    ],
+    "konkurrenzen": [
+      20,
+      24
+    ],
+    "disziplinen": [
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:29 (GMT +02:00)",
+      "Samstag, 21. März 2026 17:44 (GMT +01:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:29:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1754933340000,
+      0,
+      0
+    ],
+    "halle": [
+      "Hauntetten",
+      "EGF-Dreifachsporthalle"
+    ],
+    "halleAdresse": [
+      "Haunstetten",
+      "Ruhalmstraße 5, 91301 Forchheim"
+    ]
+  },
+  "7": {
+    "id": [
+      "FB4A637F-C8F1-441D-A860-71EF4AF342A6",
+      "AA237B5E-7943-4BDD-9E2C-D63937097AEE"
+    ],
+    "name": [
+      "2. BBV E-RTL U9-U19 Niederbayern-Oberpfalz Bodenwöhr 2026",
+      "13. Youngster-Cup U9-U19 (BBV D-RLT) Augsburg 2026"
+    ],
+    "datum": [
+      "20.06.2026",
+      "27.06.2026"
+    ],
+    "ort": [
+      "Bodenwöhr",
+      "Augsburg"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6",
+      "https://www.turnier.de/sport/tournament?id=AA237B5E-7943-4BDD-9E2C-D63937097AEE"
+    ],
+    "konkurrenzen": [
+      20,
+      24
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD",
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD"
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      "2026-06-16T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      "2026-06-27T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      "2026-06-28T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Freitag, 20. März 2026 16:45 (GMT +01:00)",
+      "Mittwoch, 8. April 2026 09:41 (GMT +02:00)"
+    ],
+    "halle": [
+      "Hammerseehalle",
+      "Erhard-Wunderlich-Sporthalle"
+    ],
+    "halleAdresse": [
+      "Schulstraße 3, 92439 Bodenwöhr",
+      "Ulrich-Hofmaier-Str. 30, 86159 Augsburg"
+    ],
+    "teilnehmer": [
+      7
+    ],
+    "lastChangedIso": [
+      "2026-04-08T07:41:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1775634060000
+    ]
+  },
+  "8": {
+    "id": [
+      "387AF4AF-5E66-426E-94F8-82CEAA67BCF9",
+      "150A6B75-8722-443A-AF34-E56CB91BB237"
+    ],
+    "name": [
+      "2. E-RLT BAY Oberfranken U9-U19 Forchheim",
+      "Kieser Open 2026 Bamberg"
+    ],
+    "datum": [
+      "20.06.2026",
+      "27.06.2026"
+    ],
+    "ort": [
+      "Forchheim",
+      "Bamberg"
+    ],
+    "veranstalter": [
+      "Bayerischer Badminton-Verband",
+      "BAY - 1. BV Bamberg"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "14+ A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=387AF4AF-5E66-426E-94F8-82CEAA67BCF9",
+      "https://www.turnier.de/sport/tournament?id=150A6B75-8722-443A-AF34-E56CB91BB237"
+    ],
+    "teilnehmer": [
+      7,
+      6
+    ],
+    "konkurrenzen": [
+      24,
+      15
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      "14+: MS/WS/MD/WD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      "2026-06-19T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      "2026-06-27T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      "2026-06-28T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 21. März 2026 17:44 (GMT +01:00)",
+      "Donnerstag, 14. Mai 2026 22:04 (GMT +02:00)"
+    ],
+    "halle": [
+      "EGF-Dreifachsporthalle",
+      "Georgendammhalle Bamberg"
+    ],
+    "halleAdresse": [
+      "Ruhalmstraße 5, 91301 Forchheim",
+      "Georgendamm 2, 96047 Bamberg"
+    ],
+    "lastChangedIso": [
+      "2026-05-14T20:04:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1778789040000
+    ]
+  },
+  "9": {
+    "id": [
+      "AA237B5E-7943-4BDD-9E2C-D63937097AEE",
+      "3E367981-7D5E-4EEB-8B01-1F197A669315"
+    ],
+    "name": [
+      "13. Youngster-Cup U9-U19 (BBV D-RLT) Augsburg 2026",
+      "BBV C-RLT O19 & E-RLT O19 (16. Donau-Cup) 2026"
+    ],
+    "datum": [
+      "27.06.2026",
+      "04.07.2026"
+    ],
+    "ort": [
+      "Augsburg",
+      "Dillingen"
+    ],
+    "veranstalter": [
+      "Bayerischer Badminton-Verband",
+      "BAY - TV Dillingen"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "Open A, B, C, Open"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=AA237B5E-7943-4BDD-9E2C-D63937097AEE",
+      "https://www.turnier.de/sport/tournament?id=3E367981-7D5E-4EEB-8B01-1F197A669315"
+    ],
+    "teilnehmer": [
+      7,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-16T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-27T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-28T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 8. April 2026 09:41 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-04-08T07:41:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1775634060000,
+      0,
+      0
+    ],
+    "halle": [
+      "Erhard-Wunderlich-Sporthalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Ulrich-Hofmaier-Str. 30, 86159 Augsburg",
+      0,
+      0
     ]
   },
   "10": {
+    "id": [
+      "150A6B75-8722-443A-AF34-E56CB91BB237",
+      "80EF6A3F-AA8E-4051-9728-AC4004E47D95"
+    ],
+    "name": [
+      "Kieser Open 2026 Bamberg",
+      "BBV E-RLT Oberbayern U9-U19 2026 (10. Shuttle-Cup)"
+    ],
+    "datum": [
+      "27.06.2026",
+      "04.07.2026"
+    ],
+    "ort": [
+      "Bamberg",
+      "Erdweg"
+    ],
+    "veranstalter": [
+      "BAY - 1. BV Bamberg",
+      "BAY - SpVgg Erdweg"
+    ],
+    "altersklassen": [
+      "14+ A, B, C",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=150A6B75-8722-443A-AF34-E56CB91BB237",
+      "https://www.turnier.de/sport/tournament?id=80EF6A3F-AA8E-4051-9728-AC4004E47D95"
+    ],
     "teilnehmer": [
-      4,
+      6,
+      3
+    ],
+    "konkurrenzen": [
+      15,
+      24
+    ],
+    "disziplinen": [
+      "14+: MS/WS/MD/WD/XD",
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD"
+    ],
+    "meldeschluss": [
+      "2026-06-19T23:59:00+02:00",
+      "2026-06-25T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-27T00:00:00+02:00",
+      "2026-07-04T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-28T23:59:00+02:00",
+      "2026-07-05T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 14. Mai 2026 22:04 (GMT +02:00)",
+      "Donnerstag, 12. März 2026 12:34 (GMT +01:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-14T20:04:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1778789040000,
+      0,
+      0
+    ],
+    "halle": [
+      "Georgendammhalle Bamberg",
+      "Schulsporthalle Erdweg"
+    ],
+    "halleAdresse": [
+      "Georgendamm 2, 96047 Bamberg",
+      "Pater-Cherubin-Str. 5, 85253 Erdweg"
+    ]
+  },
+  "11": {
+    "id": [
+      "3E367981-7D5E-4EEB-8B01-1F197A669315",
+      "EFA99B52-D5E8-4607-87A6-22FE08BD1AC2"
+    ],
+    "name": [
+      "BBV C-RLT O19 & E-RLT O19 (16. Donau-Cup) 2026",
+      "Erlanger Sommerturnier 2026"
+    ],
+    "ort": [
+      "Dillingen",
+      "Spardorf"
+    ],
+    "veranstalter": [
+      "BAY - TV Dillingen",
+      "Bayerischer Badminton-Verband"
+    ],
+    "altersklassen": [
+      "Open A, B, C, Open",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=3E367981-7D5E-4EEB-8B01-1F197A669315",
+      "https://www.turnier.de/sport/tournament?id=EFA99B52-D5E8-4607-87A6-22FE08BD1AC2"
+    ]
+  },
+  "12": {
+    "id": [
+      "80EF6A3F-AA8E-4051-9728-AC4004E47D95",
+      "D30BC769-67BE-4531-9BDB-D12C869D4428"
+    ],
+    "name": [
+      "BBV E-RLT Oberbayern U9-U19 2026 (10. Shuttle-Cup)",
+      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026"
+    ],
+    "datum": [
+      "04.07.2026",
+      "11.07.2026"
+    ],
+    "ort": [
+      "Erdweg",
+      "Marktheidenfeld"
+    ],
+    "veranstalter": [
+      "BAY - SpVgg Erdweg",
+      "Bayerischer Badminton-Verband"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=80EF6A3F-AA8E-4051-9728-AC4004E47D95",
+      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428"
+    ],
+    "teilnehmer": [
+      3,
       6
+    ],
+    "disziplinen": [
+      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-25T23:59:00+02:00",
+      "2026-06-30T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-04T00:00:00+02:00",
+      "2026-07-11T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-05T23:59:00+02:00",
+      "2026-07-12T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 12. März 2026 12:34 (GMT +01:00)",
+      "Montag, 11. August 2025 19:31 (GMT +02:00)"
+    ],
+    "halle": [
+      "Schulsporthalle Erdweg",
+      "Wilheilm-Renkhoff-Halle"
+    ],
+    "halleAdresse": [
+      "Pater-Cherubin-Str. 5, 85253 Erdweg",
+      "Am Sportzentrum 5, 97828 Marktheidenfeld"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:31:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933460000
+    ]
+  },
+  "13": {
+    "id": [
+      "EFA99B52-D5E8-4607-87A6-22FE08BD1AC2",
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "name": [
+      "Erlanger Sommerturnier 2026",
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026"
+    ],
+    "datum": [
+      "04.07.2026",
+      "11.07.2026"
+    ],
+    "ort": [
+      "Spardorf",
+      "Geretsried"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=EFA99B52-D5E8-4607-87A6-22FE08BD1AC2",
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "teilnehmer": [
+      10
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "disziplinen": [
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:33 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:33:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933580000
+    ],
+    "halle": [
+      "Sporthalle Schule 14"
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried"
+    ]
+  },
+  "14": {
+    "id": [
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "name": [
+      "Platzhalter 3. E-RLT Niederbayern",
+      "Wendelsteiner Sommerturnier 2026"
+    ],
+    "datum": [
+      "05.12.2026",
+      "18.07.2026"
+    ],
+    "ort": [
+      "Regensburg",
+      "Wendelstein"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "konkurrenzen": [
+      28,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U9: MS/WS/MD/WD | U11: MS/WS/MD/WD | U13: MS/WS/MD/WD/XD | U15: MS/WS/MD/WD/XD | U17: MS/WS/MD/WD/XD | U19: MS/WS/MD/WD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-24T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-12-05T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-12-06T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      0,
+      0
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      0,
+      0
+    ]
+  },
+  "15": {
+    "id": [
+      "D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "27F6F222-03EF-4FF8-B44F-04F7A5802526"
+    ],
+    "name": [
+      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
+      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026"
+    ],
+    "datum": [
+      "11.07.2026",
+      "01.08.2026"
+    ],
+    "ort": [
+      "Marktheidenfeld",
+      "Prien am Chiemsee"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526"
+    ],
+    "teilnehmer": [
+      6,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "disziplinen": [
+      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:31 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:31:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1754933460000,
+      0,
+      0
+    ],
+    "halle": [
+      "Wilheilm-Renkhoff-Halle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Am Sportzentrum 5, 97828 Marktheidenfeld",
+      0,
+      0
     ]
   },
   "16": {
+    "id": [
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "246F47AF-FC4E-46A6-98EC-7356DE4162F6"
+    ],
+    "name": [
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026",
+      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026"
+    ],
+    "datum": [
+      "11.07.2026",
+      "26.09.2026"
+    ],
+    "ort": [
+      "Geretsried",
+      "Neumarkt i.d. Oberpfalz"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6"
+    ],
     "teilnehmer": [
-      8,
-      9
+      9,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00",
+      "2026-09-15T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00",
+      "2026-09-26T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00",
+      "2026-09-27T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:33 (GMT +02:00)",
+      "Montag, 11. August 2025 19:30 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:33:00.000Z",
+      "2025-08-11T17:30:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933580000,
+      1754933400000
+    ],
+    "halle": [
+      "Sporthalle Schule 14",
+      "Willibald-Gluck-Gymnasium"
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried",
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
     ]
   },
-  "_t": "a"
+  "17": {
+    "id": [
+      "D3F36432-F056-42BA-B136-8815889F251F",
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "name": [
+      "Wendelsteiner Sommerturnier 2026",
+      "Platzhalter 3. E-RLT Niederbayern"
+    ],
+    "datum": [
+      "18.07.2026",
+      "05.12.2026"
+    ],
+    "ort": [
+      "Wendelstein",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F",
+      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "konkurrenzen": [
+      28
+    ],
+    "disziplinen": [
+      "U9: MS/WS/MD/WD | U11: MS/WS/MD/WD | U13: MS/WS/MD/WD/XD | U15: MS/WS/MD/WD/XD | U17: MS/WS/MD/WD/XD | U19: MS/WS/MD/WD/XD"
+    ],
+    "meldeschluss": [
+      "2026-11-24T23:59:00+01:00"
+    ],
+    "startTurnier": [
+      "2026-12-05T00:00:00+01:00"
+    ],
+    "endeTurnier": [
+      "2026-12-06T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord"
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg"
+    ]
+  },
+  "18": {
+    "id": [
+      "27F6F222-03EF-4FF8-B44F-04F7A5802526",
+      "836C93F3-7635-420B-B314-DEDB60884AB2"
+    ],
+    "name": [
+      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026",
+      "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026"
+    ],
+    "datum": [
+      "01.08.2026",
+      "07.11.2026"
+    ],
+    "ort": [
+      "Prien am Chiemsee",
+      "Augsburg"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U13, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526",
+      "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2"
+    ],
+    "konkurrenzen": [
+      20
+    ],
+    "disziplinen": [
+      "U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD"
+    ],
+    "meldeschluss": [
+      "2026-10-18T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-11-07T00:00:00+01:00"
+    ],
+    "endeTurnier": [
+      "2026-11-08T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 2. August 2025 10:08 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-02T08:08:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754122080000
+    ]
+  },
+  "_t": "a",
+  "_19": [
+    {
+      "id": "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "name": "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
+      "datum": "26.09.2026",
+      "ort": "Neumarkt i.d. Oberpfalz",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "U11, U13, U15, U17, U19",
+      "url": "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "konkurrenzen": 24,
+      "disziplinen": "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      "meldeschluss": "2026-09-15T23:59:00+02:00",
+      "startTurnier": "2026-09-26T00:00:00+02:00",
+      "endeTurnier": "2026-09-27T23:59:00+02:00",
+      "lastChangedHtml": "Montag, 11. August 2025 19:30 (GMT +02:00)",
+      "lastChangedIso": "2025-08-11T17:30:00.000Z",
+      "lastChangedUnix": 1754933400000,
+      "halle": "Willibald-Gluck-Gymnasium",
+      "halleAdresse": "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+    },
+    0,
+    0
+  ],
+  "_20": [
+    {
+      "id": "836C93F3-7635-420B-B314-DEDB60884AB2",
+      "name": "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
+      "datum": "07.11.2026",
+      "ort": "Augsburg",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "U13, U13, U15, U17, U19",
+      "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
+      "konkurrenzen": 20,
+      "disziplinen": "U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      "meldeschluss": "2026-10-18T23:59:00+02:00",
+      "startTurnier": "2026-11-07T00:00:00+01:00",
+      "endeTurnier": "2026-11-08T23:59:00+01:00",
+      "lastChangedHtml": "Samstag, 2. August 2025 10:08 (GMT +02:00)",
+      "lastChangedIso": "2025-08-02T08:08:00.000Z",
+      "lastChangedUnix": 1754122080000
+    },
+    0,
+    0
+  ]
 }
