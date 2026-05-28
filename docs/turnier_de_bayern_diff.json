@@ -1,15 +1,29 @@
 {
   "3": {
-    "disziplinen": [
-      "14+: MD/WD/XD",
-      0,
-      0
+    "teilnehmer": [
+      104,
+      111
+    ],
+    "lastChangedHtml": [
+      "Freitag, 22. Mai 2026 14:08 (GMT +02:00)",
+      "Mittwoch, 27. Mai 2026 20:55 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-05-22T12:08:00.000Z",
+      "2026-05-27T18:55:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1779451680000,
+      1779908100000
     ]
   },
   "4": {
     "teilnehmer": [
-      25
-    ],
+      25,
+      26
+    ]
+  },
+  "5": {
     "konkurrenzen": [
       20
     ],
@@ -23,64 +37,42 @@
       "2026-06-21T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. August 2025 19:29 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:29:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754933340000
+      "Freitag, 20. März 2026 16:45 (GMT +01:00)"
     ],
     "halle": [
-      "Hauntetten"
+      "Hammerseehalle"
     ],
     "halleAdresse": [
-      "Haunstetten"
-    ]
-  },
-  "5": {
-    "konkurrenzen": [
-      20,
-      0,
-      0
-    ],
-    "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BD/GD/XD | U15: BD/GD/XD | U17: BD/GD/XD | U19: BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-06-09T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-06-20T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-06-21T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Freitag, 20. März 2026 16:45 (GMT +01:00)",
-      0,
-      0
-    ],
-    "halle": [
-      "Hammerseehalle",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr",
-      0,
-      0
+      "Schulstraße 3, 92439 Bodenwöhr"
     ]
   },
   "6": {
+    "teilnehmer": [
+      8
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 21. März 2026 17:44 (GMT +01:00)"
+    ],
+    "halle": [
+      "EGF-Dreifachsporthalle"
+    ],
+    "halleAdresse": [
+      "Ruhalmstraße 5, 91301 Forchheim"
+    ]
+  },
+  "7": {
     "teilnehmer": [
       8,
       0,
@@ -91,411 +83,115 @@
       0,
       0
     ],
-    "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
-      0,
-      0
-    ],
     "meldeschluss": [
-      "2026-06-09T23:59:00+02:00",
+      "2026-06-16T23:59:00+02:00",
       0,
       0
     ],
     "startTurnier": [
-      "2026-06-20T00:00:00+02:00",
+      "2026-06-27T00:00:00+02:00",
       0,
       0
     ],
     "endeTurnier": [
-      "2026-06-21T23:59:00+02:00",
+      "2026-06-28T23:59:00+02:00",
       0,
       0
     ],
     "lastChangedHtml": [
-      "Samstag, 21. März 2026 17:44 (GMT +01:00)",
+      "Mittwoch, 8. April 2026 09:41 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-04-08T07:41:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1775634060000,
       0,
       0
     ],
     "halle": [
-      "EGF-Dreifachsporthalle",
+      "Erhard-Wunderlich-Sporthalle",
       0,
       0
     ],
     "halleAdresse": [
-      "Ruhalmstraße 5, 91301 Forchheim",
-      0,
-      0
-    ]
-  },
-  "7": {
-    "teilnehmer": [
-      7,
-      8
-    ],
-    "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
-      0,
-      0
-    ]
-  },
-  "8": {
-    "disziplinen": [
-      "14+: MS/WS/MD/WD/XD",
-      0,
-      0
-    ]
-  },
-  "10": {
-    "disziplinen": [
-      "U9: BS/GS/BD/GD | U11: BS/GS/BD/GD | U13: BS/GS/BD/GD | U15: BS/GS/BD/GD | U17: BS/GS/BD/GD | U19: BS/GS/BD/GD",
-      0,
-      0
-    ]
-  },
-  "12": {
-    "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
+      "Ulrich-Hofmaier-Str. 30, 86159 Augsburg",
       0,
       0
     ]
   },
   "13": {
     "teilnehmer": [
-      10,
-      0,
-      0
+      10
     ],
     "konkurrenzen": [
-      24,
-      0,
-      0
-    ],
-    "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-06-30T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-07-11T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-07-12T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:33 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:33:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1754933580000,
-      0,
-      0
-    ],
-    "halle": [
-      "Sporthalle Schule 14",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Adalbert-Stifter-Str., 85238 Geretsried",
-      0,
-      0
-    ]
-  },
-  "16": {
-    "id": [
-      "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
-    ],
-    "name": [
-      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
-      "DBV C- & E-RLT O19 (30. Geretsrieder Stadtmeisterschaft) 2026"
-    ],
-    "datum": [
-      "26.09.2026",
-      "05.09.2026"
-    ],
-    "ort": [
-      "Neumarkt i.d. Oberpfalz",
-      "Geretsried"
-    ],
-    "altersklassen": [
-      "U11, U13, U15, U17, U19",
-      "Open A, B, C"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
-    ],
-    "konkurrenzen": [
-      24,
-      0,
-      0
-    ],
-    "disziplinen": [
-      "U11: BS/GS/BD/GD | U13: BS/GS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-09-15T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-09-26T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-09-27T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:30 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1754933400000,
-      0,
-      0
-    ],
-    "halle": [
-      "Willibald-Gluck-Gymnasium",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz",
-      0,
-      0
-    ]
-  },
-  "17": {
-    "id": [
-      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-      "246F47AF-FC4E-46A6-98EC-7356DE4162F6"
-    ],
-    "name": [
-      "Platzhalter 3. E-RLT Niederbayern",
-      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026"
-    ],
-    "datum": [
-      "05.12.2026",
-      "26.09.2026"
-    ],
-    "ort": [
-      "Regensburg",
-      "Neumarkt i.d. Oberpfalz"
-    ],
-    "altersklassen": [
-      "U9, U11, U13, U15, U17, U19",
-      "U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6"
-    ],
-    "konkurrenzen": [
-      28,
       24
     ],
-    "disziplinen": [
-      "U9: MS/WS/MD/WD | U11: MS/WS/MD/WD | U13: MS/WS/MD/WD/XD | U15: MS/WS/MD/WD/XD | U17: MS/WS/MD/WD/XD | U19: MS/WS/MD/WD/XD",
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:33 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:33:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933580000
+    ],
+    "halle": [
+      "Sporthalle Schule 14"
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried"
+    ]
+  },
+  "18": {
+    "konkurrenzen": [
+      28,
       0,
       0
     ],
     "meldeschluss": [
       "2026-11-24T23:59:00+01:00",
-      "2026-09-15T23:59:00+02:00"
+      0,
+      0
     ],
     "startTurnier": [
       "2026-12-05T00:00:00+01:00",
-      "2026-09-26T00:00:00+02:00"
+      0,
+      0
     ],
     "endeTurnier": [
       "2026-12-06T23:59:00+01:00",
-      "2026-09-27T23:59:00+02:00"
+      0,
+      0
     ],
     "lastChangedHtml": [
       "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
-      "Montag, 11. August 2025 19:30 (GMT +02:00)"
+      0,
+      0
     ],
     "halle": [
       "Städtische Sporthalle Nord",
-      "Willibald-Gluck-Gymnasium"
+      0,
+      0
     ],
     "halleAdresse": [
       "Isarstraße 24, 93057 Regensburg",
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754933400000
+      0,
+      0
     ]
   },
-  "18": {
-    "id": [
-      "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
-    ],
-    "name": [
-      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier ESV Neuaubing) 2026",
-      "Platzhalter 3. E-RLT Niederbayern"
-    ],
-    "ort": [
-      "München",
-      "Regensburg"
-    ],
-    "altersklassen": [
-      "14+",
-      "U9, U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106"
-    ],
-    "konkurrenzen": [
-      10,
-      28
-    ],
-    "disziplinen": [
-      "14+: MS/WS/MD/WD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-11-29T23:59:00+01:00",
-      "2026-11-24T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 25. Mai 2026 12:48 (GMT +02:00)",
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-25T10:48:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1779706080000,
-      0,
-      0
-    ],
-    "halle": [
-      "Halle des ESV Neuaubing",
-      "Städtische Sporthalle Nord"
-    ],
-    "halleAdresse": [
-      "Papinstraße 22, 81249 München",
-      "Isarstraße 24, 93057 Regensburg"
-    ]
-  },
-  "19": {
-    "id": [
-      "836C93F3-7635-420B-B314-DEDB60884AB2",
-      "953E3CEC-98F4-4B7B-9DE1-5214E635A396"
-    ],
-    "name": [
-      "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
-      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier ESV Neuaubing) 2026"
-    ],
-    "datum": [
-      "07.11.2026",
-      "05.12.2026"
-    ],
-    "ort": [
-      "Augsburg",
-      "München"
-    ],
-    "altersklassen": [
-      "U13, U13, U15, U17, U19",
-      "14+"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
-      "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396"
-    ],
-    "konkurrenzen": [
-      20,
-      10
-    ],
-    "disziplinen": [
-      "U13: GS | U13: BS/BD/GD/XD | U15: BS/GS/BD/GD/XD | U17: BS/GS/BD/GD/XD | U19: BS/GS/BD/GD/XD",
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-10-18T23:59:00+02:00",
-      "2026-11-29T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-07T00:00:00+01:00",
-      "2026-12-05T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-08T23:59:00+01:00",
-      "2026-12-06T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Samstag, 2. August 2025 10:08 (GMT +02:00)",
-      "Montag, 25. Mai 2026 12:48 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-02T08:08:00.000Z",
-      "2026-05-25T10:48:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754122080000,
-      1779706080000
-    ],
-    "halle": [
-      "Halle des ESV Neuaubing"
-    ],
-    "halleAdresse": [
-      "Papinstraße 22, 81249 München"
-    ]
-  },
-  "20": [
-    {
-      "id": "836C93F3-7635-420B-B314-DEDB60884AB2",
-      "name": "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
-      "datum": "07.11.2026",
-      "ort": "Augsburg",
-      "veranstalter": "Bayerischer Badminton-Verband",
-      "altersklassen": "U13, U13, U15, U17, U19",
-      "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
-      "konkurrenzen": 20,
-      "meldeschluss": "2026-10-18T23:59:00+02:00",
-      "startTurnier": "2026-11-07T00:00:00+01:00",
-      "endeTurnier": "2026-11-08T23:59:00+01:00",
-      "lastChangedHtml": "Samstag, 2. August 2025 10:08 (GMT +02:00)",
-      "lastChangedIso": "2025-08-02T08:08:00.000Z",
-      "lastChangedUnix": 1754122080000
-    }
-  ],
   "_t": "a"
 }

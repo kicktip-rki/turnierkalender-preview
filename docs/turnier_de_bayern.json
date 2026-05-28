@@ -34,14 +34,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "14+",
     "url": "https://www.turnier.de/sport/tournament?id=3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87",
-    "teilnehmer": 104,
+    "teilnehmer": 111,
     "konkurrenzen": 6,
     "meldeschluss": "2026-06-07T23:59:00+02:00",
     "startTurnier": "2026-06-13T00:00:00+02:00",
     "endeTurnier": "2026-06-14T23:59:00+02:00",
-    "lastChangedHtml": "Freitag, 22. Mai 2026 14:08 (GMT +02:00)",
-    "lastChangedIso": "2026-05-22T12:08:00.000Z",
-    "lastChangedUnix": 1779451680000,
+    "lastChangedHtml": "Mittwoch, 27. Mai 2026 20:55 (GMT +02:00)",
+    "lastChangedIso": "2026-05-27T18:55:00.000Z",
+    "lastChangedUnix": 1779908100000,
     "halle": "Halle des ESV Neuaubing",
     "halleAdresse": "Papinstraße 22, 81249 München"
   },
@@ -53,7 +53,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
-    "teilnehmer": 25,
+    "teilnehmer": 26,
     "konkurrenzen": 20,
     "meldeschluss": "2026-06-09T23:59:00+02:00",
     "startTurnier": "2026-06-20T00:00:00+02:00",
@@ -71,7 +71,14 @@
     "ort": "Bodenwöhr",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6"
+    "url": "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6",
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-06-09T23:59:00+02:00",
+    "startTurnier": "2026-06-20T00:00:00+02:00",
+    "endeTurnier": "2026-06-21T23:59:00+02:00",
+    "lastChangedHtml": "Freitag, 20. März 2026 16:45 (GMT +01:00)",
+    "halle": "Hammerseehalle",
+    "halleAdresse": "Schulstraße 3, 92439 Bodenwöhr"
   },
   {
     "id": "387AF4AF-5E66-426E-94F8-82CEAA67BCF9",
@@ -80,7 +87,15 @@
     "ort": "Forchheim",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=387AF4AF-5E66-426E-94F8-82CEAA67BCF9"
+    "url": "https://www.turnier.de/sport/tournament?id=387AF4AF-5E66-426E-94F8-82CEAA67BCF9",
+    "teilnehmer": 8,
+    "konkurrenzen": 24,
+    "meldeschluss": "2026-06-09T23:59:00+02:00",
+    "startTurnier": "2026-06-20T00:00:00+02:00",
+    "endeTurnier": "2026-06-21T23:59:00+02:00",
+    "lastChangedHtml": "Samstag, 21. März 2026 17:44 (GMT +01:00)",
+    "halle": "EGF-Dreifachsporthalle",
+    "halleAdresse": "Ruhalmstraße 5, 91301 Forchheim"
   },
   {
     "id": "AA237B5E-7943-4BDD-9E2C-D63937097AEE",
@@ -89,17 +104,7 @@
     "ort": "Augsburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=AA237B5E-7943-4BDD-9E2C-D63937097AEE",
-    "teilnehmer": 8,
-    "konkurrenzen": 24,
-    "meldeschluss": "2026-06-16T23:59:00+02:00",
-    "startTurnier": "2026-06-27T00:00:00+02:00",
-    "endeTurnier": "2026-06-28T23:59:00+02:00",
-    "lastChangedHtml": "Mittwoch, 8. April 2026 09:41 (GMT +02:00)",
-    "lastChangedIso": "2026-04-08T07:41:00.000Z",
-    "lastChangedUnix": 1775634060000,
-    "halle": "Erhard-Wunderlich-Sporthalle",
-    "halleAdresse": "Ulrich-Hofmaier-Str. 30, 86159 Augsburg"
+    "url": "https://www.turnier.de/sport/tournament?id=AA237B5E-7943-4BDD-9E2C-D63937097AEE"
   },
   {
     "id": "150A6B75-8722-443A-AF34-E56CB91BB237",
@@ -181,7 +186,17 @@
     "ort": "Geretsried",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    "url": "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A",
+    "teilnehmer": 10,
+    "konkurrenzen": 24,
+    "meldeschluss": "2026-06-30T23:59:00+02:00",
+    "startTurnier": "2026-07-11T00:00:00+02:00",
+    "endeTurnier": "2026-07-12T23:59:00+02:00",
+    "lastChangedHtml": "Montag, 11. August 2025 19:33 (GMT +02:00)",
+    "lastChangedIso": "2025-08-11T17:33:00.000Z",
+    "lastChangedUnix": 1754933580000,
+    "halle": "Sporthalle Schule 14",
+    "halleAdresse": "Adalbert-Stifter-Str., 85238 Geretsried"
   },
   {
     "id": "D3F36432-F056-42BA-B136-8815889F251F",
@@ -235,14 +250,7 @@
     "ort": "Regensburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-    "konkurrenzen": 28,
-    "meldeschluss": "2026-11-24T23:59:00+01:00",
-    "startTurnier": "2026-12-05T00:00:00+01:00",
-    "endeTurnier": "2026-12-06T23:59:00+01:00",
-    "lastChangedHtml": "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
-    "halle": "Städtische Sporthalle Nord",
-    "halleAdresse": "Isarstraße 24, 93057 Regensburg"
+    "url": "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106"
   },
   {
     "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
