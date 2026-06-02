@@ -1,57 +1,43 @@
 {
   "4": {
     "teilnehmer": [
-      27,
-      29
+      29,
+      30
     ]
   },
   "5": {
     "konkurrenzen": [
-      20,
-      0,
-      0
+      20
     ],
     "meldeschluss": [
-      "2026-06-09T23:59:00+02:00",
-      0,
-      0
+      "2026-06-09T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-06-20T00:00:00+02:00",
-      0,
-      0
+      "2026-06-20T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-06-21T23:59:00+02:00",
-      0,
-      0
+      "2026-06-21T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Freitag, 20. März 2026 16:45 (GMT +01:00)",
-      0,
-      0
+      "Freitag, 20. März 2026 16:45 (GMT +01:00)"
     ],
     "halle": [
-      "Hammerseehalle",
-      0,
-      0
+      "Hammerseehalle"
     ],
     "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr",
-      0,
-      0
+      "Schulstraße 3, 92439 Bodenwöhr"
     ]
   },
-  "8": {
+  "7": {
     "teilnehmer": [
-      6,
-      7
+      9,
+      13
     ]
   },
-  "19": {
+  "12": {
     "teilnehmer": [
-      10,
-      11
+      3,
+      4
     ]
   },
   "_t": "a"
