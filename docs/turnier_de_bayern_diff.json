@@ -1,83 +1,385 @@
 {
-  "2": {
-    "teilnehmer": [
-      120,
-      132
-    ],
-    "lastChangedHtml": [
-      "Donnerstag, 4. Juni 2026 20:18 (GMT +02:00)",
-      "Samstag, 6. Juni 2026 15:10 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-06-04T18:18:00.000Z",
-      "2026-06-06T13:10:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1780597080000,
-      1780751400000
-    ]
-  },
   "3": {
     "teilnehmer": [
-      33
+      33,
+      0,
+      0
     ],
     "konkurrenzen": [
-      20
+      20,
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-06-09T23:59:00+02:00"
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-06-20T00:00:00+02:00"
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-06-21T23:59:00+02:00"
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Montag, 11. August 2025 19:29 (GMT +02:00)"
+      "Montag, 11. August 2025 19:29 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2025-08-11T17:29:00.000Z"
+      "2025-08-11T17:29:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1754933340000
+      1754933340000,
+      0,
+      0
     ],
     "halle": [
-      "Hauntetten"
+      "Hauntetten",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Haunstetten"
+      "Haunstetten",
+      0,
+      0
     ]
   },
-  "4": {
+  "5": {
     "teilnehmer": [
-      2,
-      4
+      8,
+      11
     ]
   },
   "6": {
     "teilnehmer": [
-      16,
-      19
-    ]
-  },
-  "11": {
-    "teilnehmer": [
-      5,
-      6
+      19,
+      23
     ]
   },
   "17": {
+    "id": [
+      "D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "836C93F3-7635-420B-B314-DEDB60884AB2"
+    ],
+    "name": [
+      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
+      "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026"
+    ],
+    "datum": [
+      "11.07.2026",
+      "07.11.2026"
+    ],
+    "ort": [
+      "Marktheidenfeld",
+      "Augsburg"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "U13, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2"
+    ],
     "teilnehmer": [
-      6,
-      7
+      7,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      20
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00",
+      "2026-10-18T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00",
+      "2026-11-07T00:00:00+01:00"
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00",
+      "2026-11-08T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:31 (GMT +02:00)",
+      "Samstag, 2. August 2025 10:08 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:31:00.000Z",
+      "2025-08-02T08:08:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933460000,
+      1754122080000
+    ],
+    "halle": [
+      "Wilheilm-Renkhoff-Halle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Am Sportzentrum 5, 97828 Marktheidenfeld",
+      0,
+      0
     ]
   },
   "18": {
+    "id": [
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "D30BC769-67BE-4531-9BDB-D12C869D4428"
+    ],
+    "name": [
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026",
+      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026"
+    ],
+    "ort": [
+      "Geretsried",
+      "Marktheidenfeld"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428"
+    ],
     "teilnehmer": [
-      13,
-      14
+      14,
+      8
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:33 (GMT +02:00)",
+      "Montag, 11. August 2025 19:31 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:33:00.000Z",
+      "2025-08-11T17:31:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933580000,
+      1754933460000
+    ],
+    "halle": [
+      "Sporthalle Schule 14",
+      "Wilheilm-Renkhoff-Halle"
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried",
+      "Am Sportzentrum 5, 97828 Marktheidenfeld"
     ]
   },
+  "19": {
+    "id": [
+      "D3F36432-F056-42BA-B136-8815889F251F",
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "name": [
+      "Wendelsteiner Sommerturnier 2026",
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026"
+    ],
+    "datum": [
+      "18.07.2026",
+      "11.07.2026"
+    ],
+    "ort": [
+      "Wendelstein",
+      "Geretsried"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F",
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "teilnehmer": [
+      14
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:33 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:33:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933580000
+    ],
+    "halle": [
+      "Sporthalle Schule 14"
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried"
+    ]
+  },
+  "20": {
+    "id": [
+      "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "name": [
+      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
+      "Wendelsteiner Sommerturnier 2026"
+    ],
+    "datum": [
+      "26.09.2026",
+      "18.07.2026"
+    ],
+    "ort": [
+      "Neumarkt i.d. Oberpfalz",
+      "Wendelstein"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-09-15T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-09-26T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-09-27T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:30 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:30:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1754933400000,
+      0,
+      0
+    ],
+    "halle": [
+      "Willibald-Gluck-Gymnasium",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz",
+      0,
+      0
+    ]
+  },
+  "21": {
+    "id": [
+      "836C93F3-7635-420B-B314-DEDB60884AB2",
+      "6EBC27CF-072E-426D-B670-87ADEED86411"
+    ],
+    "name": [
+      "Südostdeutsche Einzelmeisterschaft U13-U19 Augsburg 2026",
+      "7-Hügel-Cup Bamberg 2026"
+    ],
+    "datum": [
+      "07.11.2026",
+      "25.07.2026"
+    ],
+    "ort": [
+      "Augsburg",
+      "Bamberg"
+    ],
+    "altersklassen": [
+      "U13, U13, U15, U17, U19",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
+      "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411"
+    ],
+    "konkurrenzen": [
+      20,
+      16
+    ],
+    "meldeschluss": [
+      "2026-10-18T23:59:00+02:00",
+      "2026-07-14T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-11-07T00:00:00+01:00",
+      "2026-07-25T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-11-08T23:59:00+01:00",
+      "2026-07-26T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 2. August 2025 10:08 (GMT +02:00)",
+      "Sonntag, 7. Juni 2026 18:19 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-02T08:08:00.000Z",
+      "2026-06-07T16:19:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754122080000,
+      1780849140000
+    ],
+    "halle": [
+      "Georgendammhalle Bamberg"
+    ],
+    "halleAdresse": [
+      "Georgendamm 2, 96047 Bamberg"
+    ]
+  },
+  "22": [
+    {
+      "id": "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "name": "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
+      "datum": "26.09.2026",
+      "ort": "Neumarkt i.d. Oberpfalz",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "U11, U13, U15, U17, U19",
+      "url": "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "konkurrenzen": 24,
+      "meldeschluss": "2026-09-15T23:59:00+02:00",
+      "startTurnier": "2026-09-26T00:00:00+02:00",
+      "endeTurnier": "2026-09-27T23:59:00+02:00",
+      "lastChangedHtml": "Montag, 11. August 2025 19:30 (GMT +02:00)",
+      "lastChangedIso": "2025-08-11T17:30:00.000Z",
+      "lastChangedUnix": 1754933400000,
+      "halle": "Willibald-Gluck-Gymnasium",
+      "halleAdresse": "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+    }
+  ],
   "_t": "a"
 }
