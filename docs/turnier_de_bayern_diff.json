@@ -1,122 +1,36 @@
 {
-  "2": {
+  "6": {
     "teilnehmer": [
-      132,
-      131
+      16,
+      95
     ],
     "lastChangedHtml": [
-      "Dienstag, 9. Juni 2026 12:01 (GMT +02:00)",
-      "Mittwoch, 10. Juni 2026 19:25 (GMT +02:00)"
+      "Samstag, 21. März 2026 17:44 (GMT +01:00)",
+      "Freitag, 12. Juni 2026 00:02 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-09T10:01:00.000Z",
-      "2026-06-10T17:25:00.000Z"
+      "2026-06-11T22:02:00.000Z"
     ],
     "lastChangedUnix": [
-      1780999260000,
-      1781112300000
+      1781215320000
     ]
   },
-  "4": {
-    "id": [
-      "A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
-      "FB4A637F-C8F1-441D-A860-71EF4AF342A6"
-    ],
-    "name": [
-      "10. BBV C-RLT U11-U19 Haunstetten 2026",
-      "(abgesagt) 2. BBV E-RTL U9-U19 Niederbayern-Oberpfalz Bodenwöhr 2026"
-    ],
-    "ort": [
-      "Haunstetten",
-      "Bodenwöhr"
-    ],
-    "altersklassen": [
-      "U11, U13, U15, U17, U19",
-      "U9, U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA",
-      "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6"
-    ],
+  "7": {
     "teilnehmer": [
-      42,
-      9
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:29 (GMT +02:00)",
-      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:29:00.000Z",
-      "2026-06-10T09:17:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754933340000,
-      1781083020000
-    ],
-    "halle": [
-      "Hauntetten",
-      "Hammerseehalle"
-    ],
-    "halleAdresse": [
-      "Haunstetten",
-      "Schulstraße 3, 92439 Bodenwöhr"
+      28,
+      29
     ]
   },
-  "5": {
-    "id": [
-      "FB4A637F-C8F1-441D-A860-71EF4AF342A6",
-      "A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA"
-    ],
-    "name": [
-      "2. BBV E-RTL U9-U19 Niederbayern-Oberpfalz Bodenwöhr 2026",
-      "10. BBV C-RLT U11-U19 Augsburg 2026"
-    ],
-    "ort": [
-      "Bodenwöhr",
-      "Königsburnn"
-    ],
-    "altersklassen": [
-      "U9, U11, U13, U15, U17, U19",
-      "U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=FB4A637F-C8F1-441D-A860-71EF4AF342A6",
-      "https://www.turnier.de/sport/tournament?id=A03ADD51-7B82-4A96-864A-9D5EAD4DEBCA"
-    ],
+  "8": {
     "teilnehmer": [
-      5,
-      182
-    ],
-    "lastChangedHtml": [
-      "Freitag, 20. März 2026 16:45 (GMT +01:00)",
-      "Mittwoch, 10. Juni 2026 22:40 (GMT +02:00)"
-    ],
-    "halle": [
-      "Hammerseehalle",
-      "Sporthalle Gymnasium Königsbrunn"
-    ],
-    "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr",
-      "Alter Postweg 3, 86343 Königsburnn"
-    ],
-    "lastChangedIso": [
-      "2026-06-10T20:40:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1781124000000
+      11,
+      12
     ]
   },
-  "12": {
+  "22": {
     "teilnehmer": [
-      8,
-      10
-    ]
-  },
-  "20": {
-    "teilnehmer": [
-      14,
-      15
+      2,
+      3
     ]
   },
   "_t": "a"
