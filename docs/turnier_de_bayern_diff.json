@@ -1,36 +1,72 @@
 {
-  "6": {
+  "5": {
     "teilnehmer": [
-      16,
-      95
+      182,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Samstag, 21. März 2026 17:44 (GMT +01:00)",
-      "Freitag, 12. Juni 2026 00:02 (GMT +02:00)"
+      "Mittwoch, 10. Juni 2026 22:40 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-06-11T22:02:00.000Z"
+      "2026-06-10T20:40:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1781215320000
+      1781124000000,
+      0,
+      0
+    ],
+    "halle": [
+      "Sporthalle Gymnasium Königsbrunn",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Alter Postweg 3, 86343 Königsburnn",
+      0,
+      0
     ]
   },
   "7": {
     "teilnehmer": [
-      28,
-      29
+      29,
+      30
     ]
   },
   "8": {
     "teilnehmer": [
-      11,
-      12
+      12,
+      13
     ]
   },
-  "22": {
+  "20": {
     "teilnehmer": [
-      2,
-      3
+      15,
+      16
     ]
   },
   "_t": "a"
