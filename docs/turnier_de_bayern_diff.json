@@ -1,157 +1,98 @@
 {
-  "2": {
-    "teilnehmer": [
-      125,
-      123
-    ],
-    "lastChangedHtml": [
-      "Samstag, 13. Juni 2026 19:53 (GMT +02:00)",
-      "Sonntag, 14. Juni 2026 18:07 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-06-13T17:53:00.000Z",
-      "2026-06-14T16:07:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1781373180000,
-      1781453220000
+  "3": {
+    "name": [
+      "Vereinsmeisterschaft Unterdürrbach 2026",
+      "Vereinsmeisterschaft Unterdürrbach (BAY O19) 2026"
     ]
   },
   "5": {
     "teilnehmer": [
-      9,
-      0,
-      0
+      9
     ],
     "konkurrenzen": [
-      20,
-      0,
-      0
+      20
     ],
     "meldeschluss": [
-      "2026-06-09T23:59:00+02:00",
-      0,
-      0
+      "2026-06-09T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-06-20T00:00:00+02:00",
-      0,
-      0
+      "2026-06-20T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-06-21T23:59:00+02:00",
-      0,
-      0
+      "2026-06-21T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-10T09:17:00.000Z",
-      0,
-      0
+      "2026-06-10T09:17:00.000Z"
     ],
     "lastChangedUnix": [
-      1781083020000,
-      0,
-      0
+      1781083020000
     ],
     "halle": [
-      "Hammerseehalle",
-      0,
-      0
+      "Hammerseehalle"
     ],
     "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr",
-      0,
-      0
-    ]
-  },
-  "7": {
-    "lastChangedHtml": [
-      "Freitag, 12. Juni 2026 00:02 (GMT +02:00)",
-      "Sonntag, 14. Juni 2026 20:24 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-06-11T22:02:00.000Z",
-      "2026-06-14T18:24:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1781215320000,
-      1781461440000
+      "Schulstraße 3, 92439 Bodenwöhr"
     ]
   },
   "8": {
     "teilnehmer": [
-      30,
-      33
+      33,
+      40
     ]
   },
-  "13": {
+  "9": {
     "teilnehmer": [
-      11,
-      14
+      13,
+      15
+    ]
+  },
+  "17": {
+    "teilnehmer": [
+      1
     ]
   },
   "19": {
     "teilnehmer": [
-      11,
-      12
+      12,
+      13
     ]
   },
-  "22": {
+  "20": {
     "teilnehmer": [
-      3,
-      4
+      16,
+      17
     ]
   },
   "24": {
     "konkurrenzen": [
-      24,
-      0,
-      0
+      24
     ],
     "meldeschluss": [
-      "2026-09-15T23:59:00+02:00",
-      0,
-      0
+      "2026-09-15T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-09-26T00:00:00+02:00",
-      0,
-      0
+      "2026-09-26T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-09-27T23:59:00+02:00",
-      0,
-      0
+      "2026-09-27T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. August 2025 19:30 (GMT +02:00)",
-      0,
-      0
+      "Montag, 11. August 2025 19:30 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z",
-      0,
-      0
+      "2025-08-11T17:30:00.000Z"
     ],
     "lastChangedUnix": [
-      1754933400000,
-      0,
-      0
+      1754933400000
     ],
     "halle": [
-      "Willibald-Gluck-Gymnasium",
-      0,
-      0
+      "Willibald-Gluck-Gymnasium"
     ],
     "halleAdresse": [
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz",
-      0,
-      0
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
     ]
   },
   "_t": "a"
