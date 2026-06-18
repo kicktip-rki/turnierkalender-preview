@@ -1,98 +1,127 @@
 {
-  "3": {
-    "name": [
-      "Vereinsmeisterschaft Unterdürrbach 2026",
-      "Vereinsmeisterschaft Unterdürrbach (BAY O19) 2026"
-    ]
-  },
   "5": {
     "teilnehmer": [
-      9
+      9,
+      0,
+      0
     ],
     "konkurrenzen": [
-      20
+      20,
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-06-09T23:59:00+02:00"
+      "2026-06-09T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-06-20T00:00:00+02:00"
+      "2026-06-20T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-06-21T23:59:00+02:00"
+      "2026-06-21T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)"
+      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-06-10T09:17:00.000Z"
+      "2026-06-10T09:17:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1781083020000
+      1781083020000,
+      0,
+      0
     ],
     "halle": [
-      "Hammerseehalle"
+      "Hammerseehalle",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr"
+      "Schulstraße 3, 92439 Bodenwöhr",
+      0,
+      0
     ]
   },
-  "8": {
+  "6": {
     "teilnehmer": [
-      33,
-      40
+      182,
+      178
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 10. Juni 2026 22:40 (GMT +02:00)",
+      "Donnerstag, 18. Juni 2026 01:14 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-06-10T20:40:00.000Z",
+      "2026-06-17T23:14:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1781124000000,
+      1781738040000
     ]
   },
   "9": {
     "teilnehmer": [
-      13,
-      15
+      15,
+      16
     ]
   },
-  "17": {
+  "13": {
     "teilnehmer": [
-      1
+      14,
+      16
     ]
   },
-  "19": {
-    "teilnehmer": [
-      12,
-      13
+  "16": {
+    "konkurrenzen": [
+      28,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-24T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-12-05T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-12-06T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      0,
+      0
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      0,
+      0
     ]
   },
   "20": {
     "teilnehmer": [
-      16,
-      17
-    ]
-  },
-  "24": {
-    "konkurrenzen": [
-      24
-    ],
-    "meldeschluss": [
-      "2026-09-15T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-09-26T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-09-27T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:30 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754933400000
-    ],
-    "halle": [
-      "Willibald-Gluck-Gymnasium"
-    ],
-    "halleAdresse": [
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+      17,
+      18
     ]
   },
   "_t": "a"
