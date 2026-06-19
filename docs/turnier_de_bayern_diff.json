@@ -1,127 +1,117 @@
 {
-  "5": {
-    "teilnehmer": [
-      9,
-      0,
-      0
-    ],
-    "konkurrenzen": [
-      20,
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-06-09T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-06-20T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-06-21T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2026-06-10T09:17:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1781083020000,
-      0,
-      0
-    ],
-    "halle": [
-      "Hammerseehalle",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Schulstraße 3, 92439 Bodenwöhr",
-      0,
-      0
+  "1": {
+    "altersklassen": [
+      "Open",
+      "Open, C1-RLT, Open, E-RLT, Open"
     ]
   },
-  "6": {
+  "5": {
     "teilnehmer": [
-      182,
-      178
+      9
+    ],
+    "konkurrenzen": [
+      20
+    ],
+    "meldeschluss": [
+      "2026-06-09T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-06-20T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-06-21T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Mittwoch, 10. Juni 2026 22:40 (GMT +02:00)",
-      "Donnerstag, 18. Juni 2026 01:14 (GMT +02:00)"
+      "Mittwoch, 10. Juni 2026 11:17 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-10T20:40:00.000Z",
-      "2026-06-17T23:14:00.000Z"
+      "2026-06-10T09:17:00.000Z"
     ],
     "lastChangedUnix": [
-      1781124000000,
-      1781738040000
+      1781083020000
+    ],
+    "halle": [
+      "Hammerseehalle"
+    ],
+    "halleAdresse": [
+      "Schulstraße 3, 92439 Bodenwöhr"
+    ]
+  },
+  "7": {
+    "lastChangedHtml": [
+      "Sonntag, 14. Juni 2026 20:24 (GMT +02:00)",
+      "Freitag, 19. Juni 2026 00:02 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-06-14T18:24:00.000Z",
+      "2026-06-18T22:02:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1781461440000,
+      1781820120000
+    ]
+  },
+  "8": {
+    "teilnehmer": [
+      40,
+      193
+    ],
+    "konkurrenzen": [
+      24,
+      21
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 8. April 2026 09:41 (GMT +02:00)",
+      "Donnerstag, 18. Juni 2026 23:38 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-04-08T07:41:00.000Z",
+      "2026-06-18T21:38:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1775634060000,
+      1781818680000
     ]
   },
   "9": {
     "teilnehmer": [
-      15,
-      16
-    ]
-  },
-  "13": {
-    "teilnehmer": [
-      14,
-      16
+      16,
+      24
     ]
   },
   "16": {
     "konkurrenzen": [
-      28,
-      0,
-      0
+      28
     ],
     "meldeschluss": [
-      "2026-11-24T23:59:00+01:00",
-      0,
-      0
+      "2026-11-24T23:59:00+01:00"
     ],
     "startTurnier": [
-      "2026-12-05T00:00:00+01:00",
-      0,
-      0
+      "2026-12-05T00:00:00+01:00"
     ],
     "endeTurnier": [
-      "2026-12-06T23:59:00+01:00",
-      0,
-      0
+      "2026-12-06T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
-      0,
-      0
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
     ],
     "halle": [
-      "Städtische Sporthalle Nord",
-      0,
-      0
+      "Städtische Sporthalle Nord"
     ],
     "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg",
-      0,
-      0
+      "Isarstraße 24, 93057 Regensburg"
     ]
   },
   "20": {
     "teilnehmer": [
-      17,
-      18
+      18,
+      20
+    ]
+  },
+  "22": {
+    "teilnehmer": [
+      4,
+      5
     ]
   },
   "_t": "a"
