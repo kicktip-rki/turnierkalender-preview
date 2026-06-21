@@ -1,14 +1,5 @@
 [
   {
-    "id": "8C3A7CA0-71A3-45C7-94E7-280AE031A5DF",
-    "name": "D1-RLT O19 (43. Obernzeller Pokalturnier) 2026",
-    "datum": "13.06.2026",
-    "ort": "Hauzenberg",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "14+ A, B",
-    "url": "https://www.turnier.de/sport/tournament?id=8C3A7CA0-71A3-45C7-94E7-280AE031A5DF"
-  },
-  {
     "id": "36C61B39-3D19-4BBA-8371-A6D2EC068A17",
     "name": "2. C-RLT O19 & E-RLT O19 (33. Nördlinger-Daniel-Cup) 2026",
     "datum": "13.06.2026",
@@ -23,16 +14,16 @@
     "datum": "13.06.2026",
     "ort": "München",
     "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "14+",
+    "altersklassen": "14+, E-RLT, 14+",
     "url": "https://www.turnier.de/sport/tournament?id=3BC49AB4-2EC6-410A-A9B4-5ED09EF77A87",
     "teilnehmer": 123,
     "konkurrenzen": 6,
     "meldeschluss": "2026-06-07T23:59:00+02:00",
     "startTurnier": "2026-06-13T00:00:00+02:00",
     "endeTurnier": "2026-06-14T23:59:00+02:00",
-    "lastChangedHtml": "Sonntag, 14. Juni 2026 18:07 (GMT +02:00)",
-    "lastChangedIso": "2026-06-14T16:07:00.000Z",
-    "lastChangedUnix": 1781453220000,
+    "lastChangedHtml": "Samstag, 20. Juni 2026 14:41 (GMT +02:00)",
+    "lastChangedIso": "2026-06-20T12:41:00.000Z",
+    "lastChangedUnix": 1781959260000,
     "halle": "Halle des ESV Neuaubing",
     "halleAdresse": "Papinstraße 22, 81249 München"
   },
@@ -95,9 +86,9 @@
     "meldeschluss": "2026-06-09T23:59:00+02:00",
     "startTurnier": "2026-06-20T00:00:00+02:00",
     "endeTurnier": "2026-06-21T23:59:00+02:00",
-    "lastChangedHtml": "Samstag, 20. Juni 2026 08:14 (GMT +02:00)",
-    "lastChangedIso": "2026-06-20T06:14:00.000Z",
-    "lastChangedUnix": 1781936040000,
+    "lastChangedHtml": "Samstag, 20. Juni 2026 17:14 (GMT +02:00)",
+    "lastChangedIso": "2026-06-20T15:14:00.000Z",
+    "lastChangedUnix": 1781968440000,
     "halle": "EGF-Dreifachsporthalle",
     "halleAdresse": "Ruhalmstraße 5, 91301 Forchheim"
   },
@@ -200,6 +191,15 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "Open A, B, C",
     "url": "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
+  },
+  {
+    "id": "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
+    "name": "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026",
+    "datum": "05.09.2026",
+    "ort": "Zirndorf (07-0231)",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "Open A, B",
+    "url": "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842"
   },
   {
     "id": "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
@@ -317,15 +317,6 @@
     "lastChangedUnix": 1780849140000,
     "halle": "Georgendammhalle Bamberg",
     "halleAdresse": "Georgendamm 2, 96047 Bamberg"
-  },
-  {
-    "id": "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
-    "name": "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026",
-    "datum": "05.09.2026",
-    "ort": "Zirndorf (07-0231)",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open A, B",
-    "url": "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842"
   },
   {
     "id": "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
