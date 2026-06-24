@@ -1,38 +1,74 @@
 {
-  "5": {
-    "teilnehmer": [
-      27,
-      125
-    ],
-    "lastChangedHtml": [
-      "Donnerstag, 14. Mai 2026 22:04 (GMT +02:00)",
-      "Montag, 22. Juni 2026 23:33 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-14T20:04:00.000Z",
-      "2026-06-22T21:33:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1778789040000,
-      1782163980000
+  "0": {
+    "name": [
+      "Landkreismeisterschaft Augsburg-Land 2026",
+      "Landkreismeisterschaft Augsburg-Land (BAY O15-U19, O19) 2026"
     ]
   },
-  "16": {
+  "2": {
+    "lastChangedHtml": [
+      "Sonntag, 21. Juni 2026 17:22 (GMT +02:00)",
+      "Dienstag, 23. Juni 2026 22:12 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-06-21T15:22:00.000Z",
+      "2026-06-23T20:12:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1782055320000,
+      1782245520000
+    ]
+  },
+  "3": {
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "U11, U13, U13, U15, U17, U19"
+    ],
+    "konkurrenzen": [
+      24,
+      15
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 21. Juni 2026 18:25 (GMT +02:00)",
+      "Dienstag, 23. Juni 2026 21:57 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-06-21T16:25:00.000Z",
+      "2026-06-23T19:57:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1782059100000,
+      1782244620000
+    ]
+  },
+  "5": {
     "teilnehmer": [
-      13,
-      16
+      125,
+      133
+    ],
+    "lastChangedHtml": [
+      "Montag, 22. Juni 2026 23:33 (GMT +02:00)",
+      "Mittwoch, 24. Juni 2026 07:17 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-06-22T21:33:00.000Z",
+      "2026-06-24T05:17:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1782163980000,
+      1782278220000
     ]
   },
   "17": {
     "teilnehmer": [
-      20,
-      21
+      21,
+      23
     ]
   },
   "19": {
     "teilnehmer": [
-      5,
-      6
+      6,
+      8
     ]
   },
   "_t": "a"
