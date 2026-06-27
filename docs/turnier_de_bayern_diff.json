@@ -1,138 +1,51 @@
 {
   "4": {
     "teilnehmer": [
-      193,
-      183
+      183,
+      182
     ],
     "lastChangedHtml": [
-      "Donnerstag, 18. Juni 2026 23:38 (GMT +02:00)",
-      "Donnerstag, 25. Juni 2026 22:51 (GMT +02:00)"
+      "Donnerstag, 25. Juni 2026 22:51 (GMT +02:00)",
+      "Freitag, 26. Juni 2026 14:10 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-18T21:38:00.000Z",
-      "2026-06-25T20:51:00.000Z"
+      "2026-06-25T20:51:00.000Z",
+      "2026-06-26T12:10:00.000Z"
     ],
     "lastChangedUnix": [
-      1781818680000,
-      1782420660000
+      1782420660000,
+      1782475800000
     ]
   },
   "5": {
+    "teilnehmer": [
+      131,
+      126
+    ],
     "lastChangedHtml": [
-      "Mittwoch, 24. Juni 2026 20:42 (GMT +02:00)",
-      "Donnerstag, 25. Juni 2026 10:47 (GMT +02:00)"
+      "Donnerstag, 25. Juni 2026 10:47 (GMT +02:00)",
+      "Freitag, 26. Juni 2026 21:59 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-24T18:42:00.000Z",
-      "2026-06-25T08:47:00.000Z"
+      "2026-06-25T08:47:00.000Z",
+      "2026-06-26T19:59:00.000Z"
     ],
     "lastChangedUnix": [
-      1782326520000,
-      1782377220000
+      1782377220000,
+      1782503940000
     ]
   },
   "16": {
     "teilnehmer": [
-      16,
-      17
+      17,
+      18
     ]
   },
   "17": {
     "teilnehmer": [
-      25,
-      28
+      28,
+      30
     ]
   },
-  "20": {
-    "id": [
-      "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "F541441E-11DD-48E5-9E05-342408C78A18"
-    ],
-    "name": [
-      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
-      "D1-RLT O19 E/D/MX & E-RLT O19 E/D/MX (43. Semptturnier) 2026"
-    ],
-    "datum": [
-      "26.09.2026",
-      "19.09.2026"
-    ],
-    "ort": [
-      "Neumarkt i.d. Oberpfalz",
-      "Erding"
-    ],
-    "altersklassen": [
-      "U11, U13, U15, U17, U19",
-      "Open A, B, C"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18"
-    ],
-    "konkurrenzen": [
-      24,
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-09-15T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-09-26T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-09-27T23:59:00+02:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Montag, 11. August 2025 19:30 (GMT +02:00)",
-      0,
-      0
-    ],
-    "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1754933400000,
-      0,
-      0
-    ],
-    "halle": [
-      "Willibald-Gluck-Gymnasium",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz",
-      0,
-      0
-    ]
-  },
-  "21": [
-    {
-      "id": "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "name": "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
-      "datum": "26.09.2026",
-      "ort": "Neumarkt i.d. Oberpfalz",
-      "veranstalter": "Bayerischer Badminton-Verband",
-      "altersklassen": "U11, U13, U15, U17, U19",
-      "url": "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-      "konkurrenzen": 24,
-      "meldeschluss": "2026-09-15T23:59:00+02:00",
-      "startTurnier": "2026-09-26T00:00:00+02:00",
-      "endeTurnier": "2026-09-27T23:59:00+02:00",
-      "lastChangedHtml": "Montag, 11. August 2025 19:30 (GMT +02:00)",
-      "lastChangedIso": "2025-08-11T17:30:00.000Z",
-      "lastChangedUnix": 1754933400000,
-      "halle": "Willibald-Gluck-Gymnasium",
-      "halleAdresse": "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
-    }
-  ],
   "_t": "a"
 }
