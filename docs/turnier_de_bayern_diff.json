@@ -1,69 +1,78 @@
 {
-  "9": {
+  "1": {
     "teilnehmer": [
-      25
+      125,
+      0,
+      0
     ],
     "konkurrenzen": [
-      24
+      15,
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-06-30T23:59:00+02:00"
+      "2026-06-19T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-07-11T00:00:00+02:00"
+      "2026-06-27T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-07-12T23:59:00+02:00"
+      "2026-06-28T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Montag, 11. August 2025 19:31 (GMT +02:00)"
+      "Sonntag, 28. Juni 2026 14:20 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2025-08-11T17:31:00.000Z"
+      "2026-06-28T12:20:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1754933460000
+      1782649200000,
+      0,
+      0
     ],
     "halle": [
-      "Wilheilm-Renkhoff-Halle"
+      "Georgendammhalle Bamberg",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld"
+      "Georgendamm 2, 96047 Bamberg",
+      0,
+      0
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      25,
+      115
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:31 (GMT +02:00)",
+      "Mittwoch, 1. Juli 2026 08:24 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:31:00.000Z",
+      "2026-07-01T06:24:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933460000,
+      1782887040000
     ]
   },
   "10": {
     "teilnehmer": [
-      34,
-      37
-    ]
-  },
-  "12": {
-    "teilnehmer": [
-      12,
-      13
-    ]
-  },
-  "17": {
-    "konkurrenzen": [
-      20
-    ],
-    "meldeschluss": [
-      "2026-10-18T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-11-07T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-08T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Samstag, 2. August 2025 10:08 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2025-08-02T08:08:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1754122080000
+      37,
+      38
     ]
   },
   "_t": "a"
