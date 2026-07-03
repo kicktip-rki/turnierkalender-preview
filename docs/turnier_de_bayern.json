@@ -25,17 +25,7 @@
     "ort": "Bamberg",
     "veranstalter": "BAY - 1. BV Bamberg",
     "altersklassen": "14+ A, B, C",
-    "url": "https://www.turnier.de/sport/tournament?id=150A6B75-8722-443A-AF34-E56CB91BB237",
-    "teilnehmer": 125,
-    "konkurrenzen": 15,
-    "meldeschluss": "2026-06-19T23:59:00+02:00",
-    "startTurnier": "2026-06-27T00:00:00+02:00",
-    "endeTurnier": "2026-06-28T23:59:00+02:00",
-    "lastChangedHtml": "Sonntag, 28. Juni 2026 14:20 (GMT +02:00)",
-    "lastChangedIso": "2026-06-28T12:20:00.000Z",
-    "lastChangedUnix": 1782649200000,
-    "halle": "Georgendammhalle Bamberg",
-    "halleAdresse": "Georgendamm 2, 96047 Bamberg"
+    "url": "https://www.turnier.de/sport/tournament?id=150A6B75-8722-443A-AF34-E56CB91BB237"
   },
   {
     "id": "27F6F222-03EF-4FF8-B44F-04F7A5802526",
@@ -71,7 +61,17 @@
     "ort": "Erdweg",
     "veranstalter": "BAY - SpVgg Erdweg",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=80EF6A3F-AA8E-4051-9728-AC4004E47D95"
+    "url": "https://www.turnier.de/sport/tournament?id=80EF6A3F-AA8E-4051-9728-AC4004E47D95",
+    "teilnehmer": 184,
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-06-25T23:59:00+02:00",
+    "startTurnier": "2026-07-04T00:00:00+02:00",
+    "endeTurnier": "2026-07-05T23:59:00+02:00",
+    "lastChangedHtml": "Donnerstag, 2. Juli 2026 16:56 (GMT +02:00)",
+    "lastChangedIso": "2026-07-02T14:56:00.000Z",
+    "lastChangedUnix": 1783004160000,
+    "halle": "Schulsporthalle Erdweg",
+    "halleAdresse": "Pater-Cherubin-Str. 5, 85253 Erdweg"
   },
   {
     "id": "EFA99B52-D5E8-4607-87A6-22FE08BD1AC2",
@@ -107,7 +107,17 @@
     "ort": "Marktheidenfeld",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428"
+    "url": "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
+    "teilnehmer": 115,
+    "konkurrenzen": 24,
+    "meldeschluss": "2026-06-30T23:59:00+02:00",
+    "startTurnier": "2026-07-11T00:00:00+02:00",
+    "endeTurnier": "2026-07-12T23:59:00+02:00",
+    "lastChangedHtml": "Mittwoch, 1. Juli 2026 08:24 (GMT +02:00)",
+    "lastChangedIso": "2026-07-01T06:24:00.000Z",
+    "lastChangedUnix": 1782887040000,
+    "halle": "Wilheilm-Renkhoff-Halle",
+    "halleAdresse": "Am Sportzentrum 5, 97828 Marktheidenfeld"
   },
   {
     "id": "F8EF17AC-7F1B-4063-A49E-E924D884969A",
@@ -145,7 +155,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411",
-    "teilnehmer": 13,
+    "teilnehmer": 14,
     "konkurrenzen": 16,
     "meldeschluss": "2026-07-14T23:59:00+02:00",
     "startTurnier": "2026-07-25T00:00:00+02:00",
@@ -207,7 +217,17 @@
     "ort": "München",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "14+",
-    "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396"
+    "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+    "teilnehmer": 2,
+    "konkurrenzen": 10,
+    "meldeschluss": "2026-11-29T23:59:00+01:00",
+    "startTurnier": "2026-12-05T00:00:00+01:00",
+    "endeTurnier": "2026-12-06T23:59:00+01:00",
+    "lastChangedHtml": "Donnerstag, 28. Mai 2026 10:22 (GMT +02:00)",
+    "lastChangedIso": "2026-05-28T08:22:00.000Z",
+    "lastChangedUnix": 1779956520000,
+    "halle": "Halle des ESV Neuaubing",
+    "halleAdresse": "Papinstraße 22, 81249 München"
   },
   {
     "id": "836C93F3-7635-420B-B314-DEDB60884AB2",
