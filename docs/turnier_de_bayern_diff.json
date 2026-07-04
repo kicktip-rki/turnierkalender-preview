@@ -1,156 +1,52 @@
 {
   "1": {
     "teilnehmer": [
-      125,
-      0,
-      0
+      125
     ],
     "konkurrenzen": [
-      15,
-      0,
-      0
+      15
     ],
     "meldeschluss": [
-      "2026-06-19T23:59:00+02:00",
-      0,
-      0
+      "2026-06-19T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-06-27T00:00:00+02:00",
-      0,
-      0
+      "2026-06-27T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-06-28T23:59:00+02:00",
-      0,
-      0
+      "2026-06-28T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Sonntag, 28. Juni 2026 14:20 (GMT +02:00)",
-      0,
-      0
+      "Sonntag, 28. Juni 2026 14:20 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-28T12:20:00.000Z",
-      0,
-      0
+      "2026-06-28T12:20:00.000Z"
     ],
     "lastChangedUnix": [
-      1782649200000,
-      0,
-      0
+      1782649200000
     ],
     "halle": [
-      "Georgendammhalle Bamberg",
-      0,
-      0
+      "Georgendammhalle Bamberg"
     ],
     "halleAdresse": [
-      "Georgendamm 2, 96047 Bamberg",
-      0,
-      0
+      "Georgendamm 2, 96047 Bamberg"
     ]
   },
   "5": {
     "teilnehmer": [
-      184
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "meldeschluss": [
-      "2026-06-25T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-07-04T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-07-05T23:59:00+02:00"
+      184,
+      183
     ],
     "lastChangedHtml": [
-      "Donnerstag, 2. Juli 2026 16:56 (GMT +02:00)"
+      "Donnerstag, 2. Juli 2026 16:56 (GMT +02:00)",
+      "Freitag, 3. Juli 2026 22:31 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-07-02T14:56:00.000Z"
+      "2026-07-02T14:56:00.000Z",
+      "2026-07-03T20:31:00.000Z"
     ],
     "lastChangedUnix": [
-      1783004160000
-    ],
-    "halle": [
-      "Schulsporthalle Erdweg"
-    ],
-    "halleAdresse": [
-      "Pater-Cherubin-Str. 5, 85253 Erdweg"
-    ]
-  },
-  "9": {
-    "teilnehmer": [
-      115
-    ],
-    "konkurrenzen": [
-      24
-    ],
-    "meldeschluss": [
-      "2026-06-30T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-07-11T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-07-12T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Mittwoch, 1. Juli 2026 08:24 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-07-01T06:24:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1782887040000
-    ],
-    "halle": [
-      "Wilheilm-Renkhoff-Halle"
-    ],
-    "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld"
-    ]
-  },
-  "12": {
-    "teilnehmer": [
-      13,
-      14
-    ]
-  },
-  "16": {
-    "teilnehmer": [
-      2
-    ],
-    "konkurrenzen": [
-      10
-    ],
-    "meldeschluss": [
-      "2026-11-29T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-12-05T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-12-06T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Donnerstag, 28. Mai 2026 10:22 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-05-28T08:22:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1779956520000
-    ],
-    "halle": [
-      "Halle des ESV Neuaubing"
-    ],
-    "halleAdresse": [
-      "Papinstraße 22, 81249 München"
+      1783004160000,
+      1783110660000
     ]
   },
   "_t": "a"
