@@ -1,52 +1,40 @@
 {
-  "1": {
-    "teilnehmer": [
-      125
-    ],
-    "konkurrenzen": [
-      15
-    ],
-    "meldeschluss": [
-      "2026-06-19T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-06-27T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-06-28T23:59:00+02:00"
-    ],
+  "5": {
     "lastChangedHtml": [
-      "Sonntag, 28. Juni 2026 14:20 (GMT +02:00)"
+      "Freitag, 3. Juli 2026 22:31 (GMT +02:00)",
+      "Samstag, 4. Juli 2026 15:04 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-06-28T12:20:00.000Z"
+      "2026-07-03T20:31:00.000Z",
+      "2026-07-04T13:04:00.000Z"
     ],
     "lastChangedUnix": [
-      1782649200000
-    ],
-    "halle": [
-      "Georgendammhalle Bamberg"
-    ],
-    "halleAdresse": [
-      "Georgendamm 2, 96047 Bamberg"
+      1783110660000,
+      1783170240000
     ]
   },
-  "5": {
+  "10": {
     "teilnehmer": [
-      184,
-      183
+      210,
+      208
     ],
     "lastChangedHtml": [
-      "Donnerstag, 2. Juli 2026 16:56 (GMT +02:00)",
-      "Freitag, 3. Juli 2026 22:31 (GMT +02:00)"
+      "Mittwoch, 1. Juli 2026 15:29 (GMT +02:00)",
+      "Samstag, 4. Juli 2026 18:00 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-07-02T14:56:00.000Z",
-      "2026-07-03T20:31:00.000Z"
+      "2026-07-01T13:29:00.000Z",
+      "2026-07-04T16:00:00.000Z"
     ],
     "lastChangedUnix": [
-      1783004160000,
-      1783110660000
+      1782912540000,
+      1783180800000
+    ]
+  },
+  "12": {
+    "teilnehmer": [
+      14,
+      15
     ]
   },
   "_t": "a"
