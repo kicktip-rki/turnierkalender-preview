@@ -105,7 +105,14 @@
     "ort": "Augsburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U13, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2"
+    "url": "https://www.turnier.de/sport/tournament?id=836C93F3-7635-420B-B314-DEDB60884AB2",
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-10-18T23:59:00+02:00",
+    "startTurnier": "2026-11-07T00:00:00+01:00",
+    "endeTurnier": "2026-11-08T23:59:00+01:00",
+    "lastChangedHtml": "Samstag, 2. August 2025 10:08 (GMT +02:00)",
+    "lastChangedIso": "2025-08-02T08:08:00.000Z",
+    "lastChangedUnix": 1754122080000
   },
   {
     "id": "D30BC769-67BE-4531-9BDB-D12C869D4428",
@@ -161,7 +168,17 @@
     "ort": "Bamberg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411"
+    "url": "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411",
+    "teilnehmer": 18,
+    "konkurrenzen": 16,
+    "meldeschluss": "2026-07-14T23:59:00+02:00",
+    "startTurnier": "2026-07-25T00:00:00+02:00",
+    "endeTurnier": "2026-07-26T23:59:00+02:00",
+    "lastChangedHtml": "Sonntag, 7. Juni 2026 18:19 (GMT +02:00)",
+    "lastChangedIso": "2026-06-07T16:19:00.000Z",
+    "lastChangedUnix": 1780849140000,
+    "halle": "Georgendammhalle Bamberg",
+    "halleAdresse": "Georgendamm 2, 96047 Bamberg"
   },
   {
     "id": "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
