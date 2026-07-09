@@ -1,1 +1,75 @@
-null
+{
+  "1": {
+    "name": [
+      "CBC2026",
+      "CBCMunich (BBV O19) 2026"
+    ]
+  },
+  "3": {
+    "lastChangedHtml": [
+      "Sonntag, 5. Juli 2026 18:25 (GMT +02:00)",
+      "Mittwoch, 8. Juli 2026 14:10 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-07-05T16:25:00.000Z",
+      "2026-07-08T12:10:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1783268700000,
+      1783512600000
+    ]
+  },
+  "4": {
+    "name": [
+      "Erlanger Sommerturnier 2026",
+      "Erlanger Sommerturnier (BAY O19) 2026"
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      115,
+      112
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00",
+      "2026-07-11T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 1. Juli 2026 08:24 (GMT +02:00)",
+      "Mittwoch, 8. Juli 2026 08:29 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-07-01T06:24:00.000Z",
+      "2026-07-08T06:29:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1782887040000,
+      1783492140000
+    ]
+  },
+  "10": {
+    "teilnehmer": [
+      208,
+      205
+    ],
+    "lastChangedHtml": [
+      "Samstag, 4. Juli 2026 18:00 (GMT +02:00)",
+      "Mittwoch, 8. Juli 2026 19:57 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-07-04T16:00:00.000Z",
+      "2026-07-08T17:57:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1783180800000,
+      1783533420000
+    ]
+  },
+  "12": {
+    "teilnehmer": [
+      18,
+      20
+    ]
+  },
+  "_t": "a"
+}
