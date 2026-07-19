@@ -1,1 +1,556 @@
-null
+{
+  "0": {
+    "id": [
+      "D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "name": [
+      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026"
+    ],
+    "ort": [
+      "Marktheidenfeld",
+      "Geretsried"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A"
+    ],
+    "teilnehmer": [
+      111,
+      197
+    ],
+    "endeTurnier": [
+      "2026-07-11T23:59:00+02:00",
+      "2026-07-12T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 15. Juli 2026 14:58 (GMT +02:00)",
+      "Sonntag, 12. Juli 2026 16:16 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-07-15T12:58:00.000Z",
+      "2026-07-12T14:16:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1784120280000,
+      1783865760000
+    ],
+    "halle": [
+      "Wilheilm-Renkhoff-Halle",
+      "Sporthalle Schule 14"
+    ],
+    "halleAdresse": [
+      "Am Sportzentrum 5, 97828 Marktheidenfeld",
+      "Adalbert-Stifter-Str., 85238 Geretsried"
+    ]
+  },
+  "1": {
+    "id": [
+      "F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "name": [
+      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026",
+      "Wendelsteiner Sommerturnier 2026"
+    ],
+    "datum": [
+      "11.07.2026",
+      "18.07.2026"
+    ],
+    "ort": [
+      "Geretsried",
+      "Wendelstein"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A",
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F"
+    ],
+    "teilnehmer": [
+      197,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-06-30T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-07-11T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-07-12T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 12. Juli 2026 16:16 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-07-12T14:16:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1783865760000,
+      0,
+      0
+    ],
+    "halle": [
+      "Sporthalle Schule 14",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Adalbert-Stifter-Str., 85238 Geretsried",
+      0,
+      0
+    ]
+  },
+  "2": {
+    "id": [
+      "D3F36432-F056-42BA-B136-8815889F251F",
+      "6EBC27CF-072E-426D-B670-87ADEED86411"
+    ],
+    "name": [
+      "Wendelsteiner Sommerturnier 2026",
+      "7-Hügel-Cup Bamberg 2026"
+    ],
+    "datum": [
+      "18.07.2026",
+      "25.07.2026"
+    ],
+    "ort": [
+      "Wendelstein",
+      "Bamberg"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D3F36432-F056-42BA-B136-8815889F251F",
+      "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411"
+    ],
+    "teilnehmer": [
+      135
+    ],
+    "konkurrenzen": [
+      16
+    ],
+    "meldeschluss": [
+      "2026-07-14T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-07-25T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-07-26T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 16. Juli 2026 10:44 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-07-16T08:44:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1784191440000
+    ],
+    "halle": [
+      "Georgendammhalle Bamberg"
+    ],
+    "halleAdresse": [
+      "Georgendamm 2, 96047 Bamberg"
+    ]
+  },
+  "3": {
+    "id": [
+      "6EBC27CF-072E-426D-B670-87ADEED86411",
+      "27F6F222-03EF-4FF8-B44F-04F7A5802526"
+    ],
+    "name": [
+      "7-Hügel-Cup Bamberg 2026",
+      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026"
+    ],
+    "datum": [
+      "25.07.2026",
+      "01.08.2026"
+    ],
+    "ort": [
+      "Bamberg",
+      "Prien am Chiemsee"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411",
+      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526"
+    ],
+    "teilnehmer": [
+      135,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      16,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-07-14T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-07-25T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-07-26T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Donnerstag, 16. Juli 2026 10:44 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-07-16T08:44:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1784191440000,
+      0,
+      0
+    ],
+    "halle": [
+      "Georgendammhalle Bamberg",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Georgendamm 2, 96047 Bamberg",
+      0,
+      0
+    ]
+  },
+  "4": {
+    "id": [
+      "27F6F222-03EF-4FF8-B44F-04F7A5802526",
+      "A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
+    ],
+    "name": [
+      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026",
+      "DBV C- & E-RLT O19 (30. Geretsrieder Stadtmeisterschaft) 2026"
+    ],
+    "datum": [
+      "01.08.2026",
+      "05.09.2026"
+    ],
+    "ort": [
+      "Prien am Chiemsee",
+      "Geretsried"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526",
+      "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
+    ]
+  },
+  "5": {
+    "id": [
+      "A43FD6CD-357A-469C-9ED9-9A01699EDCD5",
+      "D5E4186F-85FF-4017-A2A2-15CDA66BE842"
+    ],
+    "name": [
+      "DBV C- & E-RLT O19 (30. Geretsrieder Stadtmeisterschaft) 2026",
+      "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026"
+    ],
+    "ort": [
+      "Geretsried",
+      "Zirndorf (07-0231)"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "Open A, B"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5",
+      "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842"
+    ]
+  },
+  "6": {
+    "id": [
+      "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
+      "DB93D4CF-956C-4089-9212-28CA36CD40CA"
+    ],
+    "name": [
+      "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026",
+      "C1 & E-RLT BAY O19 (11. Septemberturnier des TSV 1846 Nürnberg) 2026"
+    ],
+    "datum": [
+      "05.09.2026",
+      "12.09.2026"
+    ],
+    "ort": [
+      "Zirndorf (07-0231)",
+      "Nürnberg"
+    ],
+    "veranstalter": [
+      "Bayerischer Badminton-Verband",
+      "BAY - TSV 1846 Nürnberg"
+    ],
+    "altersklassen": [
+      "Open A, B",
+      "Open A, B, C"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842",
+      "https://www.turnier.de/sport/tournament?id=DB93D4CF-956C-4089-9212-28CA36CD40CA"
+    ]
+  },
+  "7": {
+    "id": [
+      "DB93D4CF-956C-4089-9212-28CA36CD40CA",
+      "F541441E-11DD-48E5-9E05-342408C78A18"
+    ],
+    "name": [
+      "C1 & E-RLT BAY O19 (11. Septemberturnier des TSV 1846 Nürnberg) 2026",
+      "D1-RLT O19 E/D/MX & E-RLT O19 E/D/MX (43. Semptturnier) 2026"
+    ],
+    "datum": [
+      "12.09.2026",
+      "19.09.2026"
+    ],
+    "ort": [
+      "Nürnberg",
+      "Erding"
+    ],
+    "veranstalter": [
+      "BAY - TSV 1846 Nürnberg",
+      "Bayerischer Badminton-Verband"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=DB93D4CF-956C-4089-9212-28CA36CD40CA",
+      "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18"
+    ]
+  },
+  "8": {
+    "id": [
+      "F541441E-11DD-48E5-9E05-342408C78A18",
+      "246F47AF-FC4E-46A6-98EC-7356DE4162F6"
+    ],
+    "name": [
+      "D1-RLT O19 E/D/MX & E-RLT O19 E/D/MX (43. Semptturnier) 2026",
+      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026"
+    ],
+    "datum": [
+      "19.09.2026",
+      "26.09.2026"
+    ],
+    "ort": [
+      "Erding",
+      "Neumarkt i.d. Oberpfalz"
+    ],
+    "altersklassen": [
+      "Open A, B, C",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18",
+      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6"
+    ],
+    "teilnehmer": [
+      3
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "meldeschluss": [
+      "2026-09-15T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-09-26T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-09-27T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:30 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:30:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933400000
+    ],
+    "halle": [
+      "Willibald-Gluck-Gymnasium"
+    ],
+    "halleAdresse": [
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+    ]
+  },
+  "9": {
+    "id": [
+      "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "name": [
+      "Bayerische Einzelmeisterschaft U11-U19 Freystadt 2026",
+      "Platzhalter 3. E-RLT Niederbayern"
+    ],
+    "datum": [
+      "26.09.2026",
+      "05.12.2026"
+    ],
+    "ort": [
+      "Neumarkt i.d. Oberpfalz",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
+      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "teilnehmer": [
+      3,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      24,
+      28
+    ],
+    "meldeschluss": [
+      "2026-09-15T23:59:00+02:00",
+      "2026-11-24T23:59:00+01:00"
+    ],
+    "startTurnier": [
+      "2026-09-26T00:00:00+02:00",
+      "2026-12-05T00:00:00+01:00"
+    ],
+    "endeTurnier": [
+      "2026-09-27T23:59:00+02:00",
+      "2026-12-06T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:30 (GMT +02:00)",
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:30:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1754933400000,
+      0,
+      0
+    ],
+    "halle": [
+      "Willibald-Gluck-Gymnasium",
+      "Städtische Sporthalle Nord"
+    ],
+    "halleAdresse": [
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz",
+      "Isarstraße 24, 93057 Regensburg"
+    ]
+  },
+  "10": {
+    "id": [
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "953E3CEC-98F4-4B7B-9DE1-5214E635A396"
+    ],
+    "name": [
+      "Platzhalter 3. E-RLT Niederbayern",
+      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026"
+    ],
+    "ort": [
+      "Regensburg",
+      "München"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "14+"
+    ],
+    "url": [
+      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396"
+    ],
+    "konkurrenzen": [
+      28,
+      10
+    ],
+    "meldeschluss": [
+      "2026-11-24T23:59:00+01:00",
+      "2026-11-29T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      "Donnerstag, 28. Mai 2026 10:22 (GMT +02:00)"
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      "Halle des ESV Neuaubing"
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      "Papinstraße 22, 81249 München"
+    ],
+    "teilnehmer": [
+      2
+    ],
+    "lastChangedIso": [
+      "2026-05-28T08:22:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1779956520000
+    ]
+  },
+  "_t": "a",
+  "_11": [
+    {
+      "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "datum": "05.12.2026",
+      "ort": "München",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "14+",
+      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "teilnehmer": 2,
+      "konkurrenzen": 10,
+      "meldeschluss": "2026-11-29T23:59:00+01:00",
+      "startTurnier": "2026-12-05T00:00:00+01:00",
+      "endeTurnier": "2026-12-06T23:59:00+01:00",
+      "lastChangedHtml": "Donnerstag, 28. Mai 2026 10:22 (GMT +02:00)",
+      "lastChangedIso": "2026-05-28T08:22:00.000Z",
+      "lastChangedUnix": 1779956520000,
+      "halle": "Halle des ESV Neuaubing",
+      "halleAdresse": "Papinstraße 22, 81249 München"
+    },
+    0,
+    0
+  ]
+}

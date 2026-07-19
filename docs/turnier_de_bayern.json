@@ -1,24 +1,5 @@
 [
   {
-    "id": "D30BC769-67BE-4531-9BDB-D12C869D4428",
-    "name": "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
-    "datum": "11.07.2026",
-    "ort": "Marktheidenfeld",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
-    "teilnehmer": 111,
-    "konkurrenzen": 24,
-    "meldeschluss": "2026-06-30T23:59:00+02:00",
-    "startTurnier": "2026-07-11T00:00:00+02:00",
-    "endeTurnier": "2026-07-11T23:59:00+02:00",
-    "lastChangedHtml": "Mittwoch, 15. Juli 2026 14:58 (GMT +02:00)",
-    "lastChangedIso": "2026-07-15T12:58:00.000Z",
-    "lastChangedUnix": 1784120280000,
-    "halle": "Wilheilm-Renkhoff-Halle",
-    "halleAdresse": "Am Sportzentrum 5, 97828 Marktheidenfeld"
-  },
-  {
     "id": "F8EF17AC-7F1B-4063-A49E-E924D884969A",
     "name": "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026",
     "datum": "11.07.2026",
