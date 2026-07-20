@@ -1,52 +1,6 @@
 {
   "0": {
     "id": [
-      "D30BC769-67BE-4531-9BDB-D12C869D4428",
-      "F8EF17AC-7F1B-4063-A49E-E924D884969A"
-    ],
-    "name": [
-      "Nordbayerische Einzelmeisterschaft U11-U19 Marktheidenfeld 2026",
-      "Südbayerische Einzelmeisterschaft U11-U19 Gerestried 2026"
-    ],
-    "ort": [
-      "Marktheidenfeld",
-      "Geretsried"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=D30BC769-67BE-4531-9BDB-D12C869D4428",
-      "https://www.turnier.de/sport/tournament?id=F8EF17AC-7F1B-4063-A49E-E924D884969A"
-    ],
-    "teilnehmer": [
-      111,
-      197
-    ],
-    "endeTurnier": [
-      "2026-07-11T23:59:00+02:00",
-      "2026-07-12T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Mittwoch, 15. Juli 2026 14:58 (GMT +02:00)",
-      "Sonntag, 12. Juli 2026 16:16 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-07-15T12:58:00.000Z",
-      "2026-07-12T14:16:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1784120280000,
-      1783865760000
-    ],
-    "halle": [
-      "Wilheilm-Renkhoff-Halle",
-      "Sporthalle Schule 14"
-    ],
-    "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld",
-      "Adalbert-Stifter-Str., 85238 Geretsried"
-    ]
-  },
-  "1": {
-    "id": [
       "F8EF17AC-7F1B-4063-A49E-E924D884969A",
       "D3F36432-F056-42BA-B136-8815889F251F"
     ],
@@ -121,7 +75,7 @@
       0
     ]
   },
-  "2": {
+  "1": {
     "id": [
       "D3F36432-F056-42BA-B136-8815889F251F",
       "6EBC27CF-072E-426D-B670-87ADEED86411"
@@ -147,7 +101,7 @@
       "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411"
     ],
     "teilnehmer": [
-      135
+      134
     ],
     "konkurrenzen": [
       16
@@ -162,13 +116,13 @@
       "2026-07-26T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Donnerstag, 16. Juli 2026 10:44 (GMT +02:00)"
+      "Sonntag, 19. Juli 2026 22:55 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-07-16T08:44:00.000Z"
+      "2026-07-19T20:55:00.000Z"
     ],
     "lastChangedUnix": [
-      1784191440000
+      1784494500000
     ],
     "halle": [
       "Georgendammhalle Bamberg"
@@ -177,7 +131,7 @@
       "Georgendamm 2, 96047 Bamberg"
     ]
   },
-  "3": {
+  "2": {
     "id": [
       "6EBC27CF-072E-426D-B670-87ADEED86411",
       "27F6F222-03EF-4FF8-B44F-04F7A5802526"
@@ -253,7 +207,7 @@
       0
     ]
   },
-  "4": {
+  "3": {
     "id": [
       "27F6F222-03EF-4FF8-B44F-04F7A5802526",
       "A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
@@ -275,7 +229,7 @@
       "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
     ]
   },
-  "5": {
+  "4": {
     "id": [
       "A43FD6CD-357A-469C-9ED9-9A01699EDCD5",
       "D5E4186F-85FF-4017-A2A2-15CDA66BE842"
@@ -297,7 +251,7 @@
       "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842"
     ]
   },
-  "6": {
+  "5": {
     "id": [
       "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
       "DB93D4CF-956C-4089-9212-28CA36CD40CA"
@@ -327,7 +281,7 @@
       "https://www.turnier.de/sport/tournament?id=DB93D4CF-956C-4089-9212-28CA36CD40CA"
     ]
   },
-  "7": {
+  "6": {
     "id": [
       "DB93D4CF-956C-4089-9212-28CA36CD40CA",
       "F541441E-11DD-48E5-9E05-342408C78A18"
@@ -353,7 +307,7 @@
       "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18"
     ]
   },
-  "8": {
+  "7": {
     "id": [
       "F541441E-11DD-48E5-9E05-342408C78A18",
       "246F47AF-FC4E-46A6-98EC-7356DE4162F6"
@@ -379,7 +333,7 @@
       "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6"
     ],
     "teilnehmer": [
-      3
+      4
     ],
     "konkurrenzen": [
       24
@@ -409,7 +363,7 @@
       "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
     ]
   },
-  "9": {
+  "8": {
     "id": [
       "246F47AF-FC4E-46A6-98EC-7356DE4162F6",
       "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
@@ -478,7 +432,7 @@
       "Isarstraße 24, 93057 Regensburg"
     ]
   },
-  "10": {
+  "9": {
     "id": [
       "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
       "953E3CEC-98F4-4B7B-9DE1-5214E635A396"
@@ -530,7 +484,7 @@
     ]
   },
   "_t": "a",
-  "_11": [
+  "_10": [
     {
       "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
       "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
