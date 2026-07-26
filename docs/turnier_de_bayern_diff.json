@@ -1,20 +1,52 @@
 {
   "1": {
     "teilnehmer": [
-      128,
-      127
+      127,
+      123
     ],
     "lastChangedHtml": [
-      "Donnerstag, 23. Juli 2026 14:02 (GMT +02:00)",
-      "Freitag, 24. Juli 2026 10:28 (GMT +02:00)"
+      "Freitag, 24. Juli 2026 10:28 (GMT +02:00)",
+      "Samstag, 25. Juli 2026 17:51 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-07-23T12:02:00.000Z",
-      "2026-07-24T08:28:00.000Z"
+      "2026-07-24T08:28:00.000Z",
+      "2026-07-25T15:51:00.000Z"
     ],
     "lastChangedUnix": [
-      1784808120000,
-      1784881680000
+      1784881680000,
+      1784994660000
+    ]
+  },
+  "7": {
+    "teilnehmer": [
+      8
+    ],
+    "konkurrenzen": [
+      24
+    ],
+    "meldeschluss": [
+      "2026-09-15T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-09-26T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-09-27T23:59:00+02:00"
+    ],
+    "lastChangedHtml": [
+      "Montag, 11. August 2025 19:30 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2025-08-11T17:30:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1754933400000
+    ],
+    "halle": [
+      "Willibald-Gluck-Gymnasium"
+    ],
+    "halleAdresse": [
+      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
     ]
   },
   "_t": "a"
