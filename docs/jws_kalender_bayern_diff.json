@@ -1,1 +1,16 @@
-null
+{
+  "14": [
+    {
+      "datum": "11.12. - 13.12.",
+      "name": "Deutsche Meisterschaften U15-U19",
+      "ort": "Mülheim",
+      "veranstalter": "DBV",
+      "kategorie": "A-Level",
+      "akDisziplin": "U15: E/D/M U17: E/D/M U19: E/D/M",
+      "meldeschluss": "17.11.2026",
+      "pdfUrl": "",
+      "turniereUrl": ""
+    }
+  ],
+  "_t": "a"
+}
