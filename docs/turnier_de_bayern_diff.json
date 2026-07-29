@@ -1,32 +1,8 @@
 {
-  "0": {
-    "name": [
-      "7-Hügel-Cup Bamberg 2026",
-      "7-Hügel-Cup Bamberg (BBV U11-U19) 2026"
-    ],
-    "lastChangedHtml": [
-      "Sonntag, 26. Juli 2026 16:30 (GMT +02:00)",
-      "Montag, 27. Juli 2026 16:03 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-07-26T14:30:00.000Z",
-      "2026-07-27T14:03:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1785076200000,
-      1785160980000
-    ]
-  },
   "7": {
     "teilnehmer": [
-      11,
-      13
-    ]
-  },
-  "8": {
-    "teilnehmer": [
-      2,
-      3
+      13,
+      14
     ]
   },
   "_t": "a"
