@@ -160,12 +160,23 @@
   },
   {
     "datum": "07.11. - 08.11.",
+    "name": "Südostdeutsche Meisterschaften U13-U19",
+    "ort": "Augsburg",
+    "veranstalter": "Gruppe Süd-Ost",
+    "kategorie": "B-Level",
+    "akDisziplin": "U13: E/D/M U15: E/D/M U17: E/D/M U19: E/D/M",
+    "meldeschluss": "13.10.2026",
+    "pdfUrl": "",
+    "turniereUrl": ""
+  },
+  {
+    "datum": "07.11. - 08.11.",
     "name": "Südwestdeutsche Meisterschaften U13-U19",
     "ort": "Hofheim (HES)",
     "veranstalter": "Gruppe Mitte",
     "kategorie": "B-Level",
     "akDisziplin": "U13: E/D/M U15: E/D/M U17: E/D/M U19: E/D/M",
-    "meldeschluss": "10.10.2026",
+    "meldeschluss": "03.10.2026",
     "pdfUrl": "",
     "turniereUrl": ""
   },
