@@ -1,170 +1,132 @@
 {
-  "0": {
+  "6": {
+    "teilnehmer": [
+      45,
+      47
+    ]
+  },
+  "8": {
     "id": [
-      "6EBC27CF-072E-426D-B670-87ADEED86411",
-      "27F6F222-03EF-4FF8-B44F-04F7A5802526"
+      "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
+      "7E98F819-F777-4AF7-9EFB-C067D141415B"
     ],
     "name": [
-      "7-Hügel-Cup Bamberg (BBV U11-U19) 2026",
-      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026"
-    ],
-    "datum": [
-      "25.07.2026",
-      "01.08.2026"
+      "3. E RL Memmingen U9-U19 2026",
+      "3. BBV E-RLT Unterfranken U9-U19 Marktheidenfeld 2026"
     ],
     "ort": [
-      "Bamberg",
-      "Prien am Chiemsee"
-    ],
-    "altersklassen": [
-      "U11, U13, U15, U17, U19",
-      "Open A, B, C"
+      "Memmingen",
+      "Marktheidenfeld"
     ],
     "url": [
-      "https://www.turnier.de/sport/tournament?id=6EBC27CF-072E-426D-B670-87ADEED86411",
-      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526"
-    ],
-    "teilnehmer": [
-      123,
+      "@@ -40,40 +40,40 @@\n ?id=\n-F93EA62D-0E06-4C76-9B65-AEDE1547A785\n+7E98F819-F777-4AF7-9EFB-C067D141415B\n",
       0,
-      0
+      2
     ],
     "konkurrenzen": [
-      16,
-      0,
-      0
+      20,
+      18
     ],
     "meldeschluss": [
-      "2026-07-14T23:59:00+02:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-07-25T00:00:00+02:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-07-26T23:59:00+02:00",
-      0,
-      0
+      "2026-11-03T23:59:00-12:00",
+      "2026-11-03T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Montag, 27. Juli 2026 16:03 (GMT +02:00)",
-      0,
-      0
+      "Samstag, 5. September 2026 03:04 (GMT -12:00)",
+      "Montag, 7. September 2026 20:21 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-07-27T14:03:00.000Z",
-      0,
-      0
+      "2026-09-05T15:04:00.000Z",
+      "2026-09-07T18:21:00.000Z"
     ],
     "lastChangedUnix": [
-      1785160980000,
-      0,
-      0
+      1788620640000,
+      1788805260000
     ],
     "halle": [
-      "Georgendammhalle Bamberg",
-      0,
-      0
+      "Turnhalle der staatl. Realschule",
+      "Hans-Wilhelm-Renkhoff-Halle"
     ],
     "halleAdresse": [
-      "Georgendamm 2, 96047 Bamberg",
-      0,
-      0
+      "Schlachthofstraße 34, 87700 Memmingen",
+      "Am Sportzentrum 5, 97828 Marktheidenfeld"
     ]
   },
-  "1": {
+  "9": {
     "id": [
-      "27F6F222-03EF-4FF8-B44F-04F7A5802526",
-      "A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
+      "D3A2626E-E349-4DCD-A569-1594D2F16D4E",
+      "F93EA62D-0E06-4C76-9B65-AEDE1547A785"
     ],
     "name": [
-      "DBV C1- & E-RLT O19 (34.Internationaler Chiemsee Cup) 2026",
-      "DBV C- & E-RLT O19 (30. Geretsrieder Stadtmeisterschaft) 2026"
-    ],
-    "datum": [
-      "01.08.2026",
-      "05.09.2026"
+      "E-RLT_BBV_Oberbayern_EM Aktive_O19_2026",
+      "3. E RL Memmingen U9-U19 2026"
     ],
     "ort": [
-      "Prien am Chiemsee",
-      "Geretsried"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=27F6F222-03EF-4FF8-B44F-04F7A5802526",
-      "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5"
-    ]
-  },
-  "2": {
-    "id": [
-      "A43FD6CD-357A-469C-9ED9-9A01699EDCD5",
-      "D5E4186F-85FF-4017-A2A2-15CDA66BE842"
-    ],
-    "name": [
-      "DBV C- & E-RLT O19 (30. Geretsrieder Stadtmeisterschaft) 2026",
-      "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026"
-    ],
-    "ort": [
-      "Geretsried",
-      "Zirndorf (07-0231)"
+      "Unterschleißheim",
+      "Memmingen"
     ],
     "altersklassen": [
-      "Open A, B, C",
-      "Open A, B"
-    ],
-    "url": [
-      "https://www.turnier.de/sport/tournament?id=A43FD6CD-357A-469C-9ED9-9A01699EDCD5",
-      "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842"
-    ]
-  },
-  "3": {
-    "id": [
-      "D5E4186F-85FF-4017-A2A2-15CDA66BE842",
-      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
-    ],
-    "name": [
-      "C1 &  E-RLT BAY O19 (13. Zirndorfer Stadtmeisterschaft um den Bibertpokal) 2026",
-      "Platzhalter 3. E-RLT Niederbayern"
-    ],
-    "datum": [
-      "05.09.2026",
-      "05.12.2026"
-    ],
-    "ort": [
-      "Zirndorf (07-0231)",
-      "Regensburg"
-    ],
-    "altersklassen": [
-      "Open A, B",
+      "Open",
       "U9, U11, U13, U15, U17, U19"
     ],
     "url": [
-      "https://www.turnier.de/sport/tournament?id=D5E4186F-85FF-4017-A2A2-15CDA66BE842",
-      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+      "@@ -40,40 +40,40 @@\n ?id=\n-D3A2626E-E349-4DCD-A569-1594D2F16D4E\n+F93EA62D-0E06-4C76-9B65-AEDE1547A785\n",
+      0,
+      2
+    ],
+    "konkurrenzen": [
+      20
+    ],
+    "meldeschluss": [
+      "2026-11-03T23:59:00-12:00"
+    ],
+    "startTurnier": [
+      "2026-11-14T00:00:00+01:00"
+    ],
+    "endeTurnier": [
+      "2026-11-15T23:59:00+01:00"
+    ],
+    "lastChangedHtml": [
+      "Samstag, 5. September 2026 03:04 (GMT -12:00)"
+    ],
+    "lastChangedIso": [
+      "2026-09-05T15:04:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1788620640000
+    ],
+    "halle": [
+      "Turnhalle der staatl. Realschule"
+    ],
+    "halleAdresse": [
+      "Schlachthofstraße 34, 87700 Memmingen"
     ]
   },
-  "4": {
+  "10": {
     "id": [
       "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-      "953E3CEC-98F4-4B7B-9DE1-5214E635A396"
+      "D3A2626E-E349-4DCD-A569-1594D2F16D4E"
     ],
     "name": [
       "Platzhalter 3. E-RLT Niederbayern",
-      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026"
+      "E-RLT_BBV_Oberbayern_EM Aktive_O19_2026"
+    ],
+    "datum": [
+      "05.12.2026",
+      "14.11.2026"
     ],
     "ort": [
       "Regensburg",
-      "München"
+      "Unterschleißheim"
     ],
     "altersklassen": [
       "U9, U11, U13, U15, U17, U19",
-      "14+"
+      "Open"
     ],
     "url": [
-      "https://www.turnier.de/sport/tournament?id=8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-      "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396"
+      "@@ -40,40 +40,40 @@\n ?id=\n-8FBCE004-8A8A-4D84-B88B-64C6680A6106\n+D3A2626E-E349-4DCD-A569-1594D2F16D4E\n",
+      0,
+      2
     ],
     "konkurrenzen": [
       28,
@@ -202,40 +164,65 @@
       0
     ]
   },
-  "7": {
+  "11": {
+    "id": [
+      "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "name": [
+      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "Platzhalter 3. E-RLT Niederbayern"
+    ],
+    "ort": [
+      "München",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "14+",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-953E3CEC-98F4-4B7B-9DE1-5214E635A39\n+8FBCE004-8A8A-4D84-B88B-64C6680A610\n 6\n",
+      0,
+      2
+    ],
     "teilnehmer": [
-      16
+      7,
+      0,
+      0
     ],
     "konkurrenzen": [
-      24
+      10,
+      28
     ],
     "meldeschluss": [
-      "2026-09-15T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-09-26T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-09-27T23:59:00+02:00"
+      "2026-11-29T23:59:00+01:00",
+      "2026-11-24T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Montag, 11. August 2025 19:30 (GMT +02:00)"
+      "Dienstag, 1. September 2026 21:06 (GMT +02:00)",
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2025-08-11T17:30:00.000Z"
+      "2026-09-01T19:06:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1754933400000
+      1788289560000,
+      0,
+      0
     ],
     "halle": [
-      "Willibald-Gluck-Gymnasium"
+      "Halle des ESV Neuaubing",
+      "Städtische Sporthalle Nord"
     ],
     "halleAdresse": [
-      "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
+      "Papinstraße 22, 81249 München",
+      "Isarstraße 24, 93057 Regensburg"
     ]
   },
-  "_t": "a",
-  "_8": [
+  "12": [
     {
       "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
       "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
@@ -243,9 +230,18 @@
       "ort": "München",
       "veranstalter": "Bayerischer Badminton-Verband",
       "altersklassen": "14+",
-      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396"
-    },
-    0,
-    0
-  ]
+      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "teilnehmer": 7,
+      "konkurrenzen": 10,
+      "meldeschluss": "2026-11-29T23:59:00+01:00",
+      "startTurnier": "2026-12-05T00:00:00+01:00",
+      "endeTurnier": "2026-12-06T23:59:00+01:00",
+      "lastChangedHtml": "Dienstag, 1. September 2026 21:06 (GMT +02:00)",
+      "lastChangedIso": "2026-09-01T19:06:00.000Z",
+      "lastChangedUnix": 1788289560000,
+      "halle": "Halle des ESV Neuaubing",
+      "halleAdresse": "Papinstraße 22, 81249 München"
+    }
+  ],
+  "_t": "a"
 }
