@@ -1,247 +1,41 @@
 {
-  "6": {
+  "0": {
     "teilnehmer": [
-      45,
-      47
-    ]
-  },
-  "8": {
-    "id": [
-      "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
-      "7E98F819-F777-4AF7-9EFB-C067D141415B"
-    ],
-    "name": [
-      "3. E RL Memmingen U9-U19 2026",
-      "3. BBV E-RLT Unterfranken U9-U19 Marktheidenfeld 2026"
-    ],
-    "ort": [
-      "Memmingen",
-      "Marktheidenfeld"
-    ],
-    "url": [
-      "@@ -40,40 +40,40 @@\n ?id=\n-F93EA62D-0E06-4C76-9B65-AEDE1547A785\n+7E98F819-F777-4AF7-9EFB-C067D141415B\n",
-      0,
-      2
-    ],
-    "konkurrenzen": [
-      20,
-      18
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00-12:00",
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Samstag, 5. September 2026 03:04 (GMT -12:00)",
-      "Montag, 7. September 2026 20:21 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-05T15:04:00.000Z",
-      "2026-09-07T18:21:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1788620640000,
-      1788805260000
-    ],
-    "halle": [
-      "Turnhalle der staatl. Realschule",
-      "Hans-Wilhelm-Renkhoff-Halle"
-    ],
-    "halleAdresse": [
-      "Schlachthofstraße 34, 87700 Memmingen",
-      "Am Sportzentrum 5, 97828 Marktheidenfeld"
-    ]
-  },
-  "9": {
-    "id": [
-      "D3A2626E-E349-4DCD-A569-1594D2F16D4E",
-      "F93EA62D-0E06-4C76-9B65-AEDE1547A785"
-    ],
-    "name": [
-      "E-RLT_BBV_Oberbayern_EM Aktive_O19_2026",
-      "3. E RL Memmingen U9-U19 2026"
-    ],
-    "ort": [
-      "Unterschleißheim",
-      "Memmingen"
-    ],
-    "altersklassen": [
-      "Open",
-      "U9, U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "@@ -40,40 +40,40 @@\n ?id=\n-D3A2626E-E349-4DCD-A569-1594D2F16D4E\n+F93EA62D-0E06-4C76-9B65-AEDE1547A785\n",
-      0,
-      2
+      3
     ],
     "konkurrenzen": [
       20
     ],
     "meldeschluss": [
-      "2026-11-03T23:59:00-12:00"
+      "2026-09-22T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
+      "2026-10-03T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
+      "2026-10-04T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Samstag, 5. September 2026 03:04 (GMT -12:00)"
+      "Montag, 31. August 2026 18:35 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-05T15:04:00.000Z"
+      "2026-08-31T16:35:00.000Z"
     ],
     "lastChangedUnix": [
-      1788620640000
+      1788194100000
     ],
     "halle": [
-      "Turnhalle der staatl. Realschule"
+      "Hans-Seufert-Halle"
     ],
     "halleAdresse": [
-      "Schlachthofstraße 34, 87700 Memmingen"
+      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
     ]
   },
-  "10": {
-    "id": [
-      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
-      "D3A2626E-E349-4DCD-A569-1594D2F16D4E"
-    ],
-    "name": [
-      "Platzhalter 3. E-RLT Niederbayern",
-      "E-RLT_BBV_Oberbayern_EM Aktive_O19_2026"
-    ],
-    "datum": [
-      "05.12.2026",
-      "14.11.2026"
-    ],
-    "ort": [
-      "Regensburg",
-      "Unterschleißheim"
-    ],
-    "altersklassen": [
-      "U9, U11, U13, U15, U17, U19",
-      "Open"
-    ],
-    "url": [
-      "@@ -40,40 +40,40 @@\n ?id=\n-8FBCE004-8A8A-4D84-B88B-64C6680A6106\n+D3A2626E-E349-4DCD-A569-1594D2F16D4E\n",
-      0,
-      2
-    ],
-    "konkurrenzen": [
-      28,
-      0,
-      0
-    ],
-    "meldeschluss": [
-      "2026-11-24T23:59:00+01:00",
-      0,
-      0
-    ],
-    "startTurnier": [
-      "2026-12-05T00:00:00+01:00",
-      0,
-      0
-    ],
-    "endeTurnier": [
-      "2026-12-06T23:59:00+01:00",
-      0,
-      0
-    ],
-    "lastChangedHtml": [
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
-      0,
-      0
-    ],
-    "halle": [
-      "Städtische Sporthalle Nord",
-      0,
-      0
-    ],
-    "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg",
-      0,
-      0
-    ]
-  },
-  "11": {
-    "id": [
-      "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
-    ],
-    "name": [
-      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
-      "Platzhalter 3. E-RLT Niederbayern"
-    ],
-    "ort": [
-      "München",
-      "Regensburg"
-    ],
-    "altersklassen": [
-      "14+",
-      "U9, U11, U13, U15, U17, U19"
-    ],
-    "url": [
-      "@@ -40,40 +40,40 @@\n ?id=\n-953E3CEC-98F4-4B7B-9DE1-5214E635A39\n+8FBCE004-8A8A-4D84-B88B-64C6680A610\n 6\n",
-      0,
-      2
-    ],
+  "6": {
     "teilnehmer": [
-      7,
-      0,
-      0
-    ],
-    "konkurrenzen": [
-      10,
-      28
-    ],
-    "meldeschluss": [
-      "2026-11-29T23:59:00+01:00",
-      "2026-11-24T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Dienstag, 1. September 2026 21:06 (GMT +02:00)",
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-01T19:06:00.000Z",
-      0,
-      0
-    ],
-    "lastChangedUnix": [
-      1788289560000,
-      0,
-      0
-    ],
-    "halle": [
-      "Halle des ESV Neuaubing",
-      "Städtische Sporthalle Nord"
-    ],
-    "halleAdresse": [
-      "Papinstraße 22, 81249 München",
-      "Isarstraße 24, 93057 Regensburg"
+      47,
+      48
     ]
   },
-  "12": [
-    {
-      "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-      "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
-      "datum": "05.12.2026",
-      "ort": "München",
-      "veranstalter": "Bayerischer Badminton-Verband",
-      "altersklassen": "14+",
-      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-      "teilnehmer": 7,
-      "konkurrenzen": 10,
-      "meldeschluss": "2026-11-29T23:59:00+01:00",
-      "startTurnier": "2026-12-05T00:00:00+01:00",
-      "endeTurnier": "2026-12-06T23:59:00+01:00",
-      "lastChangedHtml": "Dienstag, 1. September 2026 21:06 (GMT +02:00)",
-      "lastChangedIso": "2026-09-01T19:06:00.000Z",
-      "lastChangedUnix": 1788289560000,
-      "halle": "Halle des ESV Neuaubing",
-      "halleAdresse": "Papinstraße 22, 81249 München"
-    }
-  ],
   "_t": "a"
 }
