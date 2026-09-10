@@ -43,7 +43,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-    "teilnehmer": 50,
+    "teilnehmer": 51,
     "konkurrenzen": 24,
     "meldeschluss": "2026-09-15T23:59:00+02:00",
     "startTurnier": "2026-09-26T00:00:00+02:00",
@@ -61,17 +61,7 @@
     "ort": "Wendelstein (07-0101)",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
-    "teilnehmer": 3,
-    "konkurrenzen": 20,
-    "meldeschluss": "2026-09-22T23:59:00+02:00",
-    "startTurnier": "2026-10-03T00:00:00+02:00",
-    "endeTurnier": "2026-10-04T23:59:00+02:00",
-    "lastChangedHtml": "Montag, 31. August 2026 18:35 (GMT +02:00)",
-    "lastChangedIso": "2026-08-31T16:35:00.000Z",
-    "lastChangedUnix": 1788194100000,
-    "halle": "Hans-Seufert-Halle",
-    "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
+    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B"
   },
   {
     "id": "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
@@ -124,16 +114,7 @@
     "ort": "Marktheidenfeld",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=7E98F819-F777-4AF7-9EFB-C067D141415B",
-    "konkurrenzen": 18,
-    "meldeschluss": "2026-11-03T23:59:00+01:00",
-    "startTurnier": "2026-11-14T00:00:00+01:00",
-    "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Montag, 7. September 2026 20:21 (GMT +02:00)",
-    "lastChangedIso": "2026-09-07T18:21:00.000Z",
-    "lastChangedUnix": 1788805260000,
-    "halle": "Hans-Wilhelm-Renkhoff-Halle",
-    "halleAdresse": "Am Sportzentrum 5, 97828 Marktheidenfeld"
+    "url": "https://www.turnier.de/sport/tournament?id=7E98F819-F777-4AF7-9EFB-C067D141415B"
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
@@ -175,9 +156,9 @@
     "meldeschluss": "2026-11-29T23:59:00+01:00",
     "startTurnier": "2026-12-05T00:00:00+01:00",
     "endeTurnier": "2026-12-06T23:59:00+01:00",
-    "lastChangedHtml": "Dienstag, 8. September 2026 20:05 (GMT +02:00)",
-    "lastChangedIso": "2026-09-08T18:05:00.000Z",
-    "lastChangedUnix": 1788890700000,
+    "lastChangedHtml": "Mittwoch, 9. September 2026 13:02 (GMT +02:00)",
+    "lastChangedIso": "2026-09-09T11:02:00.000Z",
+    "lastChangedUnix": 1788951720000,
     "halle": "Halle des ESV Neuaubing",
     "halleAdresse": "Papinstraße 22, 81249 München"
   }
