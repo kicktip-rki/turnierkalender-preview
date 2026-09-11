@@ -1,121 +1,69 @@
 {
   "4": {
     "teilnehmer": [
-      50,
-      51
+      51,
+      53
     ]
   },
   "5": {
     "teilnehmer": [
-      3,
-      0,
-      0
+      3
     ],
     "konkurrenzen": [
-      20,
-      0,
-      0
+      20
     ],
     "meldeschluss": [
-      "2026-09-22T23:59:00+02:00",
-      0,
-      0
+      "2026-09-22T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-10-03T00:00:00+02:00",
-      0,
-      0
+      "2026-10-03T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-10-04T23:59:00+02:00",
-      0,
-      0
+      "2026-10-04T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Montag, 31. August 2026 18:35 (GMT +02:00)",
-      0,
-      0
+      "Montag, 31. August 2026 18:35 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-08-31T16:35:00.000Z",
-      0,
-      0
+      "2026-08-31T16:35:00.000Z"
     ],
     "lastChangedUnix": [
-      1788194100000,
-      0,
-      0
+      1788194100000
     ],
     "halle": [
-      "Hans-Seufert-Halle",
-      0,
-      0
+      "Hans-Seufert-Halle"
     ],
     "halleAdresse": [
-      "Am Schießhaus 2, 90530 Wendelstein (07-0101)",
-      0,
-      0
+      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
     ]
   },
   "9": {
     "konkurrenzen": [
-      18,
-      0,
-      0
+      18
     ],
     "meldeschluss": [
-      "2026-11-03T23:59:00+01:00",
-      0,
-      0
+      "2026-11-03T23:59:00+01:00"
     ],
     "startTurnier": [
-      "2026-11-14T00:00:00+01:00",
-      0,
-      0
+      "2026-11-14T00:00:00+01:00"
     ],
     "endeTurnier": [
-      "2026-11-15T23:59:00+01:00",
-      0,
-      0
+      "2026-11-15T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Montag, 7. September 2026 20:21 (GMT +02:00)",
-      0,
-      0
+      "Montag, 7. September 2026 20:21 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-07T18:21:00.000Z",
-      0,
-      0
+      "2026-09-07T18:21:00.000Z"
     ],
     "lastChangedUnix": [
-      1788805260000,
-      0,
-      0
+      1788805260000
     ],
     "halle": [
-      "Hans-Wilhelm-Renkhoff-Halle",
-      0,
-      0
+      "Hans-Wilhelm-Renkhoff-Halle"
     ],
     "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld",
-      0,
-      0
-    ]
-  },
-  "12": {
-    "lastChangedHtml": [
-      "Dienstag, 8. September 2026 20:05 (GMT +02:00)",
-      "Mittwoch, 9. September 2026 13:02 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-08T18:05:00.000Z",
-      "2026-09-09T11:02:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1788890700000,
-      1788951720000
+      "Am Sportzentrum 5, 97828 Marktheidenfeld"
     ]
   },
   "_t": "a"
