@@ -1,69 +1,14 @@
 {
   "4": {
     "teilnehmer": [
-      51,
-      53
+      53,
+      56
     ]
   },
   "5": {
     "teilnehmer": [
-      3
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "meldeschluss": [
-      "2026-09-22T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-10-03T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-10-04T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 31. August 2026 18:35 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-08-31T16:35:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1788194100000
-    ],
-    "halle": [
-      "Hans-Seufert-Halle"
-    ],
-    "halleAdresse": [
-      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
-    ]
-  },
-  "9": {
-    "konkurrenzen": [
-      18
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 7. September 2026 20:21 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-07T18:21:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1788805260000
-    ],
-    "halle": [
-      "Hans-Wilhelm-Renkhoff-Halle"
-    ],
-    "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld"
+      3,
+      4
     ]
   },
   "_t": "a"
