@@ -23,7 +23,7 @@
     "datum": "12.09.2026",
     "ort": "Nürnberg",
     "veranstalter": "BAY - TSV 1846 Nürnberg",
-    "altersklassen": "Open A, B, C",
+    "altersklassen": "Open A, B, C, Open",
     "url": "https://www.turnier.de/sport/tournament?id=DB93D4CF-956C-4089-9212-28CA36CD40CA"
   },
   {
@@ -62,7 +62,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
-    "teilnehmer": 4,
+    "teilnehmer": 5,
     "konkurrenzen": 20,
     "meldeschluss": "2026-09-22T23:59:00+02:00",
     "startTurnier": "2026-10-03T00:00:00+02:00",

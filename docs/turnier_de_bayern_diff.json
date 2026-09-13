@@ -1,14 +1,14 @@
 {
-  "4": {
-    "teilnehmer": [
-      53,
-      56
+  "2": {
+    "altersklassen": [
+      "Open A, B, C",
+      "Open A, B, C, Open"
     ]
   },
   "5": {
     "teilnehmer": [
-      3,
-      4
+      4,
+      5
     ]
   },
   "_t": "a"
