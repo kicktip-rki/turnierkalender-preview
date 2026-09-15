@@ -5,7 +5,7 @@
     "datum": "12.09.2026",
     "ort": "Nürnberg",
     "veranstalter": "BAY - TSV 1846 Nürnberg",
-    "altersklassen": "Open A, B, C, Open",
+    "altersklassen": "Open B, C, Open, C1-RLT, Open A, E-RLT, Open B",
     "url": "https://www.turnier.de/sport/tournament?id=DB93D4CF-956C-4089-9212-28CA36CD40CA"
   },
   {
@@ -75,15 +75,6 @@
     "halleAdresse": "Lindenaststraße 66, 90409 Nürnberg (07-0157)"
   },
   {
-    "id": "1FA3828B-E1ED-46C6-BF38-06095C749B56",
-    "name": "Bachtal Badminton Cup 2026",
-    "datum": "14.11.2026",
-    "ort": "Syrgenstein",
-    "veranstalter": "BAY - FC Ballhausen",
-    "altersklassen": "Open A, B, C",
-    "url": "https://www.turnier.de/sport/tournament?id=1FA3828B-E1ED-46C6-BF38-06095C749B56"
-  },
-  {
     "id": "7E98F819-F777-4AF7-9EFB-C067D141415B",
     "name": "3. BBV E-RLT Unterfranken U9-U19 Marktheidenfeld 2026",
     "datum": "14.11.2026",
@@ -94,12 +85,21 @@
     "konkurrenzen": 18,
     "meldeschluss": "2026-11-03T23:59:00+01:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
-    "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Montag, 7. September 2026 20:21 (GMT +02:00)",
-    "lastChangedIso": "2026-09-07T18:21:00.000Z",
-    "lastChangedUnix": 1788805260000,
+    "endeTurnier": "2026-11-14T23:59:00+01:00",
+    "lastChangedHtml": "Montag, 14. September 2026 20:11 (GMT +02:00)",
+    "lastChangedIso": "2026-09-14T18:11:00.000Z",
+    "lastChangedUnix": 1789409460000,
     "halle": "Hans-Wilhelm-Renkhoff-Halle",
     "halleAdresse": "Am Sportzentrum 5, 97828 Marktheidenfeld"
+  },
+  {
+    "id": "1FA3828B-E1ED-46C6-BF38-06095C749B56",
+    "name": "Bachtal Badminton Cup 2026",
+    "datum": "14.11.2026",
+    "ort": "Syrgenstein",
+    "veranstalter": "BAY - FC Ballhausen",
+    "altersklassen": "Open A, B, C",
+    "url": "https://www.turnier.de/sport/tournament?id=1FA3828B-E1ED-46C6-BF38-06095C749B56"
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
