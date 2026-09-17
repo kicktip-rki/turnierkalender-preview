@@ -43,17 +43,16 @@
     "ort": "Wendelstein (07-0101)",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
-    "teilnehmer": 5,
-    "konkurrenzen": 20,
-    "meldeschluss": "2026-09-22T23:59:00+02:00",
-    "startTurnier": "2026-10-03T00:00:00+02:00",
-    "endeTurnier": "2026-10-04T23:59:00+02:00",
-    "lastChangedHtml": "Montag, 31. August 2026 18:35 (GMT +02:00)",
-    "lastChangedIso": "2026-08-31T16:35:00.000Z",
-    "lastChangedUnix": 1788194100000,
-    "halle": "Hans-Seufert-Halle",
-    "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
+    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B"
+  },
+  {
+    "id": "FF01ED4A-280E-49F5-BE19-A79850EC6C19",
+    "name": "4. BBV D-Rangliste U13-U19 Regensburg U13 - U19 2026",
+    "datum": "17.10.2026",
+    "ort": "Regensburg",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "U13, U15, U17, U19",
+    "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19"
   },
   {
     "id": "F7CC732F-E92B-450E-B24D-E16B3CD20171",
@@ -102,10 +101,26 @@
     "url": "https://www.turnier.de/sport/tournament?id=1FA3828B-E1ED-46C6-BF38-06095C749B56"
   },
   {
-    "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
-    "name": "3. E RL Memmingen U9-U19 2026",
+    "id": "0A132EF2-D559-4047-BB57-EC9F50F083BB",
+    "name": "1. BBV C Rangliste  U11-U19 2026 Altenmarkt",
     "datum": "14.11.2026",
-    "ort": "Memmingen",
+    "ort": "Altenmarkt",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "U11, U13, U15, U17, U19",
+    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB",
+    "konkurrenzen": 16,
+    "meldeschluss": "2026-11-03T23:59:00+01:00",
+    "startTurnier": "2026-11-14T00:00:00+01:00",
+    "endeTurnier": "2026-11-15T23:59:00+01:00",
+    "lastChangedHtml": "Mittwoch, 16. September 2026 23:18 (GMT +02:00)",
+    "lastChangedIso": "2026-09-16T21:18:00.000Z",
+    "lastChangedUnix": 1789593480000
+  },
+  {
+    "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
+    "name": "3.BBV  E RL Schwaben U9-U19 2026 Königsbrunn",
+    "datum": "14.11.2026",
+    "ort": "Königsbrunn",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785",
@@ -113,11 +128,9 @@
     "meldeschluss": "2026-11-03T23:59:00-12:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
     "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Samstag, 5. September 2026 03:04 (GMT -12:00)",
-    "lastChangedIso": "2026-09-05T15:04:00.000Z",
-    "lastChangedUnix": 1788620640000,
-    "halle": "Turnhalle der staatl. Realschule",
-    "halleAdresse": "Schlachthofstraße 34, 87700 Memmingen"
+    "lastChangedHtml": "Mittwoch, 16. September 2026 09:21 (GMT -12:00)",
+    "lastChangedIso": "2026-09-16T21:21:00.000Z",
+    "lastChangedUnix": 1789593660000
   },
   {
     "id": "D3A2626E-E349-4DCD-A569-1594D2F16D4E",
@@ -127,6 +140,24 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "Open",
     "url": "https://www.turnier.de/sport/tournament?id=D3A2626E-E349-4DCD-A569-1594D2F16D4E"
+  },
+  {
+    "id": "5B566C70-3949-4BEC-AF13-347327C76233",
+    "name": "2. BBV C Rangliste U11-U19 2026 Neusäß",
+    "datum": "05.12.2026",
+    "ort": "Neusäß",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "U11, U13, U15, U17, U19",
+    "url": "https://www.turnier.de/sport/tournament?id=5B566C70-3949-4BEC-AF13-347327C76233",
+    "konkurrenzen": 16,
+    "meldeschluss": "2026-11-24T23:59:00+01:00",
+    "startTurnier": "2026-12-05T00:00:00+01:00",
+    "endeTurnier": "2026-12-06T23:59:00+01:00",
+    "lastChangedHtml": "Mittwoch, 16. September 2026 23:21 (GMT +02:00)",
+    "lastChangedIso": "2026-09-16T21:21:00.000Z",
+    "lastChangedUnix": 1789593660000,
+    "halle": "Eichenwaldhalle",
+    "halleAdresse": "86356 Neusäß"
   },
   {
     "id": "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
