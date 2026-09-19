@@ -1,1 +1,37 @@
-null
+{
+  "7": {
+    "pdf": {
+      "ausrichter": [
+        "@@ -72,18 +72,17 @@\n Beginn: \n-10\n+9\n  Uhr (Ha\n@@ -611,17 +611,18 @@\n  U9 - U1\n-1\n+ 3\n  modus: \n",
+        0,
+        2
+      ],
+      "ort": [
+        "@@ -486,17 +486,18 @@\n  U9 - U1\n-1\n+ 3\n  modus: \n",
+        0,
+        2
+      ],
+      "halle": [
+        "@@ -452,17 +452,18 @@\n  U9 - U1\n-1\n+ 3\n  modus: \n",
+        0,
+        2
+      ],
+      "altersklassen": [
+        "@@ -393,17 +393,18 @@\n  U9 - U1\n-1\n+ 3\n  modus: \n",
+        0,
+        2
+      ],
+      "meldeschluss": [
+        "@@ -503,17 +503,16 @@\n erden. S\n- \n trafe: V\n",
+        0,
+        2
+      ],
+      "rohtext": [
+        "@@ -486,18 +486,17 @@\n Beginn: \n-10\n+9\n  Uhr (Ha\n@@ -1025,17 +1025,18 @@\n  U9 - U1\n-1\n+ 3\n  modus: \n@@ -3040,17 +3040,16 @@\n erden. S\n- \n trafe: V\n",
+        0,
+        2
+      ]
+    }
+  },
+  "_t": "a"
+}

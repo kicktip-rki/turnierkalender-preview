@@ -1,76 +1,204 @@
 {
   "3": {
     "teilnehmer": [
-      7
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "meldeschluss": [
-      "2026-09-22T23:59:00+02:00"
-    ],
-    "startTurnier": [
-      "2026-10-03T00:00:00+02:00"
-    ],
-    "endeTurnier": [
-      "2026-10-04T23:59:00+02:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 31. August 2026 18:35 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-08-31T16:35:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1788194100000
-    ],
-    "halle": [
-      "Hans-Seufert-Halle"
-    ],
-    "halleAdresse": [
-      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
+      7,
+      8
     ]
   },
-  "4": {
+  "11": {
+    "id": [
+      "5B566C70-3949-4BEC-AF13-347327C76233",
+      "24F22008-AC0D-447A-B2AF-8E35C4C23F71"
+    ],
+    "name": [
+      "2. BBV C Rangliste U11-U19 2026 Neusäß",
+      "3. BBV E-RLT Oberfranken U9-U19 Forchheim 2026"
+    ],
+    "ort": [
+      "Neusäß",
+      "Forchheim"
+    ],
+    "altersklassen": [
+      "U11, U13, U15, U17, U19",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-5B566C70-3949-4BEC-AF13-347327C76233\n+24F22008-AC0D-447A-B2AF-8E35C4C23F71\n",
+      0,
+      2
+    ],
     "konkurrenzen": [
-      12
+      16,
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-10-06T23:59:00+02:00"
+      "2026-11-24T23:59:00+01:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-10-17T00:00:00+02:00"
+      "2026-12-05T00:00:00+01:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-10-17T23:59:00+02:00"
+      "2026-12-06T23:59:00+01:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Freitag, 18. September 2026 06:48 (GMT +02:00)"
+      "Mittwoch, 16. September 2026 23:21 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-09-18T04:48:00.000Z"
+      "2026-09-16T21:21:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1789706880000
+      1789593660000,
+      0,
+      0
+    ],
+    "halle": [
+      "Eichenwaldhalle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "86356 Neusäß",
+      0,
+      0
+    ]
+  },
+  "12": {
+    "id": [
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "5B566C70-3949-4BEC-AF13-347327C76233"
+    ],
+    "name": [
+      "Platzhalter 3. E-RLT Niederbayern",
+      "2. BBV C Rangliste U11-U19 2026 Neusäß"
+    ],
+    "ort": [
+      "Regensburg",
+      "Neusäß"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-8FBCE004-8A8A-4D84-B88B-64C6680A6106\n+5B566C70-3949-4BEC-AF13-347327C76233\n",
+      0,
+      2
+    ],
+    "konkurrenzen": [
+      28,
+      16
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      "Mittwoch, 16. September 2026 23:21 (GMT +02:00)"
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      "Eichenwaldhalle"
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      "86356 Neusäß"
+    ],
+    "teilnehmer": [
+      1
+    ],
+    "lastChangedIso": [
+      "2026-09-16T21:21:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1789593660000
     ]
   },
   "13": {
+    "id": [
+      "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "name": [
+      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "Platzhalter 3. E-RLT Niederbayern"
+    ],
+    "ort": [
+      "München",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "14+",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-953E3CEC-98F4-4B7B-9DE1-5214E635A39\n+8FBCE004-8A8A-4D84-B88B-64C6680A610\n 6\n",
+      0,
+      2
+    ],
     "teilnehmer": [
-      18,
-      21
+      21,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      10,
+      28
+    ],
+    "meldeschluss": [
+      "2026-11-29T23:59:00+01:00",
+      "2026-11-24T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Sonntag, 13. September 2026 10:59 (GMT +02:00)",
-      "Donnerstag, 17. September 2026 10:36 (GMT +02:00)"
+      "Donnerstag, 17. September 2026 10:36 (GMT +02:00)",
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-13T08:59:00.000Z",
-      "2026-09-17T08:36:00.000Z"
+      "2026-09-17T08:36:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1789289940000,
-      1789634160000
+      1789634160000,
+      0,
+      0
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing",
+      "Städtische Sporthalle Nord"
+    ],
+    "halleAdresse": [
+      "Papinstraße 22, 81249 München",
+      "Isarstraße 24, 93057 Regensburg"
     ]
   },
+  "14": [
+    {
+      "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "datum": "05.12.2026",
+      "ort": "München",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "14+",
+      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "teilnehmer": 21,
+      "konkurrenzen": 10,
+      "meldeschluss": "2026-11-29T23:59:00+01:00",
+      "startTurnier": "2026-12-05T00:00:00+01:00",
+      "endeTurnier": "2026-12-06T23:59:00+01:00",
+      "lastChangedHtml": "Donnerstag, 17. September 2026 10:36 (GMT +02:00)",
+      "lastChangedIso": "2026-09-17T08:36:00.000Z",
+      "lastChangedUnix": 1789634160000,
+      "halle": "Halle des ESV Neuaubing",
+      "halleAdresse": "Papinstraße 22, 81249 München"
+    }
+  ],
   "_t": "a"
 }

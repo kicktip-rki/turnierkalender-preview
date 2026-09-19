@@ -44,7 +44,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
-    "teilnehmer": 7,
+    "teilnehmer": 8,
     "konkurrenzen": 20,
     "meldeschluss": "2026-09-22T23:59:00+02:00",
     "startTurnier": "2026-10-03T00:00:00+02:00",
@@ -159,6 +159,15 @@
     "url": "https://www.turnier.de/sport/tournament?id=D3A2626E-E349-4DCD-A569-1594D2F16D4E"
   },
   {
+    "id": "24F22008-AC0D-447A-B2AF-8E35C4C23F71",
+    "name": "3. BBV E-RLT Oberfranken U9-U19 Forchheim 2026",
+    "datum": "05.12.2026",
+    "ort": "Forchheim",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "U9, U11, U13, U15, U17, U19",
+    "url": "https://www.turnier.de/sport/tournament?id=24F22008-AC0D-447A-B2AF-8E35C4C23F71"
+  },
+  {
     "id": "5B566C70-3949-4BEC-AF13-347327C76233",
     "name": "2. BBV C Rangliste U11-U19 2026 Neusäß",
     "datum": "05.12.2026",
@@ -166,6 +175,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=5B566C70-3949-4BEC-AF13-347327C76233",
+    "teilnehmer": 1,
     "konkurrenzen": 16,
     "meldeschluss": "2026-11-24T23:59:00+01:00",
     "startTurnier": "2026-12-05T00:00:00+01:00",
