@@ -5,7 +5,7 @@
     "datum": "19.09.2026",
     "ort": "Erding",
     "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open A, B, C",
+    "altersklassen": "Open C, D1-RLT, Open A, E-RLT, Open B",
     "url": "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18"
   },
   {
@@ -34,7 +34,17 @@
     "ort": "Wendelstein (07-0101)",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B"
+    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
+    "teilnehmer": 37,
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-09-22T23:59:00+02:00",
+    "startTurnier": "2026-10-03T00:00:00+02:00",
+    "endeTurnier": "2026-10-04T23:59:00+02:00",
+    "lastChangedHtml": "Sonntag, 20. September 2026 20:20 (GMT +02:00)",
+    "lastChangedIso": "2026-09-20T18:20:00.000Z",
+    "lastChangedUnix": 1789928400000,
+    "halle": "Hans-Seufert-Halle",
+    "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
   },
   {
     "id": "FF01ED4A-280E-49F5-BE19-A79850EC6C19",
@@ -112,14 +122,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "14+",
     "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-    "teilnehmer": 21,
+    "teilnehmer": 28,
     "konkurrenzen": 10,
     "meldeschluss": "2026-11-29T23:59:00+01:00",
     "startTurnier": "2026-12-05T00:00:00+01:00",
     "endeTurnier": "2026-12-06T23:59:00+01:00",
-    "lastChangedHtml": "Donnerstag, 17. September 2026 10:36 (GMT +02:00)",
-    "lastChangedIso": "2026-09-17T08:36:00.000Z",
-    "lastChangedUnix": 1789634160000,
+    "lastChangedHtml": "Montag, 21. September 2026 13:24 (GMT +02:00)",
+    "lastChangedIso": "2026-09-21T11:24:00.000Z",
+    "lastChangedUnix": 1789989840000,
     "halle": "Halle des ESV Neuaubing",
     "halleAdresse": "Papinstraße 22, 81249 München"
   },
@@ -176,14 +186,7 @@
     "ort": "Altenmarkt",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB",
-    "konkurrenzen": 16,
-    "meldeschluss": "2026-11-03T23:59:00+01:00",
-    "startTurnier": "2026-11-14T00:00:00+01:00",
-    "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Mittwoch, 16. September 2026 23:18 (GMT +02:00)",
-    "lastChangedIso": "2026-09-16T21:18:00.000Z",
-    "lastChangedUnix": 1789593480000
+    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB"
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
