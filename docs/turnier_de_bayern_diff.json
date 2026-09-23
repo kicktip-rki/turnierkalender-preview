@@ -1,95 +1,107 @@
 {
   "0": {
-    "altersklassen": [
-      "Open A, B, C",
-      "Open C, D1-RLT, Open A, E-RLT, Open B"
+    "name": [
+      "@@ -1,8 +1,12 @@\n+BBV \n D1-RLT O\n",
+      0,
+      2
     ]
   },
   "2": {
     "teilnehmer": [
-      37
+      37,
+      0,
+      0
     ],
     "konkurrenzen": [
-      20
+      20,
+      0,
+      0
     ],
     "meldeschluss": [
-      "2026-09-22T23:59:00+02:00"
+      "2026-09-22T23:59:00+02:00",
+      0,
+      0
     ],
     "startTurnier": [
-      "2026-10-03T00:00:00+02:00"
+      "2026-10-03T00:00:00+02:00",
+      0,
+      0
     ],
     "endeTurnier": [
-      "2026-10-04T23:59:00+02:00"
+      "2026-10-04T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Sonntag, 20. September 2026 20:20 (GMT +02:00)"
+      "Sonntag, 20. September 2026 20:20 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-09-20T18:20:00.000Z"
+      "2026-09-20T18:20:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1789928400000
+      1789928400000,
+      0,
+      0
     ],
     "halle": [
-      "Hans-Seufert-Halle"
+      "Hans-Seufert-Halle",
+      0,
+      0
     ],
     "halleAdresse": [
-      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
+      "Am Schießhaus 2, 90530 Wendelstein (07-0101)",
+      0,
+      0
+    ]
+  },
+  "3": {
+    "teilnehmer": [
+      1
     ]
   },
   "8": {
     "teilnehmer": [
-      21,
-      28
+      28,
+      32
     ],
     "lastChangedHtml": [
-      "Donnerstag, 17. September 2026 10:36 (GMT +02:00)",
-      "Montag, 21. September 2026 13:24 (GMT +02:00)"
+      "Montag, 21. September 2026 13:24 (GMT +02:00)",
+      "Dienstag, 22. September 2026 17:41 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-17T08:36:00.000Z",
-      "2026-09-21T11:24:00.000Z"
+      "2026-09-21T11:24:00.000Z",
+      "2026-09-22T15:41:00.000Z"
     ],
     "lastChangedUnix": [
-      1789634160000,
-      1789989840000
+      1789989840000,
+      1790091660000
     ]
   },
   "12": {
     "konkurrenzen": [
-      16,
-      0,
-      0
+      16
     ],
     "meldeschluss": [
-      "2026-11-03T23:59:00+01:00",
-      0,
-      0
+      "2026-11-03T23:59:00+01:00"
     ],
     "startTurnier": [
-      "2026-11-14T00:00:00+01:00",
-      0,
-      0
+      "2026-11-14T00:00:00+01:00"
     ],
     "endeTurnier": [
-      "2026-11-15T23:59:00+01:00",
-      0,
-      0
+      "2026-11-15T23:59:00+01:00"
     ],
     "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 23:18 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 16. September 2026 23:18 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-16T21:18:00.000Z",
-      0,
-      0
+      "2026-09-16T21:18:00.000Z"
     ],
     "lastChangedUnix": [
-      1789593480000,
-      0,
-      0
+      1789593480000
     ]
   },
   "_t": "a"
