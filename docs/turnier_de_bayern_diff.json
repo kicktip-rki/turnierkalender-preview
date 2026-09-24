@@ -1,107 +1,63 @@
 {
   "0": {
     "name": [
-      "@@ -1,8 +1,12 @@\n+BBV \n D1-RLT O\n",
+      "@@ -1,8 +1,4 @@\n-BBV \n D1-R\n",
       0,
       2
+    ],
+    "altersklassen": [
+      "Open C, D1-RLT, Open A, E-RLT, Open B",
+      "Open A, B, C"
+    ]
+  },
+  "1": {
+    "teilnehmer": [
+      264,
+      256
+    ],
+    "lastChangedHtml": [
+      "Samstag, 19. September 2026 10:04 (GMT +02:00)",
+      "Mittwoch, 23. September 2026 21:54 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-09-19T08:04:00.000Z",
+      "2026-09-23T19:54:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1789805040000,
+      1790193240000
     ]
   },
   "2": {
     "teilnehmer": [
-      37,
-      0,
-      0
+      101
     ],
     "konkurrenzen": [
-      20,
-      0,
-      0
+      20
     ],
     "meldeschluss": [
-      "2026-09-22T23:59:00+02:00",
-      0,
-      0
+      "2026-09-22T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-10-03T00:00:00+02:00",
-      0,
-      0
+      "2026-10-03T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-10-04T23:59:00+02:00",
-      0,
-      0
+      "2026-10-04T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Sonntag, 20. September 2026 20:20 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 23. September 2026 21:53 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-20T18:20:00.000Z",
-      0,
-      0
+      "2026-09-23T19:53:00.000Z"
     ],
     "lastChangedUnix": [
-      1789928400000,
-      0,
-      0
+      1790193180000
     ],
     "halle": [
-      "Hans-Seufert-Halle",
-      0,
-      0
+      "Hans-Seufert-Halle"
     ],
     "halleAdresse": [
-      "Am Schießhaus 2, 90530 Wendelstein (07-0101)",
-      0,
-      0
-    ]
-  },
-  "3": {
-    "teilnehmer": [
-      1
-    ]
-  },
-  "8": {
-    "teilnehmer": [
-      28,
-      32
-    ],
-    "lastChangedHtml": [
-      "Montag, 21. September 2026 13:24 (GMT +02:00)",
-      "Dienstag, 22. September 2026 17:41 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-21T11:24:00.000Z",
-      "2026-09-22T15:41:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1789989840000,
-      1790091660000
-    ]
-  },
-  "12": {
-    "konkurrenzen": [
-      16
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 23:18 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-16T21:18:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1789593480000
+      "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
     ]
   },
   "_t": "a"

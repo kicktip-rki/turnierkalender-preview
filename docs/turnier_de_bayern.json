@@ -1,11 +1,11 @@
 [
   {
     "id": "F541441E-11DD-48E5-9E05-342408C78A18",
-    "name": "BBV D1-RLT O19 E/D/MX & E-RLT O19 E/D/MX (43. Semptturnier) 2026",
+    "name": "D1-RLT O19 E/D/MX & E-RLT O19 E/D/MX (43. Semptturnier) 2026",
     "datum": "19.09.2026",
     "ort": "Erding",
     "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open C, D1-RLT, Open A, E-RLT, Open B",
+    "altersklassen": "Open A, B, C",
     "url": "https://www.turnier.de/sport/tournament?id=F541441E-11DD-48E5-9E05-342408C78A18"
   },
   {
@@ -16,14 +16,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=246F47AF-FC4E-46A6-98EC-7356DE4162F6",
-    "teilnehmer": 264,
+    "teilnehmer": 256,
     "konkurrenzen": 24,
     "meldeschluss": "2026-09-15T23:59:00+02:00",
     "startTurnier": "2026-09-26T00:00:00+02:00",
     "endeTurnier": "2026-09-27T23:59:00+02:00",
-    "lastChangedHtml": "Samstag, 19. September 2026 10:04 (GMT +02:00)",
-    "lastChangedIso": "2026-09-19T08:04:00.000Z",
-    "lastChangedUnix": 1789805040000,
+    "lastChangedHtml": "Mittwoch, 23. September 2026 21:54 (GMT +02:00)",
+    "lastChangedIso": "2026-09-23T19:54:00.000Z",
+    "lastChangedUnix": 1790193240000,
     "halle": "Willibald-Gluck-Gymnasium",
     "halleAdresse": "Woffenbacher Str. 33, 92318 Neumarkt i.d. Oberpfalz"
   },
@@ -34,7 +34,17 @@
     "ort": "Wendelstein (07-0101)",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B"
+    "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
+    "teilnehmer": 101,
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-09-22T23:59:00+02:00",
+    "startTurnier": "2026-10-03T00:00:00+02:00",
+    "endeTurnier": "2026-10-04T23:59:00+02:00",
+    "lastChangedHtml": "Mittwoch, 23. September 2026 21:53 (GMT +02:00)",
+    "lastChangedIso": "2026-09-23T19:53:00.000Z",
+    "lastChangedUnix": 1790193180000,
+    "halle": "Hans-Seufert-Halle",
+    "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
   },
   {
     "id": "FF01ED4A-280E-49F5-BE19-A79850EC6C19",
