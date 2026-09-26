@@ -1,16 +1,97 @@
 {
+  "0": {
+    "name": [
+      "@@ -1,8 +1,12 @@\n+BBV \n D1-RLT O\n",
+      0,
+      2
+    ]
+  },
   "1": {
+    "teilnehmer": [
+      256,
+      255
+    ],
     "lastChangedHtml": [
-      "Mittwoch, 23. September 2026 21:54 (GMT +02:00)",
-      "Donnerstag, 24. September 2026 09:51 (GMT +02:00)"
+      "Donnerstag, 24. September 2026 09:51 (GMT +02:00)",
+      "Freitag, 25. September 2026 22:57 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-23T19:54:00.000Z",
-      "2026-09-24T07:51:00.000Z"
+      "2026-09-24T07:51:00.000Z",
+      "2026-09-25T20:57:00.000Z"
     ],
     "lastChangedUnix": [
-      1790193240000,
-      1790236260000
+      1790236260000,
+      1790369820000
+    ]
+  },
+  "2": {
+    "teilnehmer": [
+      101,
+      102
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 23. September 2026 21:53 (GMT +02:00)",
+      "Freitag, 25. September 2026 09:13 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-09-23T19:53:00.000Z",
+      "2026-09-25T07:13:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1790193180000,
+      1790320380000
+    ]
+  },
+  "9": {
+    "teilnehmer": [
+      3,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-10-27T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-11-07T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-11-07T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Montag, 31. August 2026 18:33 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-08-31T16:33:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1788193980000,
+      0,
+      0
+    ],
+    "halle": [
+      "Sporthalle beim Hans-Sachs-Gymnasium",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Lindenaststraße 66, 90409 Nürnberg (07-0157)",
+      0,
+      0
     ]
   },
   "_t": "a"
