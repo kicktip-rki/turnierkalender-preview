@@ -1,78 +1,26 @@
 {
+  "1": {
+    "teilnehmer": [
+      102,
+      99
+    ],
+    "lastChangedHtml": [
+      "Freitag, 25. September 2026 09:13 (GMT +02:00)",
+      "Dienstag, 29. September 2026 17:27 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-09-25T07:13:00.000Z",
+      "2026-09-29T15:27:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1790320380000,
+      1790695620000
+    ]
+  },
   "2": {
     "teilnehmer": [
-      2,
-      5
-    ]
-  },
-  "6": {
-    "konkurrenzen": [
-      18
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-14T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Montag, 14. September 2026 20:11 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-14T18:11:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1789409460000
-    ],
-    "halle": [
-      "Hans-Wilhelm-Renkhoff-Halle"
-    ],
-    "halleAdresse": [
-      "Am Sportzentrum 5, 97828 Marktheidenfeld"
-    ]
-  },
-  "8": {
-    "konkurrenzen": [
-      16
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 23:18 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-16T21:18:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1789593480000
-    ]
-  },
-  "14": {
-    "teilnehmer": [
-      38,
-      39
-    ],
-    "lastChangedHtml": [
-      "Sonntag, 27. September 2026 12:09 (GMT +02:00)",
-      "Montag, 28. September 2026 13:55 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-27T10:09:00.000Z",
-      "2026-09-28T11:55:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1790503740000,
-      1790596500000
+      5,
+      7
     ]
   },
   "_t": "a"
