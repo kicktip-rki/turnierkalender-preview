@@ -26,14 +26,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F37F62D4-BA45-4E65-AE8F-C534432E355B",
-    "teilnehmer": 99,
+    "teilnehmer": 104,
     "konkurrenzen": 20,
     "meldeschluss": "2026-09-22T23:59:00+02:00",
     "startTurnier": "2026-10-03T00:00:00+02:00",
     "endeTurnier": "2026-10-04T23:59:00+02:00",
-    "lastChangedHtml": "Dienstag, 29. September 2026 17:27 (GMT +02:00)",
-    "lastChangedIso": "2026-09-29T15:27:00.000Z",
-    "lastChangedUnix": 1790695620000,
+    "lastChangedHtml": "Donnerstag, 1. Oktober 2026 06:13 (GMT +02:00)",
+    "lastChangedIso": "2026-10-01T04:13:00.000Z",
+    "lastChangedUnix": 1790827980000,
     "halle": "Hans-Seufert-Halle",
     "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
   },
@@ -45,7 +45,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19",
-    "teilnehmer": 7,
+    "teilnehmer": 8,
     "konkurrenzen": 12,
     "meldeschluss": "2026-10-06T23:59:00+02:00",
     "startTurnier": "2026-10-17T00:00:00+02:00",
@@ -158,6 +158,15 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "Open",
     "url": "https://www.turnier.de/sport/tournament?id=D3A2626E-E349-4DCD-A569-1594D2F16D4E"
+  },
+  {
+    "id": "E8E28674-833A-494F-8615-17F5E1D9DE38",
+    "name": "Fränkische Bezirksmeisterschaften der Aktiven 2026",
+    "datum": "14.11.2026",
+    "ort": "Ansbach",
+    "veranstalter": "Bayerischer Badminton-Verband",
+    "altersklassen": "Open A, B, C",
+    "url": "https://www.turnier.de/sport/tournament?id=E8E28674-833A-494F-8615-17F5E1D9DE38"
   },
   {
     "id": "24F22008-AC0D-447A-B2AF-8E35C4C23F71",
