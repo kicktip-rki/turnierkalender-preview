@@ -1,80 +1,42 @@
 {
   "1": {
-    "teilnehmer": [
-      104,
-      99
-    ],
     "lastChangedHtml": [
-      "Donnerstag, 1. Oktober 2026 06:13 (GMT +02:00)",
-      "Donnerstag, 1. Oktober 2026 21:41 (GMT +02:00)"
+      "Donnerstag, 1. Oktober 2026 21:41 (GMT +02:00)",
+      "Freitag, 2. Oktober 2026 15:37 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-10-01T04:13:00.000Z",
-      "2026-10-01T19:41:00.000Z"
+      "2026-10-01T19:41:00.000Z",
+      "2026-10-02T13:37:00.000Z"
     ],
     "lastChangedUnix": [
-      1790827980000,
-      1790883660000
+      1790883660000,
+      1790948220000
     ]
   },
   "2": {
     "teilnehmer": [
-      8,
-      0,
-      0
+      13
     ],
     "konkurrenzen": [
-      12,
-      0,
-      0
+      12
     ],
     "meldeschluss": [
-      "2026-10-06T23:59:00+02:00",
-      0,
-      0
+      "2026-10-06T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-10-17T00:00:00+02:00",
-      0,
-      0
+      "2026-10-17T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-10-17T23:59:00+02:00",
-      0,
-      0
+      "2026-10-17T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Freitag, 18. September 2026 06:48 (GMT +02:00)",
-      0,
-      0
+      "Freitag, 18. September 2026 06:48 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-18T04:48:00.000Z",
-      0,
-      0
+      "2026-09-18T04:48:00.000Z"
     ],
     "lastChangedUnix": [
-      1789706880000,
-      0,
-      0
-    ]
-  },
-  "15": {
-    "teilnehmer": [
-      39,
-      43
-    ],
-    "lastChangedHtml": [
-      "Montag, 28. September 2026 13:55 (GMT +02:00)",
-      "Donnerstag, 1. Oktober 2026 16:38 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-09-28T11:55:00.000Z",
-      "2026-10-01T14:38:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1790596500000,
-      1790865480000
+      1789706880000
     ]
   },
   "_t": "a"

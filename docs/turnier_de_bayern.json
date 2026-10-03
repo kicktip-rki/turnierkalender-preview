@@ -31,9 +31,9 @@
     "meldeschluss": "2026-09-22T23:59:00+02:00",
     "startTurnier": "2026-10-03T00:00:00+02:00",
     "endeTurnier": "2026-10-04T23:59:00+02:00",
-    "lastChangedHtml": "Donnerstag, 1. Oktober 2026 21:41 (GMT +02:00)",
-    "lastChangedIso": "2026-10-01T19:41:00.000Z",
-    "lastChangedUnix": 1790883660000,
+    "lastChangedHtml": "Freitag, 2. Oktober 2026 15:37 (GMT +02:00)",
+    "lastChangedIso": "2026-10-02T13:37:00.000Z",
+    "lastChangedUnix": 1790948220000,
     "halle": "Hans-Seufert-Halle",
     "halleAdresse": "Am Schießhaus 2, 90530 Wendelstein (07-0101)"
   },
@@ -44,7 +44,15 @@
     "ort": "Regensburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19"
+    "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19",
+    "teilnehmer": 13,
+    "konkurrenzen": 12,
+    "meldeschluss": "2026-10-06T23:59:00+02:00",
+    "startTurnier": "2026-10-17T00:00:00+02:00",
+    "endeTurnier": "2026-10-17T23:59:00+02:00",
+    "lastChangedHtml": "Freitag, 18. September 2026 06:48 (GMT +02:00)",
+    "lastChangedIso": "2026-09-18T04:48:00.000Z",
+    "lastChangedUnix": 1789706880000
   },
   {
     "id": "4E2B6E35-C141-4571-85E4-200DAE0875B8",
