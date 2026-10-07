@@ -1,46 +1,56 @@
 {
   "0": {
-    "lastChangedHtml": [
-      "Sonntag, 4. Oktober 2026 22:23 (GMT +02:00)",
-      "Montag, 5. Oktober 2026 18:55 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-10-04T20:23:00.000Z",
-      "2026-10-05T16:55:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1791145380000,
-      1791219300000
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "U9, U11, U13, U15, U17, U19, Box Ladder, Box Ladder"
     ]
   },
   "1": {
     "teilnehmer": [
-      26,
-      30
-    ]
-  },
-  "4": {
-    "teilnehmer": [
-      5,
-      6
-    ]
-  },
-  "14": {
-    "teilnehmer": [
-      43,
-      47
+      30,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      12,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-10-06T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-10-17T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-10-17T23:59:00+02:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Donnerstag, 1. Oktober 2026 16:38 (GMT +02:00)",
-      "Montag, 5. Oktober 2026 15:06 (GMT +02:00)"
+      "Freitag, 18. September 2026 06:48 (GMT +02:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-10-01T14:38:00.000Z",
-      "2026-10-05T13:06:00.000Z"
+      "2026-09-18T04:48:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1790865480000,
-      1791205560000
+      1789706880000,
+      0,
+      0
+    ]
+  },
+  "7": {
+    "teilnehmer": [
+      2,
+      4
     ]
   },
   "_t": "a"
