@@ -25,7 +25,15 @@
     "ort": "Regensburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19"
+    "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19",
+    "teilnehmer": 133,
+    "konkurrenzen": 12,
+    "meldeschluss": "2026-10-06T23:59:00+02:00",
+    "startTurnier": "2026-10-17T00:00:00+02:00",
+    "endeTurnier": "2026-10-17T23:59:00+02:00",
+    "lastChangedHtml": "Mittwoch, 7. Oktober 2026 20:18 (GMT +02:00)",
+    "lastChangedIso": "2026-10-07T18:18:00.000Z",
+    "lastChangedUnix": 1791397080000
   },
   {
     "id": "4E2B6E35-C141-4571-85E4-200DAE0875B8",
@@ -203,14 +211,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "14+",
     "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
-    "teilnehmer": 47,
+    "teilnehmer": 51,
     "konkurrenzen": 10,
     "meldeschluss": "2026-11-29T23:59:00+01:00",
     "startTurnier": "2026-12-05T00:00:00+01:00",
     "endeTurnier": "2026-12-06T23:59:00+01:00",
-    "lastChangedHtml": "Montag, 5. Oktober 2026 15:06 (GMT +02:00)",
-    "lastChangedIso": "2026-10-05T13:06:00.000Z",
-    "lastChangedUnix": 1791205560000,
+    "lastChangedHtml": "Mittwoch, 7. Oktober 2026 20:44 (GMT +02:00)",
+    "lastChangedIso": "2026-10-07T18:44:00.000Z",
+    "lastChangedUnix": 1791398640000,
     "halle": "Halle des ESV Neuaubing",
     "halleAdresse": "Papinstraße 22, 81249 München"
   }

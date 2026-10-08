@@ -1,56 +1,46 @@
 {
-  "0": {
-    "altersklassen": [
-      "U9, U11, U13, U15, U17, U19",
-      "U9, U11, U13, U15, U17, U19, Box Ladder, Box Ladder"
-    ]
-  },
   "1": {
     "teilnehmer": [
-      30,
-      0,
-      0
+      133
     ],
     "konkurrenzen": [
-      12,
-      0,
-      0
+      12
     ],
     "meldeschluss": [
-      "2026-10-06T23:59:00+02:00",
-      0,
-      0
+      "2026-10-06T23:59:00+02:00"
     ],
     "startTurnier": [
-      "2026-10-17T00:00:00+02:00",
-      0,
-      0
+      "2026-10-17T00:00:00+02:00"
     ],
     "endeTurnier": [
-      "2026-10-17T23:59:00+02:00",
-      0,
-      0
+      "2026-10-17T23:59:00+02:00"
     ],
     "lastChangedHtml": [
-      "Freitag, 18. September 2026 06:48 (GMT +02:00)",
-      0,
-      0
+      "Mittwoch, 7. Oktober 2026 20:18 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-18T04:48:00.000Z",
-      0,
-      0
+      "2026-10-07T18:18:00.000Z"
     ],
     "lastChangedUnix": [
-      1789706880000,
-      0,
-      0
+      1791397080000
     ]
   },
-  "7": {
+  "14": {
     "teilnehmer": [
-      2,
-      4
+      47,
+      51
+    ],
+    "lastChangedHtml": [
+      "Montag, 5. Oktober 2026 15:06 (GMT +02:00)",
+      "Mittwoch, 7. Oktober 2026 20:44 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-10-05T13:06:00.000Z",
+      "2026-10-07T18:44:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1791205560000,
+      1791398640000
     ]
   },
   "_t": "a"
