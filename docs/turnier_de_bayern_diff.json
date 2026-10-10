@@ -1,1 +1,21 @@
-null
+{
+  "14": {
+    "teilnehmer": [
+      51,
+      52
+    ],
+    "lastChangedHtml": [
+      "Mittwoch, 7. Oktober 2026 20:44 (GMT +02:00)",
+      "Freitag, 9. Oktober 2026 14:16 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-10-07T18:44:00.000Z",
+      "2026-10-09T12:16:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1791398640000,
+      1791548160000
+    ]
+  },
+  "_t": "a"
+}
