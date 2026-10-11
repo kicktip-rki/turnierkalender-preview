@@ -20,29 +20,20 @@
   },
   {
     "id": "FF01ED4A-280E-49F5-BE19-A79850EC6C19",
-    "name": "4. BBV D-Rangliste U13-U19 Regensburg U13 - U19 2026",
+    "name": "4. BBV D-RLT U13-U19 Regensburg U13 - U19 2026",
     "datum": "17.10.2026",
     "ort": "Regensburg",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=FF01ED4A-280E-49F5-BE19-A79850EC6C19",
-    "teilnehmer": 133,
+    "teilnehmer": 135,
     "konkurrenzen": 12,
     "meldeschluss": "2026-10-06T23:59:00+02:00",
     "startTurnier": "2026-10-17T00:00:00+02:00",
     "endeTurnier": "2026-10-17T23:59:00+02:00",
-    "lastChangedHtml": "Mittwoch, 7. Oktober 2026 20:18 (GMT +02:00)",
-    "lastChangedIso": "2026-10-07T18:18:00.000Z",
-    "lastChangedUnix": 1791397080000
-  },
-  {
-    "id": "4E2B6E35-C141-4571-85E4-200DAE0875B8",
-    "name": "69. Bez-EM 2026 - Bez. Schwaben",
-    "datum": "17.10.2026",
-    "ort": "Diedorf",
-    "veranstalter": "Bayerischer Badminton-Verband",
-    "altersklassen": "Open A, Open",
-    "url": "https://www.turnier.de/sport/tournament?id=4E2B6E35-C141-4571-85E4-200DAE0875B8"
+    "lastChangedHtml": "Samstag, 10. Oktober 2026 12:23 (GMT +02:00)",
+    "lastChangedIso": "2026-10-10T10:23:00.000Z",
+    "lastChangedUnix": 1791627780000
   },
   {
     "id": "0CA6220B-9144-4817-A52D-A17B8788A1E0",
@@ -80,6 +71,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=7E98F819-F777-4AF7-9EFB-C067D141415B",
+    "teilnehmer": 1,
     "konkurrenzen": 18,
     "meldeschluss": "2026-11-03T23:59:00+01:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
@@ -101,7 +93,7 @@
   },
   {
     "id": "0A132EF2-D559-4047-BB57-EC9F50F083BB",
-    "name": "1. BBV C Rangliste  U11-U19 2026 Altenmarkt",
+    "name": "1. BBV C-RLT U11-U19 Altenmarkt 2026",
     "datum": "14.11.2026",
     "ort": "Altenmarkt",
     "veranstalter": "Bayerischer Badminton-Verband",
@@ -112,9 +104,9 @@
     "meldeschluss": "2026-11-03T23:59:00+01:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
     "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Mittwoch, 16. September 2026 23:18 (GMT +02:00)",
-    "lastChangedIso": "2026-09-16T21:18:00.000Z",
-    "lastChangedUnix": 1789593480000
+    "lastChangedHtml": "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)",
+    "lastChangedIso": "2026-10-10T09:05:00.000Z",
+    "lastChangedUnix": 1791623100000
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
@@ -124,6 +116,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785",
+    "teilnehmer": 1,
     "konkurrenzen": 20,
     "meldeschluss": "2026-11-03T23:59:00-12:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
@@ -170,7 +163,7 @@
   },
   {
     "id": "5B566C70-3949-4BEC-AF13-347327C76233",
-    "name": "2. BBV C Rangliste U11-U19 2026 Neusäß",
+    "name": "2. BBV C-RLT U11-U19 Neusäß 2026",
     "datum": "05.12.2026",
     "ort": "Neusäß",
     "veranstalter": "Bayerischer Badminton-Verband",
@@ -181,9 +174,9 @@
     "meldeschluss": "2026-11-24T23:59:00+01:00",
     "startTurnier": "2026-12-05T00:00:00+01:00",
     "endeTurnier": "2026-12-06T23:59:00+01:00",
-    "lastChangedHtml": "Mittwoch, 16. September 2026 23:21 (GMT +02:00)",
-    "lastChangedIso": "2026-09-16T21:21:00.000Z",
-    "lastChangedUnix": 1789593660000,
+    "lastChangedHtml": "Samstag, 10. Oktober 2026 11:07 (GMT +02:00)",
+    "lastChangedIso": "2026-10-10T09:07:00.000Z",
+    "lastChangedUnix": 1791623220000,
     "halle": "Eichenwaldhalle",
     "halleAdresse": "86356 Neusäß"
   },
