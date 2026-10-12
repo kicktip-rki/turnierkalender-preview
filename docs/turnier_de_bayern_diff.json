@@ -1,46 +1,137 @@
 {
-  "1": {
+  "0": {
+    "id": [
+      "F37F62D4-BA45-4E65-AE8F-C534432E355B",
+      "FF01ED4A-280E-49F5-BE19-A79850EC6C19"
+    ],
     "name": [
-      "4. BBV D-Rangliste U13-U19 Regensburg U13 - U19 2026",
+      "3. BBV E-RLT Mittelfranken U9-U19 2026",
       "4. BBV D-RLT U13-U19 Regensburg U13 - U19 2026"
     ],
+    "datum": [
+      "03.10.2026",
+      "17.10.2026"
+    ],
+    "ort": [
+      "Wendelstein (07-0101)",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19, Box Ladder, Box Ladder",
+      "U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -41,39 +41,39 @@\n id=F\n-37F62D4-BA45-4E65-AE8F-C534432E355B\n+F01ED4A-280E-49F5-BE19-A79850EC6C19\n",
+      0,
+      2
+    ],
     "teilnehmer": [
-      133,
+      98,
       135
     ],
+    "konkurrenzen": [
+      20,
+      12
+    ],
+    "meldeschluss": [
+      "2026-09-22T23:59:00+02:00",
+      "2026-10-06T23:59:00+02:00"
+    ],
+    "startTurnier": [
+      "2026-10-03T00:00:00+02:00",
+      "2026-10-17T00:00:00+02:00"
+    ],
+    "endeTurnier": [
+      "2026-10-04T23:59:00+02:00",
+      "2026-10-17T23:59:00+02:00"
+    ],
     "lastChangedHtml": [
-      "Mittwoch, 7. Oktober 2026 20:18 (GMT +02:00)",
+      "Montag, 5. Oktober 2026 18:55 (GMT +02:00)",
       "Samstag, 10. Oktober 2026 12:23 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-10-07T18:18:00.000Z",
+      "2026-10-05T16:55:00.000Z",
       "2026-10-10T10:23:00.000Z"
     ],
     "lastChangedUnix": [
-      1791397080000,
+      1791219300000,
       1791627780000
+    ],
+    "halle": [
+      "Hans-Seufert-Halle",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Am Schießhaus 2, 90530 Wendelstein (07-0101)",
+      0,
+      0
     ]
   },
-  "2": {
+  "1": {
     "id": [
-      "4E2B6E35-C141-4571-85E4-200DAE0875B8",
+      "FF01ED4A-280E-49F5-BE19-A79850EC6C19",
       "0CA6220B-9144-4817-A52D-A17B8788A1E0"
     ],
     "name": [
-      "69. Bez-EM 2026 - Bez. Schwaben",
+      "4. BBV D-RLT U13-U19 Regensburg U13 - U19 2026",
       "69. Bezirks-EM O19 Schwaben 2026"
     ],
+    "ort": [
+      "Regensburg",
+      "Diedorf"
+    ],
     "altersklassen": [
-      "Open A, Open",
+      "U13, U15, U17, U19",
       "Open A, B, C, J"
     ],
     "url": [
-      "@@ -40,40 +40,40 @@\n ?id=\n-4E2B6E35-C141-4571-85E4-200DAE0875B8\n+0CA6220B-9144-4817-A52D-A17B8788A1E0\n",
+      "@@ -40,40 +40,40 @@\n ?id=\n-FF01ED4A-280E-49F5-BE19-A79850EC6C19\n+0CA6220B-9144-4817-A52D-A17B8788A1E0\n",
       0,
       2
+    ],
+    "teilnehmer": [
+      135,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      12,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-10-06T23:59:00+02:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-10-17T00:00:00+02:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-10-17T23:59:00+02:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Samstag, 10. Oktober 2026 12:23 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-10-10T10:23:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1791627780000,
+      0,
+      0
     ]
   },
-  "3": {
+  "2": {
     "id": [
       "0CA6220B-9144-4817-A52D-A17B8788A1E0",
       "F7CC732F-E92B-450E-B24D-E16B3CD20171"
@@ -97,7 +188,7 @@
       "Lindenaststraße 66, 90409 Nürnberg (07-0157)"
     ]
   },
-  "4": {
+  "3": {
     "id": [
       "F7CC732F-E92B-450E-B24D-E16B3CD20171",
       "7E98F819-F777-4AF7-9EFB-C067D141415B"
@@ -121,7 +212,7 @@
     ],
     "teilnehmer": [
       6,
-      1
+      2
     ],
     "konkurrenzen": [
       20,
@@ -160,7 +251,7 @@
       "Am Sportzentrum 5, 97828 Marktheidenfeld"
     ]
   },
-  "5": {
+  "4": {
     "id": [
       "7E98F819-F777-4AF7-9EFB-C067D141415B",
       "1FA3828B-E1ED-46C6-BF38-06095C749B56"
@@ -185,6 +276,11 @@
       "@@ -40,40 +40,40 @@\n ?id=\n-7E98F819-F777-4AF7-9EFB-C067D141415B\n+1FA3828B-E1ED-46C6-BF38-06095C749B56\n",
       0,
       2
+    ],
+    "teilnehmer": [
+      1,
+      0,
+      0
     ],
     "konkurrenzen": [
       18,
@@ -232,7 +328,7 @@
       0
     ]
   },
-  "6": {
+  "5": {
     "id": [
       "1FA3828B-E1ED-46C6-BF38-06095C749B56",
       "0A132EF2-D559-4047-BB57-EC9F50F083BB"
@@ -259,7 +355,7 @@
       2
     ],
     "teilnehmer": [
-      4
+      5
     ],
     "konkurrenzen": [
       16
@@ -283,13 +379,13 @@
       1791623100000
     ]
   },
-  "7": {
+  "6": {
     "id": [
       "0A132EF2-D559-4047-BB57-EC9F50F083BB",
       "F93EA62D-0E06-4C76-9B65-AEDE1547A785"
     ],
     "name": [
-      "1. BBV C Rangliste  U11-U19 2026 Altenmarkt",
+      "1. BBV C-RLT U11-U19 Altenmarkt 2026",
       "3.BBV  E RL Schwaben U9-U19 2026 Königsbrunn"
     ],
     "ort": [
@@ -318,19 +414,19 @@
       "2026-11-03T23:59:00-12:00"
     ],
     "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 23:18 (GMT +02:00)",
+      "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)",
       "Mittwoch, 16. September 2026 09:21 (GMT -12:00)"
     ],
     "lastChangedIso": [
-      "2026-09-16T21:18:00.000Z",
+      "2026-10-10T09:05:00.000Z",
       "2026-09-16T21:21:00.000Z"
     ],
     "lastChangedUnix": [
-      1789593480000,
+      1791623100000,
       1789593660000
     ]
   },
-  "8": {
+  "7": {
     "id": [
       "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
       "D3A2626E-E349-4DCD-A569-1594D2F16D4E"
@@ -351,6 +447,11 @@
       "@@ -40,40 +40,40 @@\n ?id=\n-F93EA62D-0E06-4C76-9B65-AEDE1547A785\n+D3A2626E-E349-4DCD-A569-1594D2F16D4E\n",
       0,
       2
+    ],
+    "teilnehmer": [
+      1,
+      0,
+      0
     ],
     "konkurrenzen": [
       20,
@@ -388,7 +489,7 @@
       0
     ]
   },
-  "9": {
+  "8": {
     "id": [
       "D3A2626E-E349-4DCD-A569-1594D2F16D4E",
       "E8E28674-833A-494F-8615-17F5E1D9DE38"
@@ -411,7 +512,7 @@
       2
     ]
   },
-  "10": {
+  "9": {
     "id": [
       "E8E28674-833A-494F-8615-17F5E1D9DE38",
       "24F22008-AC0D-447A-B2AF-8E35C4C23F71"
@@ -465,7 +566,7 @@
       "Ruhalmstraße 5, 91301 Forchheim"
     ]
   },
-  "11": {
+  "10": {
     "id": [
       "24F22008-AC0D-447A-B2AF-8E35C4C23F71",
       "5B566C70-3949-4BEC-AF13-347327C76233"
@@ -515,13 +616,13 @@
       3
     ]
   },
-  "12": {
+  "11": {
     "id": [
       "5B566C70-3949-4BEC-AF13-347327C76233",
       "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
     ],
     "name": [
-      "2. BBV C Rangliste U11-U19 2026 Neusäß",
+      "2. BBV C-RLT U11-U19 Neusäß 2026",
       "Platzhalter 3. E-RLT Niederbayern"
     ],
     "ort": [
@@ -547,16 +648,16 @@
       28
     ],
     "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 23:21 (GMT +02:00)",
+      "Samstag, 10. Oktober 2026 11:07 (GMT +02:00)",
       "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-16T21:21:00.000Z",
+      "2026-10-10T09:07:00.000Z",
       0,
       0
     ],
     "lastChangedUnix": [
-      1789593660000,
+      1791623220000,
       0,
       0
     ],
@@ -569,7 +670,7 @@
       "Isarstraße 24, 93057 Regensburg"
     ]
   },
-  "13": {
+  "12": {
     "id": [
       "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
       "953E3CEC-98F4-4B7B-9DE1-5214E635A396"
@@ -622,7 +723,7 @@
     ]
   },
   "_t": "a",
-  "_14": [
+  "_13": [
     {
       "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
       "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
