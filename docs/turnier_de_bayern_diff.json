@@ -1,1 +1,165 @@
-null
+{
+  "0": {
+    "lastChangedHtml": [
+      "Samstag, 10. Oktober 2026 12:23 (GMT +02:00)",
+      "Donnerstag, 15. Oktober 2026 22:14 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-10-10T10:23:00.000Z",
+      "2026-10-15T20:14:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1791627780000,
+      1792095240000
+    ]
+  },
+  "11": {
+    "id": [
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106",
+      "5E0280A7-9638-4CA4-B45A-E7F7691D8A52"
+    ],
+    "name": [
+      "Platzhalter 3. E-RLT Niederbayern",
+      "C&D-RLT E/D/M BBV-Victor-Meisterschaft der Aktiven (O19) 2026"
+    ],
+    "altersklassen": [
+      "U9, U11, U13, U15, U17, U19",
+      "14+ A, B, 13+ B"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-8FBCE004-8A8A-4D84-B88B-64C6680A6106\n+5E0280A7-9638-4CA4-B45A-E7F7691D8A52\n",
+      0,
+      2
+    ],
+    "konkurrenzen": [
+      28,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-24T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-12-05T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-12-06T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      0,
+      0
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      0,
+      0
+    ]
+  },
+  "12": {
+    "id": [
+      "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "8FBCE004-8A8A-4D84-B88B-64C6680A6106"
+    ],
+    "name": [
+      "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "Platzhalter 3. E-RLT Niederbayern"
+    ],
+    "ort": [
+      "München",
+      "Regensburg"
+    ],
+    "altersklassen": [
+      "14+",
+      "U9, U11, U13, U15, U17, U19"
+    ],
+    "url": [
+      "@@ -40,40 +40,40 @@\n ?id=\n-953E3CEC-98F4-4B7B-9DE1-5214E635A39\n+8FBCE004-8A8A-4D84-B88B-64C6680A610\n 6\n",
+      0,
+      2
+    ],
+    "teilnehmer": [
+      60,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      10,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-29T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-12-05T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-12-06T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Dienstag, 13. Oktober 2026 19:38 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-10-13T17:38:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1791913080000,
+      0,
+      0
+    ],
+    "halle": [
+      "Halle des ESV Neuaubing",
+      0,
+      0
+    ],
+    "halleAdresse": [
+      "Papinstraße 22, 81249 München",
+      0,
+      0
+    ]
+  },
+  "13": [
+    {
+      "id": "953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "name": "E-RLT HD/DD/HE/DE/MXD (8. Nikolausturnier BBV ESV Neuaubing) 2026",
+      "datum": "05.12.2026",
+      "ort": "München",
+      "veranstalter": "Bayerischer Badminton-Verband",
+      "altersklassen": "14+",
+      "url": "https://www.turnier.de/sport/tournament?id=953E3CEC-98F4-4B7B-9DE1-5214E635A396",
+      "teilnehmer": 60,
+      "konkurrenzen": 10,
+      "meldeschluss": "2026-11-29T23:59:00+01:00",
+      "startTurnier": "2026-12-05T00:00:00+01:00",
+      "endeTurnier": "2026-12-06T23:59:00+01:00",
+      "lastChangedHtml": "Dienstag, 13. Oktober 2026 19:38 (GMT +02:00)",
+      "lastChangedIso": "2026-10-13T17:38:00.000Z",
+      "lastChangedUnix": 1791913080000,
+      "halle": "Halle des ESV Neuaubing",
+      "halleAdresse": "Papinstraße 22, 81249 München"
+    }
+  ],
+  "_t": "a"
+}
