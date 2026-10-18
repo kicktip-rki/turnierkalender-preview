@@ -1,61 +1,60 @@
 {
   "0": {
+    "altersklassen": [
+      "U13, U15, U17, U19",
+      "U13, U15, U17, U19, Box Ladder"
+    ],
     "teilnehmer": [
-      135,
-      134
+      134,
+      132
     ],
     "lastChangedHtml": [
-      "Donnerstag, 15. Oktober 2026 22:14 (GMT +02:00)",
-      "Freitag, 16. Oktober 2026 18:18 (GMT +02:00)"
+      "Freitag, 16. Oktober 2026 18:18 (GMT +02:00)",
+      "Samstag, 17. Oktober 2026 18:46 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-10-15T20:14:00.000Z",
-      "2026-10-16T16:18:00.000Z"
+      "2026-10-16T16:18:00.000Z",
+      "2026-10-17T16:46:00.000Z"
     ],
     "lastChangedUnix": [
-      1792095240000,
-      1792167480000
+      1792167480000,
+      1792255560000
     ]
   },
-  "3": {
+  "2": {
     "teilnehmer": [
-      2,
-      21
+      7,
+      8
+    ]
+  },
+  "5": {
+    "teilnehmer": [
+      9,
+      10
+    ]
+  },
+  "6": {
+    "teilnehmer": [
+      1,
+      2
+    ]
+  },
+  "13": {
+    "teilnehmer": [
+      60,
+      62
     ],
     "lastChangedHtml": [
-      "Montag, 14. September 2026 20:11 (GMT +02:00)",
-      "Freitag, 16. Oktober 2026 07:54 (GMT +02:00)"
+      "Dienstag, 13. Oktober 2026 19:38 (GMT +02:00)",
+      "Samstag, 17. Oktober 2026 16:52 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-14T18:11:00.000Z",
-      "2026-10-16T05:54:00.000Z"
+      "2026-10-13T17:38:00.000Z",
+      "2026-10-17T14:52:00.000Z"
     ],
     "lastChangedUnix": [
-      1789409460000,
-      1792130040000
-    ]
-  },
-  "12": {
-    "konkurrenzen": [
-      28
-    ],
-    "meldeschluss": [
-      "2026-11-24T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-12-05T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-12-06T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)"
-    ],
-    "halle": [
-      "Städtische Sporthalle Nord"
-    ],
-    "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg"
+      1791913080000,
+      1792248720000
     ]
   },
   "_t": "a"
