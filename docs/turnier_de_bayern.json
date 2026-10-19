@@ -52,14 +52,14 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=7E98F819-F777-4AF7-9EFB-C067D141415B",
-    "teilnehmer": 21,
+    "teilnehmer": 22,
     "konkurrenzen": 18,
     "meldeschluss": "2026-11-03T23:59:00+01:00",
     "startTurnier": "2026-11-14T00:00:00+01:00",
     "endeTurnier": "2026-11-14T23:59:00+01:00",
-    "lastChangedHtml": "Freitag, 16. Oktober 2026 07:54 (GMT +02:00)",
-    "lastChangedIso": "2026-10-16T05:54:00.000Z",
-    "lastChangedUnix": 1792130040000,
+    "lastChangedHtml": "Sonntag, 18. Oktober 2026 13:57 (GMT +02:00)",
+    "lastChangedIso": "2026-10-18T11:57:00.000Z",
+    "lastChangedUnix": 1792324620000,
     "halle": "Hans-Wilhelm-Renkhoff-Halle",
     "halleAdresse": "Am Sportzentrum 5, 97828 Marktheidenfeld"
   },
@@ -79,15 +79,7 @@
     "ort": "Altenmarkt",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB",
-    "teilnehmer": 10,
-    "konkurrenzen": 16,
-    "meldeschluss": "2026-11-03T23:59:00+01:00",
-    "startTurnier": "2026-11-14T00:00:00+01:00",
-    "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)",
-    "lastChangedIso": "2026-10-10T09:05:00.000Z",
-    "lastChangedUnix": 1791623100000
+    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB"
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
@@ -96,15 +88,7 @@
     "ort": "Königsbrunn",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785",
-    "teilnehmer": 2,
-    "konkurrenzen": 20,
-    "meldeschluss": "2026-11-03T23:59:00-12:00",
-    "startTurnier": "2026-11-14T00:00:00+01:00",
-    "endeTurnier": "2026-11-15T23:59:00+01:00",
-    "lastChangedHtml": "Mittwoch, 16. September 2026 09:21 (GMT -12:00)",
-    "lastChangedIso": "2026-09-16T21:21:00.000Z",
-    "lastChangedUnix": 1789593660000
+    "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785"
   },
   {
     "id": "D3A2626E-E349-4DCD-A569-1594D2F16D4E",

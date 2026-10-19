@@ -1,60 +1,104 @@
 {
-  "0": {
-    "altersklassen": [
-      "U13, U15, U17, U19",
-      "U13, U15, U17, U19, Box Ladder"
-    ],
+  "3": {
     "teilnehmer": [
-      134,
-      132
+      21,
+      22
     ],
     "lastChangedHtml": [
-      "Freitag, 16. Oktober 2026 18:18 (GMT +02:00)",
-      "Samstag, 17. Oktober 2026 18:46 (GMT +02:00)"
+      "Freitag, 16. Oktober 2026 07:54 (GMT +02:00)",
+      "Sonntag, 18. Oktober 2026 13:57 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-10-16T16:18:00.000Z",
-      "2026-10-17T16:46:00.000Z"
+      "2026-10-16T05:54:00.000Z",
+      "2026-10-18T11:57:00.000Z"
     ],
     "lastChangedUnix": [
-      1792167480000,
-      1792255560000
-    ]
-  },
-  "2": {
-    "teilnehmer": [
-      7,
-      8
+      1792130040000,
+      1792324620000
     ]
   },
   "5": {
     "teilnehmer": [
-      9,
-      10
+      10,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      16,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-03T23:59:00+01:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-11-14T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-11-15T23:59:00+01:00",
+      0,
+      0
+    ],
+    "lastChangedHtml": [
+      "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)",
+      0,
+      0
+    ],
+    "lastChangedIso": [
+      "2026-10-10T09:05:00.000Z",
+      0,
+      0
+    ],
+    "lastChangedUnix": [
+      1791623100000,
+      0,
+      0
     ]
   },
   "6": {
     "teilnehmer": [
-      1,
-      2
-    ]
-  },
-  "13": {
-    "teilnehmer": [
-      60,
-      62
+      2,
+      0,
+      0
+    ],
+    "konkurrenzen": [
+      20,
+      0,
+      0
+    ],
+    "meldeschluss": [
+      "2026-11-03T23:59:00-12:00",
+      0,
+      0
+    ],
+    "startTurnier": [
+      "2026-11-14T00:00:00+01:00",
+      0,
+      0
+    ],
+    "endeTurnier": [
+      "2026-11-15T23:59:00+01:00",
+      0,
+      0
     ],
     "lastChangedHtml": [
-      "Dienstag, 13. Oktober 2026 19:38 (GMT +02:00)",
-      "Samstag, 17. Oktober 2026 16:52 (GMT +02:00)"
+      "Mittwoch, 16. September 2026 09:21 (GMT -12:00)",
+      0,
+      0
     ],
     "lastChangedIso": [
-      "2026-10-13T17:38:00.000Z",
-      "2026-10-17T14:52:00.000Z"
+      "2026-09-16T21:21:00.000Z",
+      0,
+      0
     ],
     "lastChangedUnix": [
-      1791913080000,
-      1792248720000
+      1789593660000,
+      0,
+      0
     ]
   },
   "_t": "a"
