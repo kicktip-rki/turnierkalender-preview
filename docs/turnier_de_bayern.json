@@ -12,13 +12,13 @@
     "meldeschluss": "2026-10-06T23:59:00+02:00",
     "startTurnier": "2026-10-17T00:00:00+02:00",
     "endeTurnier": "2026-10-17T23:59:00+02:00",
-    "lastChangedHtml": "Samstag, 17. Oktober 2026 18:46 (GMT +02:00)",
-    "lastChangedIso": "2026-10-17T16:46:00.000Z",
-    "lastChangedUnix": 1792255560000
+    "lastChangedHtml": "Dienstag, 20. Oktober 2026 06:24 (GMT +02:00)",
+    "lastChangedIso": "2026-10-20T04:24:00.000Z",
+    "lastChangedUnix": 1792470240000
   },
   {
     "id": "0CA6220B-9144-4817-A52D-A17B8788A1E0",
-    "name": "69. Bezirks-EM O19 Schwaben 2026",
+    "name": "69. Bezirks-EM O19 BBV-Schwaben 2026",
     "datum": "17.10.2026",
     "ort": "Diedorf",
     "veranstalter": "Bayerischer Badminton-Verband",
@@ -33,7 +33,7 @@
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
     "url": "https://www.turnier.de/sport/tournament?id=F7CC732F-E92B-450E-B24D-E16B3CD20171",
-    "teilnehmer": 8,
+    "teilnehmer": 9,
     "konkurrenzen": 20,
     "meldeschluss": "2026-10-27T23:59:00+01:00",
     "startTurnier": "2026-11-07T00:00:00+01:00",
@@ -79,7 +79,15 @@
     "ort": "Altenmarkt",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB"
+    "url": "https://www.turnier.de/sport/tournament?id=0A132EF2-D559-4047-BB57-EC9F50F083BB",
+    "teilnehmer": 12,
+    "konkurrenzen": 16,
+    "meldeschluss": "2026-11-03T23:59:00+01:00",
+    "startTurnier": "2026-11-14T00:00:00+01:00",
+    "endeTurnier": "2026-11-15T23:59:00+01:00",
+    "lastChangedHtml": "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)",
+    "lastChangedIso": "2026-10-10T09:05:00.000Z",
+    "lastChangedUnix": 1791623100000
   },
   {
     "id": "F93EA62D-0E06-4C76-9B65-AEDE1547A785",
@@ -88,7 +96,15 @@
     "ort": "Königsbrunn",
     "veranstalter": "Bayerischer Badminton-Verband",
     "altersklassen": "U9, U11, U13, U15, U17, U19",
-    "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785"
+    "url": "https://www.turnier.de/sport/tournament?id=F93EA62D-0E06-4C76-9B65-AEDE1547A785",
+    "teilnehmer": 2,
+    "konkurrenzen": 20,
+    "meldeschluss": "2026-11-03T23:59:00-12:00",
+    "startTurnier": "2026-11-14T00:00:00+01:00",
+    "endeTurnier": "2026-11-15T23:59:00+01:00",
+    "lastChangedHtml": "Mittwoch, 16. September 2026 09:21 (GMT -12:00)",
+    "lastChangedIso": "2026-09-16T21:21:00.000Z",
+    "lastChangedUnix": 1789593660000
   },
   {
     "id": "D3A2626E-E349-4DCD-A569-1594D2F16D4E",
