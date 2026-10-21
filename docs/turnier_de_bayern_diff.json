@@ -1,80 +1,44 @@
 {
-  "0": {
-    "lastChangedHtml": [
-      "Samstag, 17. Oktober 2026 18:46 (GMT +02:00)",
-      "Dienstag, 20. Oktober 2026 06:24 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-10-17T16:46:00.000Z",
-      "2026-10-20T04:24:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1792255560000,
-      1792470240000
-    ]
-  },
-  "1": {
-    "name": [
-      "69. Bezirks-EM O19 Schwaben 2026",
-      "69. Bezirks-EM O19 BBV-Schwaben 2026"
-    ]
-  },
   "2": {
     "teilnehmer": [
-      8,
-      9
+      9,
+      10
     ]
   },
   "5": {
     "teilnehmer": [
-      12
-    ],
-    "konkurrenzen": [
-      16
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00+01:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
-    ],
-    "lastChangedHtml": [
-      "Samstag, 10. Oktober 2026 11:05 (GMT +02:00)"
-    ],
-    "lastChangedIso": [
-      "2026-10-10T09:05:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1791623100000
+      12,
+      13
     ]
   },
   "6": {
     "teilnehmer": [
-      2
-    ],
-    "konkurrenzen": [
-      20
-    ],
-    "meldeschluss": [
-      "2026-11-03T23:59:00-12:00"
-    ],
-    "startTurnier": [
-      "2026-11-14T00:00:00+01:00"
-    ],
-    "endeTurnier": [
-      "2026-11-15T23:59:00+01:00"
+      2,
+      4
+    ]
+  },
+  "10": {
+    "teilnehmer": [
+      5,
+      7
+    ]
+  },
+  "13": {
+    "teilnehmer": [
+      62,
+      69
     ],
     "lastChangedHtml": [
-      "Mittwoch, 16. September 2026 09:21 (GMT -12:00)"
+      "Samstag, 17. Oktober 2026 16:52 (GMT +02:00)",
+      "Dienstag, 20. Oktober 2026 16:10 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-09-16T21:21:00.000Z"
+      "2026-10-17T14:52:00.000Z",
+      "2026-10-20T14:10:00.000Z"
     ],
     "lastChangedUnix": [
-      1789593660000
+      1792248720000,
+      1792505400000
     ]
   },
   "_t": "a"
