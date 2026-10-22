@@ -1,44 +1,62 @@
 {
-  "2": {
+  "1": {
+    "altersklassen": [
+      "Open A, B, C, J",
+      "Open C, J, D1-BM, Open A, E-KM, Open B"
+    ]
+  },
+  "3": {
     "teilnehmer": [
-      9,
-      10
+      22,
+      26
+    ],
+    "lastChangedHtml": [
+      "Sonntag, 18. Oktober 2026 13:57 (GMT +02:00)",
+      "Mittwoch, 21. Oktober 2026 18:58 (GMT +02:00)"
+    ],
+    "lastChangedIso": [
+      "2026-10-18T11:57:00.000Z",
+      "2026-10-21T16:58:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1792324620000,
+      1792601880000
     ]
   },
   "5": {
     "teilnehmer": [
-      12,
-      13
+      13,
+      16
     ]
   },
   "6": {
     "teilnehmer": [
-      2,
-      4
+      4,
+      5
     ]
   },
   "10": {
     "teilnehmer": [
-      5,
-      7
+      7,
+      8
     ]
   },
   "13": {
     "teilnehmer": [
-      62,
-      69
+      69,
+      77
     ],
     "lastChangedHtml": [
-      "Samstag, 17. Oktober 2026 16:52 (GMT +02:00)",
-      "Dienstag, 20. Oktober 2026 16:10 (GMT +02:00)"
+      "Dienstag, 20. Oktober 2026 16:10 (GMT +02:00)",
+      "Mittwoch, 21. Oktober 2026 14:21 (GMT +02:00)"
     ],
     "lastChangedIso": [
-      "2026-10-17T14:52:00.000Z",
-      "2026-10-20T14:10:00.000Z"
+      "2026-10-20T14:10:00.000Z",
+      "2026-10-21T12:21:00.000Z"
     ],
     "lastChangedUnix": [
-      1792248720000,
-      1792505400000
+      1792505400000,
+      1792585260000
     ]
   },
   "_t": "a"
