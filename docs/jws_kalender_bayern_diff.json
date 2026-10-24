@@ -1,1 +1,51 @@
-null
+{
+  "0": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44606"
+    ]
+  },
+  "1": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44627"
+    ]
+  },
+  "2": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44615"
+    ]
+  },
+  "3": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44643"
+    ]
+  },
+  "4": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44646"
+    ]
+  },
+  "5": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44616"
+    ]
+  },
+  "6": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44638"
+    ]
+  },
+  "7": {
+    "turniereUrl": [
+      "",
+      "https://turniere.badminton.de/downloadIcs/44653"
+    ]
+  },
+  "_t": "a"
+}
