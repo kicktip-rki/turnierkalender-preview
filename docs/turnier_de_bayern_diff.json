@@ -1,56 +1,72 @@
 {
   "0": {
     "teilnehmer": [
-      15,
-      18
+      18,
+      126
+    ],
+    "lastChangedHtml": [
+      "Montag, 31. August 2026 18:33 (GMT +02:00)",
+      "Mittwoch, 28. Oktober 2026 00:39 (GMT +01:00)"
+    ],
+    "lastChangedIso": [
+      "2026-08-31T16:33:00.000Z",
+      "2026-10-27T23:39:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1788193980000,
+      1793144340000
     ]
   },
   "1": {
     "teilnehmer": [
-      30,
-      34
+      34,
+      38
     ],
     "lastChangedHtml": [
-      "Sonntag, 25. Oktober 2026 16:54 (GMT +01:00)",
-      "Montag, 26. Oktober 2026 19:34 (GMT +01:00)"
+      "Montag, 26. Oktober 2026 19:34 (GMT +01:00)",
+      "Dienstag, 27. Oktober 2026 20:10 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-10-25T15:54:00.000Z",
-      "2026-10-26T18:34:00.000Z"
+      "2026-10-26T18:34:00.000Z",
+      "2026-10-27T19:10:00.000Z"
     ],
     "lastChangedUnix": [
-      1792943640000,
-      1793039640000
+      1793039640000,
+      1793128200000
     ]
   },
   "3": {
     "teilnehmer": [
-      22,
-      24
+      24,
+      25
     ]
   },
-  "4": {
-    "teilnehmer": [
-      11,
-      12
-    ]
-  },
-  "11": {
-    "teilnehmer": [
-      83,
-      88
+  "10": {
+    "name": [
+      "Platzhalter 3. E-RLT Niederbayern",
+      "3. BBV E-RLT Niederbayern-Oberpfalz U9-U19 Landshut 2026"
+    ],
+    "ort": [
+      "Regensburg",
+      "Landshut"
     ],
     "lastChangedHtml": [
-      "Freitag, 23. Oktober 2026 14:38 (GMT +02:00)",
-      "Montag, 26. Oktober 2026 12:20 (GMT +01:00)"
+      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
+      "Dienstag, 27. Oktober 2026 11:17 (GMT +01:00)"
+    ],
+    "halle": [
+      "Städtische Sporthalle Nord",
+      "Turnhalle des Hans-Carossa-Gymnasiums"
+    ],
+    "halleAdresse": [
+      "Isarstraße 24, 93057 Regensburg",
+      "Loretoweg, 84028 Landshut"
     ],
     "lastChangedIso": [
-      "2026-10-23T12:38:00.000Z",
-      "2026-10-26T11:20:00.000Z"
+      "2026-10-27T10:17:00.000Z"
     ],
     "lastChangedUnix": [
-      1792759080000,
-      1793013600000
+      1793096220000
     ]
   },
   "_t": "a"
