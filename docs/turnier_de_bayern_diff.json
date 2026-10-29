@@ -1,72 +1,80 @@
 {
   "0": {
     "teilnehmer": [
-      18,
-      126
+      126,
+      130
     ],
     "lastChangedHtml": [
-      "Montag, 31. August 2026 18:33 (GMT +02:00)",
-      "Mittwoch, 28. Oktober 2026 00:39 (GMT +01:00)"
+      "Mittwoch, 28. Oktober 2026 00:39 (GMT +01:00)",
+      "Mittwoch, 28. Oktober 2026 18:33 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-08-31T16:33:00.000Z",
-      "2026-10-27T23:39:00.000Z"
+      "2026-10-27T23:39:00.000Z",
+      "2026-10-28T17:33:00.000Z"
     ],
     "lastChangedUnix": [
-      1788193980000,
-      1793144340000
+      1793144340000,
+      1793208780000
     ]
   },
   "1": {
     "teilnehmer": [
-      34,
-      38
+      38,
+      43
     ],
     "lastChangedHtml": [
-      "Montag, 26. Oktober 2026 19:34 (GMT +01:00)",
-      "Dienstag, 27. Oktober 2026 20:10 (GMT +01:00)"
+      "Dienstag, 27. Oktober 2026 20:10 (GMT +01:00)",
+      "Mittwoch, 28. Oktober 2026 20:01 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-10-26T18:34:00.000Z",
-      "2026-10-27T19:10:00.000Z"
+      "2026-10-27T19:10:00.000Z",
+      "2026-10-28T19:01:00.000Z"
     ],
     "lastChangedUnix": [
-      1793039640000,
-      1793128200000
+      1793128200000,
+      1793214060000
     ]
   },
-  "3": {
+  "4": {
     "teilnehmer": [
-      24,
-      25
+      12,
+      14
     ]
   },
   "10": {
-    "name": [
-      "Platzhalter 3. E-RLT Niederbayern",
-      "3. BBV E-RLT Niederbayern-Oberpfalz U9-U19 Landshut 2026"
-    ],
-    "ort": [
-      "Regensburg",
-      "Landshut"
+    "konkurrenzen": [
+      28,
+      20
     ],
     "lastChangedHtml": [
-      "Sonntag, 29. März 2026 11:40 (GMT +02:00)",
-      "Dienstag, 27. Oktober 2026 11:17 (GMT +01:00)"
-    ],
-    "halle": [
-      "Städtische Sporthalle Nord",
-      "Turnhalle des Hans-Carossa-Gymnasiums"
-    ],
-    "halleAdresse": [
-      "Isarstraße 24, 93057 Regensburg",
-      "Loretoweg, 84028 Landshut"
+      "Dienstag, 27. Oktober 2026 11:17 (GMT +01:00)",
+      "Mittwoch, 28. Oktober 2026 10:50 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-10-27T10:17:00.000Z"
+      "2026-10-27T10:17:00.000Z",
+      "2026-10-28T09:50:00.000Z"
     ],
     "lastChangedUnix": [
-      1793096220000
+      1793096220000,
+      1793181000000
+    ]
+  },
+  "11": {
+    "teilnehmer": [
+      88,
+      89
+    ],
+    "lastChangedHtml": [
+      "Montag, 26. Oktober 2026 12:20 (GMT +01:00)",
+      "Mittwoch, 28. Oktober 2026 20:04 (GMT +01:00)"
+    ],
+    "lastChangedIso": [
+      "2026-10-26T11:20:00.000Z",
+      "2026-10-28T19:04:00.000Z"
+    ],
+    "lastChangedUnix": [
+      1793013600000,
+      1793214240000
     ]
   },
   "_t": "a"
