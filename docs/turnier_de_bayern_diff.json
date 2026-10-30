@@ -1,80 +1,45 @@
 {
   "0": {
-    "teilnehmer": [
-      126,
-      130
-    ],
     "lastChangedHtml": [
-      "Mittwoch, 28. Oktober 2026 00:39 (GMT +01:00)",
-      "Mittwoch, 28. Oktober 2026 18:33 (GMT +01:00)"
+      "Mittwoch, 28. Oktober 2026 18:33 (GMT +01:00)",
+      "Donnerstag, 29. Oktober 2026 22:19 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-10-27T23:39:00.000Z",
-      "2026-10-28T17:33:00.000Z"
+      "2026-10-28T17:33:00.000Z",
+      "2026-10-29T21:19:00.000Z"
     ],
     "lastChangedUnix": [
-      1793144340000,
-      1793208780000
+      1793208780000,
+      1793308740000
     ]
   },
   "1": {
     "teilnehmer": [
-      38,
-      43
+      43,
+      49
     ],
     "lastChangedHtml": [
-      "Dienstag, 27. Oktober 2026 20:10 (GMT +01:00)",
-      "Mittwoch, 28. Oktober 2026 20:01 (GMT +01:00)"
+      "Mittwoch, 28. Oktober 2026 20:01 (GMT +01:00)",
+      "Donnerstag, 29. Oktober 2026 10:47 (GMT +01:00)"
     ],
     "lastChangedIso": [
-      "2026-10-27T19:10:00.000Z",
-      "2026-10-28T19:01:00.000Z"
+      "2026-10-28T19:01:00.000Z",
+      "2026-10-29T09:47:00.000Z"
     ],
     "lastChangedUnix": [
-      1793128200000,
-      1793214060000
+      1793214060000,
+      1793267220000
     ]
   },
   "4": {
     "teilnehmer": [
-      12,
-      14
+      14,
+      19
     ]
   },
-  "10": {
-    "konkurrenzen": [
-      28,
-      20
-    ],
-    "lastChangedHtml": [
-      "Dienstag, 27. Oktober 2026 11:17 (GMT +01:00)",
-      "Mittwoch, 28. Oktober 2026 10:50 (GMT +01:00)"
-    ],
-    "lastChangedIso": [
-      "2026-10-27T10:17:00.000Z",
-      "2026-10-28T09:50:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1793096220000,
-      1793181000000
-    ]
-  },
-  "11": {
+  "7": {
     "teilnehmer": [
-      88,
-      89
-    ],
-    "lastChangedHtml": [
-      "Montag, 26. Oktober 2026 12:20 (GMT +01:00)",
-      "Mittwoch, 28. Oktober 2026 20:04 (GMT +01:00)"
-    ],
-    "lastChangedIso": [
-      "2026-10-26T11:20:00.000Z",
-      "2026-10-28T19:04:00.000Z"
-    ],
-    "lastChangedUnix": [
-      1793013600000,
-      1793214240000
+      1
     ]
   },
   "_t": "a"
